@@ -12,9 +12,9 @@ Google Scholar page: [link](https://scholar.google.com/citations?user=x_S_UmwAAA
 
 Links:
 
-    * A research and writing guide for students writing a term paper, a research proposal, or a master's thesis: [link](guide.html)
-    * Read this first when you want me to write a letter of recommendation: [link](recommendation.html)
-    * My interests other than economics: [link](about-me.html)
-    * Great books on economics and statistics: [link](book-recommendations.html)
+* A research and writing guide for students writing a term paper, a research proposal, or a master's thesis: [link](guide.html)
+* Read this first when you want me to write a letter of recommendation: [link](recommendation.html)
+* My interests other than economics: [link](about-me.html)
+* Great books on economics and statistics: [link](book-recommendations.html)
 
 *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant  |  Horace
