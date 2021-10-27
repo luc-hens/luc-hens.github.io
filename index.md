@@ -15,4 +15,4 @@ My research interests include international trade, economic integration, growth 
 * **Books**: some book recommendations (economics and statistics) ([link](book-recommendations.html))
 * **About me**: my interests other than economics ([link](about-me.html))
 
-*Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
+> *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
