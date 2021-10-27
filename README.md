@@ -1,2 +1,1 @@
-# luc-hens.github.io
-personal web pages
+Personal web page
