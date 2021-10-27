@@ -12,10 +12,10 @@ My research interests include international trade, economic integration, growth 
 
 ### Links
 * A **research guide** for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
-* APA Style: Sample Papers ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers))
-* APA Style: Style &amp; Grammar Guidelines ([link](https://apastyle.apa.org/style-grammar-guidelines))
-* Some book recommendations on economics and statistics ([link](book-recommendations.html))
+* **APA Style**: Sample Papers ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers))
+* **APA Style**: Style &amp; Grammar Guidelines ([link](https://apastyle.apa.org/style-grammar-guidelines))
 * If you want me to write a **letter of recommendation** read [this](recommendation.html) first 
+* Some book recommendations (economics and statistics) ([link](book-recommendations.html))
 * My interests other than economics ([link](about-me.html))
 
 *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
