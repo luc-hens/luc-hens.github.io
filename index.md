@@ -11,6 +11,7 @@ Open Researcher and Contributor ID (*ORCID*) page: [link](https://orcid.org/0000
 Google Scholar page: [link](https://scholar.google.com/citations?user=x_S_UmwAAAAJ&hl=en)
 
 Links:
+
     * A research and writing guide for students writing a term paper, a research proposal, or a master's thesis: [link](guide.html)
     * Read this first when you want me to write a letter of recommendation: [link](recommendation.html)
     * My interests other than economics: [link](about-me.html)
