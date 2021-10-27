@@ -9,11 +9,11 @@ I teach the following **courses**: Economics for Business; Introduction to Macro
 My research interests include international trade, economic integration, growth &amp; development, visualisation of data. For a list of publications see my Open Researcher and Contributor ID (*ORCID*) page ([link](https://orcid.org/0000-0003-4881-9317)) or my Google Scholar page ([link](https://scholar.google.com/citations?user=x_S_UmwAAAAJ&hl=en)).
 
 ### Links
-* A **research guide** for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
+* **Research guide**: for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
 * **APA Style**: Sample Papers ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers))
 * **APA Style**: Style &amp; Grammar Guidelines ([link](https://apastyle.apa.org/style-grammar-guidelines))
-* If you want me to write a **letter of recommendation** read [this](recommendation.html) first 
-* Some book recommendations (economics and statistics) ([link](book-recommendations.html))
-* My interests other than economics ([link](about-me.html))
+* **Recommendation**: If you want me to write a letter of recommendation read [this](recommendation.html) first 
+* **Books**: Some book recommendations (economics and statistics) ([link](book-recommendations.html))
+* **About me**: my interests other than economics ([link](about-me.html))
 
 *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
