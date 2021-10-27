@@ -1,6 +1,6 @@
 # Luc Hens
 
-I am an economist affiliated with the  [Department of Applied Economics](http://research.vub.ac.be/applied-economics) at the [Vrije Universiteit Brussel](http://www.vub.ac.be).
+I am an economist at the  [Department of Applied Economics](http://research.vub.ac.be/applied-economics) of the [Vrije Universiteit Brussel](http://www.vub.ac.be).
 
 I teach the following courses: Economics for Business; Introduction to Macroeconomics; Statistics I for Business and Economics; Inleiding tot de Macro-economie; Statistiek I voor de Bedrijfseconomische Wetenschappen. Students can access the materials related to these courses on the [Canvas](https://canvas.vub.be/) learning platform.  I am program director of the Bachelor of Science in [Business Economics](http://www.vub.ac.be/en/study/business-economics) program.
         
