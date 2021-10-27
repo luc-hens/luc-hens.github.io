@@ -6,6 +6,7 @@ I teach the following courses: Economics for Business; Introduction to Macroecon
         
 My research interests include: international trade, economic integration, growth &amp; development, visualisation of data. EconLit subject descriptors: F100--International trade , F430&mdash;Economic growth of open economies, O240&mdash;Development planning and policy: trade policy, Y10&mdash;Data: tables and charts. 
 
-Open Researcher and Contributor ID (ORCID) page: [lin](https://orcid.org/0000-0003-4881-9317)
-Google Scholarpage [link](https://scholar.google.com/citations?user=x_S_UmwAAAAJ&hl=en)
+Open Researcher and Contributor ID (ORCID) page: [linl](https://orcid.org/0000-0003-4881-9317)
+
+Google Scholar page [link](https://scholar.google.com/citations?user=x_S_UmwAAAAJ&hl=en)
 
