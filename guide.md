@@ -1,9 +1,10 @@
+[Home](index.html)
+
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-(Last update: 27 October 2021)
+Luc Hens (Last update: 27 October 2021)
 
 <!-- #### A short video introduction (2 minutes)
-
 <video width="480" height="320" controls="controls">
 <source src="http://homepages.vub.ac.be/~lmahens/Masters-thesis-intro-Luc-Hens.mp4" type="video/mp4">
 </video>
@@ -13,7 +14,7 @@
 For a *master's thesis* I expect you to write a polished research paper of 12,000-15,000 words (excluding the list of references). The research should draw on up-to-date academic work published in refereed scholarly journals: a master's thesis typically refers to 10 to 15 articles from peer-reviewed scholarly journals. For a bachelor's thesis or a paper for the "Onderzoeksmethoden / Research Methods and Skills" courses at the VUB I expect a polished research paper of 5,000-6,000 words (excluding the list of references), typically referring to 5 to 8 articles from peer-reviewed scholarly journals. To have a better idea of the skills you should demonstrate in a research paper, read Hansen, W. L. (2001). Expected Proficiencies for Undergraduate Economics Majors, *Journal of Economic Education*, 32(3), 231-242 (available via the JSTOR database, VUB library web site).
 
 #### How often should I meet with my promotor?
-Check with your thesis promotor: different promotors have different expectations. I expect to see you at least two times per semester, starting end-September (if you plan to submit your paper or thesis at the end of the Spring semester) and not more than four times per semester. I hold office hours during teaching weeks, usually on Friday afternoons from 2 to 4:45 pm. Make an appointment <a target="_blank"  href="https://calendly.com/luc-hens/">here). Come prepared. Bring your complete research file:  hard copies of your research proposal, research log, reading notes (one set for each source), annotated bibliography,  and current and previous drafts. During holidays and exam and study periods I am usually not available. I usually take off during summer from begin-July to begin-August, so if you submit your thesis in the summer session (with as deadline usually begin-August) you should submit a draft to me no later than begin-June. (During the coronavirus pandemic, meetings are via Microsoft Teams, which is part of the Microsoft Office 365 subscription the university offers you.)
+Check with your thesis promotor: different promotors have different expectations. I expect to see you at least two times per semester, starting end-September (if you plan to submit your paper or thesis at the end of the Spring semester) and not more than four times per semester. I hold office hours during teaching weeks, usually on Friday afternoons from 2 to 4:45 pm. Make an appointment [here](https://calendly.com/luc-hens/). Come prepared. Bring your complete research file:  hard copies of your research proposal, research log, reading notes (one set for each source), annotated bibliography,  and current and previous drafts. During holidays and exam and study periods I am usually not available. I usually take off during summer from begin-July to begin-August, so if you submit your thesis in the summer session (with as deadline usually begin-August) you should submit a draft to me no later than begin-June. (During the coronavirus pandemic, meetings are via Microsoft Teams, which is part of the Microsoft Office 365 subscription the university offers you.)
 
 #### When can I expect feedback on written work?
 I only give feedback when the written work is submitted as a pdf (no word processor files) or on paper, and is in APA Style (including a standard APA Style title page with a date, and a list of references). The turnaround time typically is two work weeks. It is more than two weeks near a deadline, for instance in May, when I get many drafts. That implies that I do not accept drafts in the two weeks before the due date. I take a summer break, usually from begin-July to begin-August. I don't give feedback during my summer break.
@@ -26,14 +27,13 @@ One ECTS credit represents between 25 and 30 hours of work, so the workload for 
 #### Which books do I need to get started?
 If you want to write a research paper on an economics subject, you'll need a basic reference library. Here's a list of reference books that you need during your research. Make sure you have a copy of these books at hand when you're working on the paper. 
 
-The following two resources are essential desktop companions while doing research and writing. They are **required** for all students writing a master's thesis with me as promotor:
+The following resources are essential desktop companions while doing research and writing. They are **required** for all students writing a master's thesis with me as promotor:
 
-* McCloskey, D. (2019). *Economical Writing (3rd edition).* University of Chicago Press. Essential if you are writing a thesis. Buy it.  Read it. Apply what you have learned. Only submit work to me after you read  McCloskey (2019). (A shorter version was published as McCloskey, D. N. (1985). Economical writing. *Economic Inquiry*, 23(2), 187-222. You can download it here: (http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf">link).)
-*Mankiw, G. N. (2006, October 7). How to write well [blog post] ((http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html">link)). Essential. 
-* Bullock, R., Brody, M., and Weinberg, F. (2016). *The Little Seagull Handbook (3rd edition).* W.W. Norton &amp; Company. ISBN 978-0393602630; available from (https://www.amazon.de/Little-Seagull-Handbook-Richard-Bullock/dp/039360263X/">amazon.de), about 22 euro when I last checked. An essential guide to academic research, writing, and editing.
-* Eco, U. (2015). *How To Write a Thesis.* MIT Press. Available as an eBook from the VUB library ((https://doi-org.myezproxy.vub.ac.be/10.7551/mitpress/10029.001.0001">link)). Another essential guide to academic research, writing, and editing.
+* McCloskey, D. (2019). *Economical Writing (3rd edition)* University of Chicago Press. Essential if you are writing a thesis. Buy it.  Read it. Apply what you have learned. Only submit work to me after you read  McCloskey (2019). (A shorter version was published as McCloskey, D. N. (1985). Economical writing. *Economic Inquiry*, 23(2), 187-222. You can download it here: (http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf">link).)
+* Mankiw, G. N. (2006, October 7). How to write well [blog post] ((http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html">link)). Essential. 
+* Bullock, R., Brody, M., and Weinberg, F. (2016). *The Little Seagull Handbook (3rd edition)*, W.W. Norton &amp; Company. ISBN 978-0393602630; available from (https://www.amazon.de/Little-Seagull-Handbook-Richard-Bullock/dp/039360263X/">amazon.de), about 22 euro when I last checked. An essential guide to academic research, writing, and editing.
+* Eco, U. (2015). *How To Write a Thesis.* MIT Press. Available as an eBook from the VUB library ([link](https://doi-org.myezproxy.vub.ac.be/10.7551/mitpress/10029.001.0001)). Another essential guide to academic research, writing, and editing. Doing research as a craft.
 <!-- *Kirszner, L.G,  &amp; Mandell, S.R. (2008). *The Pocket Wadsworth Handbook (4th ed.).* Boston: Wadsworth Cengage Learning. ISBN 978-0495912958; available from (http://www.amazon.co.uk/Cengage-Advantage-Books-Wadsworth-Handbook/dp/0495912956">amazon.co.uk), approx. GBP 25.The textbook Vesalius College students use in the core courses on Critical Thinking and Academic Writing. An essential guide to academic research and writing. Chapter 35 covers APA Style.  -->
-
 
 Other useful resources:
 
@@ -45,14 +45,13 @@ Other useful resources:
 * If you are not a native speaker of English and write in English: a good dictionary to translate to and from English. (Als je in het Engels schrijft en Nederlandstalig bent zijn de Prisma Woordenboeken Engels-Nederlands en Nederlands-Engels een goede koop.)
 * Als je in het Nederlands schrijft en Nederlands is niet je thuistaal, koop dan een goed Nederlands verklarend zakwoordenboek, en raadpleeg het regelmatig (bijvoorbeeld om na te gaan of een zelfstandig naamwoord een het- of de-woord is). Een goede koop (9,99 euro) is: Weijnen, A.A. &amp; Fricq-Weijnen, A.P.G.M.A. (2018). *Prisma Woordenboeken: Nederlands.* Antwerpen: Prisma. 
 <!-- *If you write in Dutch: Ludo Permentier (2003). *Stijlboek.* Roeselare: Roularta (ISBN: 9054665017) -->
-* Your **textbooks**. Don't sell your textbooks after you completed a course. You'll only recover a fraction of the price you paid and you'll regret you sold them soon. Your collection of textbooks is the start of a professional reference library that you will use intensively during the remainder of your undergraduate studies, in graduate school, and during your professional career. Here's a list of undergraduate textbooks I recommend for a range of economics subjects I am familiar with (any recent edition will do). For principles of economics: Gregory N. Mankiw, *Principles of Economics* (any edition) (we use the European edition: Gregory N. Mankiw and Mark P. Taylor, *Economics*, but the US edition is much better). For intermediate-level macroeconomics: Gregory N. Mankiw, * Macroeconomics*, or Olivier Blanchard,* Macroeconomics*. For intermediate-level microeconomics: Robert S. Pindyck and Daniel L. Rubinfeld, *Microeconomics*, or Hal R. Varian, *Intermediate Microeconomics: A Modern Approach*.  For international economics: Paul R. Krugman, Maurice Obstfeld, and Marc J. Melitz, *International Economics: Theory and Policy*, or Robert Feenstra and Alan Taylor, *International Economics*. For development economics and growth: David Weil, *Economic Growth*. For applied statistics: Sharpe, De Veaux, and Velleman, *Business Statistics*; De Veaux, Velleman, and Bock (2013); *Intro Stats*; or (although somewhat outdated) Freedman, Pisani, and Purves, *Statistics*. For introductory econometrics: Damodar Gujarati and Dawn Porter, *Basic Econometrics.*; Jeffery Wooldridge *Introductory Econometrics: A Modern Approach*. For advanced econometrics: William Greene, *Econometric Analysis*.
+* Your **textbooks**. Don't sell your textbooks after you completed a course. You'll only recover a fraction of the price you paid and you'll regret you sold them soon. Your collection of textbooks is the start of a professional reference library that you will use intensively during the remainder of your undergraduate studies, in graduate school, and during your professional career. Here's a list of undergraduate textbooks I recommend for a range of economics subjects I am familiar with (any recent edition will do). For principles of economics: Gregory N. Mankiw, *Principles of Economics* (any edition) (we use the European edition: Gregory N. Mankiw and Mark P. Taylor, *Economics*, but the US edition is much better). For intermediate-level macroeconomics: Gregory N. Mankiw, * Macroeconomics*, or Olivier Blanchard,* Macroeconomics*. For intermediate-level microeconomics: Robert S. Pindyck and Daniel L. Rubinfeld, *Microeconomics*, or Hal R. Varian, *Intermediate Microeconomics: A Modern Approach*.  For international economics: Paul R. Krugman, Maurice Obstfeld, and Marc J. Melitz, *International Economics: Theory and Policy*, or Robert Feenstra and Alan Taylor, *International Economics*. For development economics and growth: David Weil, *Economic Growth*. For applied statistics: Sharpe, De Veaux, and Velleman, *Business Statistics*; De Veaux, Velleman, and Bock (2013); *Intro Stats*; or (although somewhat outdated) Freedman, Pisani, and Purves, *Statistics*. For introductory econometrics: Damodar Gujarati and Dawn Porter, *Basic Econometrics*; Jeffery Wooldridge *Introductory Econometrics: A Modern Approach*. For advanced econometrics: William Greene, *Econometric Analysis*.
 
 #### Which handouts do I need to get started?
 Dowload, print, and read the following:
-
-*My (written_work.html">rules for written work)
-*The guidelines on (summary_writing.html">summary writing) from your freshman composition class.
-*The document on (Typesetting_math.pdf">how to typeset math) (pdf)
+* My (written_work.html">rules for written work)
+* The guidelines on (summary_writing.html">summary writing) from your freshman composition class.
+* The document on [how to typeset math](Typesetting_math.pdf) (pdf)
 <!--	*Syllabus (contains, among other things, the time schedule to submit work) -->
 
 #### Which software do I need to get started?
@@ -65,12 +64,11 @@ A good on-line bookstore is (http://www.amazon.de">amazon.de). You can change th
 
 #### What do I have to demonstrate in my paper?
 In very broad terms, you have to demonstrate that you master the following skills:
-
-*the ability to gain access to existing knowledge;
-*the ability to demonstrate command of existing knowledge;
-*the ability to draw out existing knowledge;
-*the ability to use existing knowledge to explore issues;
-*the ability to create new knowledge.
+* the ability to gain access to existing knowledge;
+* the ability to demonstrate command of existing knowledge;
+* the ability to draw out existing knowledge;
+* the ability to use existing knowledge to explore issues;
+* the ability to create new knowledge.
 
 For more on these skills, read Hansen, W. L. (2001). Expected proficiencies for undergraduate economics majors, *Journal of Economic Education*, 32(3), 231-242 (available via the JSTOR database, VUB library). A good research paper usually identifies a problem, explains why the problem is interesting, reviews the existing literature, formulates an interesting hypothesis related to the problem (or a set of hypotheses), and tests the hypothesis. A test of a hypothesis can take different forms; empirical papers may use statistical tests (using published data or data gathered by the researcher, for instance through a questionnaire), while theoretical papers may construct a model and prove theorems.
 
@@ -87,7 +85,6 @@ One you have decided what will be the the broad topic, you'll have to narrow dow
 #### How does a research proposal look like?
 Read *The Little Seagull Handbook* (2/e, 2014): "Proposal abstracts" (p. 72) and "R1: Doing Research" (pp. 80–86), especially "Posing a research question" and "Drafting a tentative thesis". 
 This is what you should minimally do in a short (300-word) research proposal:
-
 * Give some context of the research problem;
 * Formulate the research problem (problem statement);
 * Review two or three relevant scholarly sources which you have already consulted to get acquainted with the topic, and which you can elaborate later on;
@@ -95,26 +92,16 @@ This is what you should minimally do in a short (300-word) research proposal:
 * Describe and justify the research methodology that you consider to be able to answer these research questions.
 
 If you are proposing a master's thesis topic, for me a 300-word proposal with the elements above will do. Like all written work, the research proposal is in APA Style, with a proper APA Style title page and APA Style references. A more extended proposal typically reviews five (rather than two or three) scholarly sources. In such a more extended proposal you can also:
-
 * Provide a planning for the period during which you will work on your paper.
 * Indicate your affinity with or interest in the field of economics, What is your motivation for a topic in economics? Which economics courses did you take? Was your bachelor paper within the domain of economics?
 * Provide an indication of your knowledge of quantitative techniques (multivariate statistics, econometrics, statistical software) because for some of the proposed topics this will be required.
-
- 
 
 #### How do I set up an annotated working bibliography for my paper?
 First read *The Little Seagull Handbook*, chapter W-12: Annotated Bibliographies.
 If you used to first method to find a broad topic for your paper, you already have the start of a working bibliography: the textbook chapter, the recommended readings, the textbook web site.
 As you expand your bibliographical research and look for materials using the catalogs, your working bibliography will get larger. Add annotations for each source. Annotations may include: the date when you consulted the work, the call number (that is, the library code) of the work and the library where you found it, the location (on your hard disk, in your files) where you keep a copy of the work, a short personal appreciation, the subject descriptors and any other remarks you may find useful.
-A typical entry for an annotated bibliography may look like this: <br><br>
-<code>Anderson, K. (2004). Subsidies and Trade Barriers. In: B. Lomborg (ed.). Global Crises, Global Solutions. Cambridge University Press, pp. 541-577. <br>[VUB call number: 330.191.6 G LOMB 2004; photocopy filed in "Trade and Growth"
-folder; "(...) argues that putting effort into phasing out wasteful
-subsidies and trade barriers should be ranked highly among then opportunities
-being addressed in this project [the Copenhagen consensus project
-discussed in this edited volume] (...)" (p. 541). Table 10.4 p. 568
-summarizes costs and benefits. Uses GTAP model, discussed in appendix
-(p. 570). Check the (extensive) list of references later.]</code>
-<br><br>
+A typical entry for an annotated bibliography may look like this: 
+    Anderson, K. (2004). Subsidies and Trade Barriers. In: B. Lomborg (ed.). Global Crises, Global Solutions. Cambridge University Press, pp. 541-577. <br>[VUB call number: 330.191.6 G LOMB 2004; photocopy filed in "Trade and Growth" folder; "(...) argues that putting effort into phasing out wasteful subsidies and trade barriers should be ranked highly among then opportunities being addressed in this project [the Copenhagen consensus project discussed in this edited volume] (...)" (p. 541). Table 10.4 p. 568 summarizes costs and benefits. Uses GTAP model, discussed in appendix (p. 570). Check the (extensive) list of references later.]</code>
 Once you start reading the article, copy the reference and the annotation to a new word processor or text document. Give the document a title such as Anderson-2004-notes.docx. Expand the annotations (summarize the main points, collect verbatim quotes that you may use in the paper, indicate links with other sources, &hellip;). Usually not all items in the working bibliography the list will appear as references in the final paper: sources you don't cite should not be in the references list ("References cited in text must appear in the reference list; conversely, each entry in the reference list must be cited in the text (...)", American Psychological Association, 2001, p. 215).Include the list of references with each draft you submit. 
 
 #### Which bibliographical databases should I use?
@@ -122,19 +109,19 @@ You are required to do an extensive search of the EconLit catalog using EconLit 
 You will be able to find most economics-related materials in the VUB university library. You can use the inter-library loan services of the VUB university library to get works from libraries in Belgium and the rest of the world. The ULB university library is a 20-minute walk from the VUB campus.
 
 #### Why do I have to keep a research log? How do I keep a research log?
-A research log is a diary where you keep track of the progress in your research, report problems, and write down ideas. Your research log allows me to give recommendations to change your research strategy. Each entry in the research log is dated. List the database you searched, the descriptors you used, and the file where you saved your search results. Here's an example of an entry:<br><br>
-<code>Friday 4 August 2006<br>
-Checked https://www.aeaweb.org/econlit/jelCodes.php for the JEL subject descriptors related to my subject. Result: F130 - Commercial Policy; Protection; Promotion; Trade Negotiations; International Trade Organizations.<br>
-Searched EconLit database (via VUB Library web site) using DE= F130. Yielded 14517 works. Narrowed search down by seraching for DE=F130 AND bilateral (anywhere) AND multilateral (anywhere). Yielded 104 works. Saved list in file econlit20060804.doc. Will explore references later.<br>
-Checked VUB library catalog (VUBIS) for Lomborg (Ed.) (2004) (which contains Anderson (2004)). VUB call number is : 330.191.6 G LOMB 2004. Went to VUB library, located Lomborg (2004) and photocopied Anderson (2004). Photocopy filed in "Trade and Growth" folder.<br>
-Carefully check the list of references in Anderson (2004) later.
+A research log is a diary where you keep track of the progress in your research, report problems, and write down ideas. Your research log allows me to give recommendations to change your research strategy. Each entry in the research log is dated. List the database you searched, the descriptors you used, and the file where you saved your search results. Here's an example of an entry
+
+    Friday 4 August 2006<br>
+    Checked https://www.aeaweb.org/econlit/jelCodes.php for the JEL subject descriptors related to my subject. Result: F130 - Commercial Policy; Protection; Promotion; Trade Negotiations; International Trade Organizations.
+    Searched EconLit database (via VUB Library web site) using DE= F130. Yielded 14517 works. Narrowed search down by seraching for DE=F130 AND bilateral (anywhere) AND multilateral (anywhere). Yielded 104 works. Saved list in file econlit20060804.doc. Will explore references later.
+    Checked VUB library catalog (VUBIS) for Lomborg (Ed.) (2004) (which contains Anderson (2004)). VUB call number is : 330.191.6 G LOMB 2004. Went to VUB library, located Lomborg (2004) and photocopied Anderson (2004). Photocopy filed in "Trade and Growth" folder.
+    Carefully check the list of references in Anderson (2004) later.
 </code>
 
 #### What is *EconLit*?
 EconLit is the main bibliographical database for research in economics. In order to get acquainted with EconLit, go to (http://www.econlit.org/">http://www.econlit.org/) and read the information. Follow the links at the bottom of the page and read. Browse through the List of Journals Indexed in EconLit to get a feeling for the type of journals covered by the database. Browse through the Subject Descriptors. Carefully read the section on Search Hints (you may want to print this page for future reference).
 
 #### How do I get access to *EconLit*?
-
 You can access the EconLit database through the site of the VUB library. Go to:
 [http://www.vub.ac.be/BIBLIO/index_en.html](http://www.vub.ac.be/BIBLIO/index_en.html). Follow the link Databases available through VUB network; choose EconLit; click the "Information" icon next to EconLit and read the fact sheet describing the database.
 Try out a search (see: How do I search a bibliographical database?)
@@ -292,15 +279,16 @@ Collect all the relevant materials for your paper in a research file (create a f
 * Your **research log** (YourLastName-research-log.txt)
 * The **annotated working bibliography**
 * Reading notes for each source you cite in the paper;
-***Other notes**, such as notes on a specific technical subject drawing from different sources. For instance, I wrote a brief note on a statistical technique called the Hodrick-Prescot filter ((http://homepages.vub.ac.be/~lmahens/Example-of-technical-note.txt">link)).
-***Drafts**. Keep all subsequent drafts, and identify them by incorporating the date in the file name. Save the version of your paper finished on 18 November 2007 as: YourLastName-20071118.docx (or .tex). The numbers refer to the date as year month day: 20071118 stands for year=2007, month=11 (November), day=18. A later version (5 December) of could be: YourLastName-20071205.docx It's useful to keep older versions of drafts because sometimes you may want to include sections that you omitted from earlier versions;
+* *Other notes**, such as notes on a specific technical subject drawing from different sources. For instance, I wrote a brief note on a statistical technique called the Hodrick-Prescot filter ((http://homepages.vub.ac.be/~lmahens/Example-of-technical-note.txt">link)).
+* *Drafts*. Keep all subsequent drafts, and identify them by incorporating the date in the file name. Save the version of your paper finished on 18 November 2007 as: YourLastName-20071118.docx (or .tex). The numbers refer to the date as year month day: 20071118 stands for year=2007, month=11 (November), day=18. A later version (5 December) of could be: YourLastName-20071205.docx It's useful to keep older versions of drafts because sometimes you may want to include sections that you omitted from earlier versions;
 *Data files (as comma-separated values plain text files), computer (R) code and computer output. Transcripts of interviews you conducted. Personal data should be anonymous and encrypted (read more about this under "How should I deal with personal data?").
 
 Make sure you keep backups of all your work (several, stored in different physical places. Buy an external hard disk to make back-ups, and store a copy in the cloud (using Dropbox, iCloud, or a similar service).
 
 #### How should I deal with personal data (from surveys or interviews)?
 To protect citizens’ privacy, the General Data Protection Regulation (GDPR) of the European Union requires anyone who processes personal data to follow certain principles and obey certain rules. The regulation also applies to students who process personal data such as responses to a survey or interviews. "Processing" includes: collecting personal data using surveys, interviews, focus groups and so on (but also collecting personal data from existing databases); consulting personal data from existing databases; and organizing, structuring, and storing personal data. Inform participants of the purpose of the survey or interview, and explain how you will code and process the data and which safeguards you will use. Ask the consent of each participant. To do so include an information and consent section and the beginning of the survey or interview key [templates for informing participants and get their consent will be available on the VUB web site]. Encrypt personal data (use the free encryption program Veracrypt: (https://sourceforge.net/projects/veracrypt/">https://sourceforge.net/projects/veracrypt/)). Make a register of processing activities in which you describe who processed the data, which data were collected, how the data are coded, what the purpose is, where the data are stored, which safeguard measures are taken, and how long the data will be stored. Include the register of processing activities in the methodology section of your paper. Keep the data for one year after you got the grade for the course of master's thesis; then destroy the data. 
-<br>See the VUB Internet Security and privacy web page for more information on the General Data Protection Regulation (in English: (https://ivp.vub.be/en/privacy/">https://ivp.vub.be/en/privacy/) ; in Dutch: (https://ivp.vub.be/privacy/">https://ivp.vub.be/privacy/)). 
+
+See the VUB Internet Security and privacy web page for more information on the General Data Protection Regulation (in English: (https://ivp.vub.be/en/privacy/">https://ivp.vub.be/en/privacy/) ; in Dutch: (https://ivp.vub.be/privacy/">https://ivp.vub.be/privacy/)). 
 
 <!- [complete this section later --- see notebook: talk by Audrey Van Scharen of 21 September 2018. EU site: https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en). -> 
 
@@ -309,7 +297,6 @@ Yes. The *Qualtrics* platform to conduct a questionnaire on-line is available to
 
 #### How is the paper graded?
 I grade the paper on the following criteria:
-
 * Extent of Research. Is there a well-balanced bibliography indicating good research? Were standard bibliographical aids used?
 * General Structure. Does the structure, as evident in outline/contents table, do justice to the exigencies of the topic? Does it indicate an overview of the essential thematic aspects? Is the paper organized into coherent subsections which, when integrated, form a logical sequence of arguments leading directly to the conclusions?
 * Documentation, Scientific Format. Is documentation extensive enough for a paper of this level? Does it consistently follow a format accepted by the discipline? Are there anomalies such as unnecessary second-hand quotations or imprecise references?
@@ -331,11 +318,11 @@ The following criteria are relevant for evaluating an oral report:
 * **Visual aids & handouts**. Design, use.
 * **Response to questions**.
 
-
 #### What is LaTeX? Why would I use LaTeX rather than a word processor?
 For short student papers and most master's theses, a word processor is fine. For a master's thesis with a lot of mathematical type or for doctoral dissertation I recommend that you use LaTeX (pronounced as "lah-tech"). LaTeX is a freely available program for typesetting research reports that runs under Windows, macOS, and Linux. It is widely used by scientists.  LaTeX has several advantages over a word processor: the typesetting is beautiful, formatting (creating sections, subsections) is automatic, formulas can be correctly formatted, and referencing can be automated. You don't have to worry about formatting details of APA Style (or any other style): use the default format of LaTeX with Harvard style author (year) citation. One disadvantage of LaTeX is that it uses a mark-up language that takes some effort to learn. For instance, to start a new section called "Review of the literature" you should type: 
-<code>\section{Review of the literature}</code>. Markups (<code>\section</code>) and text (<code>Review of the literature</code>) are in one plain text document. In sum, LaTeX is not "What You See Is What You Get" but "What You See Is What You Mean." Still, most LaTeX editors (such as TeXShop or TeXmaker) are relatively easy to learn.
-If you write in LaTeX, use a reference manager  (such as (http://bibdesk.sourceforge.net/">BibDesk) for macOS or (http://jabref.sourceforge.net/">JabRef) for Windows) to maintain your bibliography.  In LaTeX, the references list can be generated automatically from a BibDesk of JabRef bibliography file.  
+    \section{Review of the literature}
+Markups (<code>\section</code>) and text (<code>Review of the literature</code>) are in one plain text document. In sum, LaTeX is not "What You See Is What You Get" but "What You See Is What You Mean." Still, most LaTeX editors (such as TeXShop or TeXmaker) are relatively easy to learn.
+If you write in LaTeX, use a reference manager (such as (http://bibdesk.sourceforge.net/">BibDesk) for macOS or (http://jabref.sourceforge.net/">JabRef) for Windows) to maintain your bibliography.  In LaTeX, the references list can be generated automatically from a BibDesk of JabRef bibliography file.  
 
 To run LaTeX on your computer, download and install the MacTex distribution (macOS) or the MikTeX distribution (Windows) form from the TeX users group page ((http://tug.org">tug.org)). The distributions contain a front-end (TeXShop for macOS, TeXMaker for Windows). 
  
