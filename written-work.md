@@ -39,7 +39,6 @@ Your report should look as follows: <a href="example1.pdf">example1.pdf</a> | <a
 ###  Example 2: a short empirical research paper 
 
 This is a textbook exercise. Don't retype the exercise verbatim in your assignment:
-
 <blockquote>A car dealer wants to find the relationship between the odometer reading and the selling price of used cars. A random sample of 100 cars is selected, and the data recorded (&hellip;). Find the regression line. Write up the results in a report (abstract, text, references) (Keller &amp; Warrack, 2003, example 18.2 p. 610). 
 </blockquote>
 
@@ -52,14 +51,14 @@ Here's a generic example of the layout:  <a href="example3.pdf">example3.pdf</a>
 
 One of the tasks of education is to prepare you to function effectively in the world where readers generally expect you to produce edited standard written English (or Dutch). Your ideas may be superb but if the majority of your potential audience chooses not to struggle through your language, the paper is a failure. Thus, in my classes you must use edited standard written English (or Dutch).
 On graded, final, formal papers, I will subtract points for any of the following mistakes:
-	* spelling (a typo counts as a misspelling)
-	* end of sentence punctuation (avoid run-on, fragments, or misuse of semicolons)
-	* verb forms
-	* verb tense (avoid confusing shifts in verb tense)
-	* agreement of subject and verb
-	* pronoun form
-	* apostrophe
-	* sentence sense (words omitted, scrambled, or incomprehensible)
+* spelling (a typo counts as a misspelling)
+* end of sentence punctuation (avoid run-on, fragments, or misuse of semicolons)
+* verb forms
+* verb tense (avoid confusing shifts in verb tense)
+* agreement of subject and verb
+* pronoun form
+* apostrophe
+* sentence sense (words omitted, scrambled, or incomprehensible)
 
 I am not a language professor but I am familiar with the type of written language which must be used to publish professional articles. I will hold you to these rules.
 I will also subtract points if you fail to apply the formatting rules set out in this document.
@@ -79,10 +78,10 @@ Submit written work on or before the date specified in the course schedule at th
 ## Submit on paper, not by e-mail
 
 Apart from the APA Style rules explained below I have some other requirements:
-	* Use a computer to type your paper: use a word processor or the scientific typesetting program LaTeX. I don't accept handwritten work. Generate tables and figures by computer unless explicitly specified otherwise.
-	* Make a backup of your computer files. Store the backup away from your computer.
-	* Don't submit electronically&mdash;I only accept paper.
-	* Don't use plastic covers (or fancy cover pages with color prints and all that). For term papers and homework assignments, staple pages together in the top left corner (no paperclips or other bindings). Have master's theses (usually over 50 pages) bound. 
+* Use a computer to type your paper: use a word processor or the scientific typesetting program LaTeX. I don't accept handwritten work. Generate tables and figures by computer unless explicitly specified otherwise.
+* Make a backup of your computer files. Store the backup away from your computer.
+* Don't submit electronically&mdash;I only accept paper.
+* Don't use plastic covers (or fancy cover pages with color prints and all that). For term papers and homework assignments, staple pages together in the top left corner (no paperclips or other bindings). Have master's theses (usually over 50 pages) bound. 
 
 ## Write self-contained reports
 
@@ -97,15 +96,15 @@ I expect that, writing formatting your paper, you have read the section on APA S
 ## Follow the general APA instructions for the manuscript
 
 The general instructions for the manuscript below include some minor departures from APA Style that apply for my assignments:
-	* **Paper size.** Use (European standard) A4 paper rather than US standard-sized paper (American Psychological Association, 2001, p. 284) (departure from APA Style).
-	* **Font.** Use 12 pt Times (that's usually the default font in your word processor), 12 pt Times Roman, or 12 pt Times New Roman (American Psychological Association, 2001, p. 285; don't use Courier). Stick to the same font and font size throughout the text: don't use different fonts or font sizes for section headers etc. Use a sans serif font such as Helvetica in figures (American Psychological Association, 2001, p. 181). Only use boldface or italics when explicitly required by APA Style. Never underline in a word-processed document; use italics instead (in the old days when manuscripts were written by hand or on a mechanical typewriter, the author underlined to indicate to the typesetter which text to italicize).
-	* **Indents.** Indent each paragraph of the body of the report by 1/2 inch (that's about 1.3 cm) (American Psychological Association, 2001, 5.08 p. 289). Define the indent in Word or Writer under Format > Paragraph. Don't indent the abstract. The list of references uses hanging indents. If you use LyX stick to the default.
-	* **Spacing.** Double-space throughout the manuscript; never use single or 1 1/2 spacing (American Psychological Association, 2001, p. 286). Never double double-space (press the return key twice in a row): don't put an empty line between a title and the subsequent text or between paragraphs. To double space in Writer do the following when you open a new text document: Format > Paragraph > Line Spacing > Double.
-	* **Margins.** "Leave uniform margins of at least 1 in. (2.54 cm) at the top, bottom, left, and right of every page" (American Psychological Association, 2001, p. 286).
-	* **Page numbers, page headers.** "The title page is page 1. Number all pages (&hellip;) in the upper right corner (&hellip;) [I]dentify each manuscript page (&hellip;) with the first two or three words from the title in the upper right corner (&hellip;) to the left of the page number" (American Psychological Association, 2001, p. 288). To do this in Write, use Insert > Header to create a page header, type the first two or three words from the title, five blank spaces, and insert the page number (Insert > Fields > Page Number). In Word, use View > Header and Footer.
-	* **Figures, tables.** Generate figures and tables by computer whenever possible. Insert computer-generated tables and figures in the main text (departure from APA Style). Include hand-drawn figures on a separate page, not numbered.
-	* **Title page** Use a title page as in <a href="example1.pdf">example1.pdf</a> |  | <a href="example1.doc">example1.doc</a>.
-	* **Chapters.** In a master thesis, a PhD dissertation, or any report exceeding, say, 12 000 words (about 30 double-spaced pages), it is OK to use chapters. Chapter 1 is usually the Introduction (header: Chapter 1. Introduction).  If your paper has chapters, use the numbering style for sections, figures, tables, and equations from *The Feynman Lectures on Physics*: sections from chapter 2 are numbered 2-1, 2-2, etc.; consecutive figures from chapter 2 are numbered Figure 2-1, Figure 2-2, etc. (Feynman, R., Leighton, R. B., &amp; Sands, M. (1964). *The Feynman Lectures on Physics.* Reading, MA: Addison-Wesley.). Use only one level of subsections (chapter 2 has sections 2-1, 2-2 etc.; no 2-1-1); if Feynman could survey the complete field of physics using one level of subsections, you should be able to write your paper with one level of subsections, too. It's OK to type the chapter titles and section headers in boldface (departure from APA Style); the other APA Style rules still apply.
+* **Paper size.** Use (European standard) A4 paper rather than US standard-sized paper (American Psychological Association, 2001, p. 284) (departure from APA Style).
+* **Font.** Use 12 pt Times (that's usually the default font in your word processor), 12 pt Times Roman, or 12 pt Times New Roman (American Psychological Association, 2001, p. 285; don't use Courier). Stick to the same font and font size throughout the text: don't use different fonts or font sizes for section headers etc. Use a sans serif font such as Helvetica in figures (American Psychological Association, 2001, p. 181). Only use boldface or italics when explicitly required by APA Style. Never underline in a word-processed document; use italics instead (in the old days when manuscripts were written by hand or on a mechanical typewriter, the author underlined to indicate to the typesetter which text to italicize).
+* **Indents.** Indent each paragraph of the body of the report by 1/2 inch (that's about 1.3 cm) (American Psychological Association, 2001, 5.08 p. 289). Define the indent in Word or Writer under Format > Paragraph. Don't indent the abstract. The list of references uses hanging indents. If you use LyX stick to the default.
+* **Spacing.** Double-space throughout the manuscript; never use single or 1 1/2 spacing (American Psychological Association, 2001, p. 286). Never double double-space (press the return key twice in a row): don't put an empty line between a title and the subsequent text or between paragraphs. To double space in Writer do the following when you open a new text document: Format > Paragraph > Line Spacing > Double.
+* **Margins.** "Leave uniform margins of at least 1 in. (2.54 cm) at the top, bottom, left, and right of every page" (American Psychological Association, 2001, p. 286).
+* **Page numbers, page headers.** "The title page is page 1. Number all pages (&hellip;) in the upper right corner (&hellip;) [I]dentify each manuscript page (&hellip;) with the first two or three words from the title in the upper right corner (&hellip;) to the left of the page number" (American Psychological Association, 2001, p. 288). To do this in Write, use Insert > Header to create a page header, type the first two or three words from the title, five blank spaces, and insert the page number (Insert > Fields > Page Number). In Word, use View > Header and Footer.
+* **Figures, tables.** Generate figures and tables by computer whenever possible. Insert computer-generated tables and figures in the main text (departure from APA Style). Include hand-drawn figures on a separate page, not numbered.
+* **Title page** Use a title page as in <a href="example1.pdf">example1.pdf</a> |  | <a href="example1.doc">example1.doc</a>.
+* **Chapters.** In a master thesis, a PhD dissertation, or any report exceeding, say, 12 000 words (about 30 double-spaced pages), it is OK to use chapters. Chapter 1 is usually the Introduction (header: Chapter 1. Introduction).  If your paper has chapters, use the numbering style for sections, figures, tables, and equations from *The Feynman Lectures on Physics*: sections from chapter 2 are numbered 2-1, 2-2, etc.; consecutive figures from chapter 2 are numbered Figure 2-1, Figure 2-2, etc. (Feynman, R., Leighton, R. B., &amp; Sands, M. (1964). *The Feynman Lectures on Physics.* Reading, MA: Addison-Wesley.). Use only one level of subsections (chapter 2 has sections 2-1, 2-2 etc.; no 2-1-1); if Feynman could survey the complete field of physics using one level of subsections, you should be able to write your paper with one level of subsections, too. It's OK to type the chapter titles and section headers in boldface (departure from APA Style); the other APA Style rules still apply.
 
 ## Document your sources. Use author-year citations
 
@@ -160,13 +159,13 @@ You can't separate two main clauses by a comma. Separate two main clauses by a p
 ## Include a list of references
 
 See American Psychological Association (2001, pp. 215-281):
-	* Start the reference list on a new page.
-	* Heading: "Type the word References (Reference, if there is only one) (&hellip;) centered (&hellip;)." (American Psychological Association, 2001, p. 299).
-	* "References cited in text must appear in the reference list; conversely, each entry in the reference list must be cited in the text (&hellip;)" (American Psychological Association, 2001, p. 215). In a worked textbook problem, this means that you should always include the reference to the textbook (which you cited in the introduction) in the reference list.
-	* Use hanging indents (see American Psychological Association, 2001, p. 223). Indent by 1/2" or 1.3 cm. If you want to now how to create a hanging indent in LibreOffice.org Write consult the help function: Help > LibreOffice.org Help > indent; in text); in Word: Help > Search Word Help > hanging indent.
-	* "Arrange entries in alphabetical order by the surname of the last author (&hellip;)" (American Psychological Association, 2001, p. 219).
-	* If the same author appears twice with a publication of the same year, distinguish them by using a, b,&hellip;: Weil (2005a), Weil (2005b)
-	* For the general forms and examples of references included in the reference list, see American Psychological Association (2001, pp. 223-281).
+* Start the reference list on a new page.
+* Heading: "Type the word References (Reference, if there is only one) (&hellip;) centered (&hellip;)." (American Psychological Association, 2001, p. 299).
+* "References cited in text must appear in the reference list; conversely, each entry in the reference list must be cited in the text (&hellip;)" (American Psychological Association, 2001, p. 215). In a worked textbook problem, this means that you should always include the reference to the textbook (which you cited in the introduction) in the reference list.
+* Use hanging indents (see American Psychological Association, 2001, p. 223). Indent by 1/2" or 1.3 cm. If you want to now how to create a hanging indent in LibreOffice.org Write consult the help function: Help > LibreOffice.org Help > indent; in text); in Word: Help > Search Word Help > hanging indent.
+* "Arrange entries in alphabetical order by the surname of the last author (&hellip;)" (American Psychological Association, 2001, p. 219).
+* If the same author appears twice with a publication of the same year, distinguish them by using a, b,&hellip;: Weil (2005a), Weil (2005b)
+* For the general forms and examples of references included in the reference list, see American Psychological Association (2001, pp. 223-281).
 
 ## Don't use appendices
 
@@ -193,6 +192,7 @@ Table 1.<br>
 </table>
 *Note.* Data on GDP and inflation from International Monetary Fund (1999), table 12 p. 234. GDP growth rates computed by the author.
  </blockquote>
+ 
 Example for a figure (a graph, a diagram, &hellip;):
 
  <blockquote>
@@ -261,7 +261,7 @@ Solve the *IS* equation for *Y* to obtain:
      <blockquote>       *Y* = 430 &minus; 2 800*i*   </blockquote>
 </blockquote>
 
-If you report an equation (for instance, a line of best fit) don't use as variable names *x*, *y*, or an arcane abbreviation (such as "LABCOST)  ("*y* = 315.5 &plus; 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
+If you report an equation (for instance, a line of best fit) don't use as variable names *x*, *y*, or an arcane abbreviation (such as LABCOST)  ("*y* = 315.5 &plus; 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
 <blockquote>The model predicts the total labor cost (in $) as:
 <blockquote>predicted total labor cost  = 315.5 &plus; 3.3  &times; batch size</blockquote>
 </blockquote>
@@ -355,14 +355,21 @@ Don't mail attachments unless the recipient explicitly asked. Use portable docum
 
 ## If you write in Dutch, write well, too
  (Voor wie in het Nederlands schrijft.) 
+ 
 Alle hierboven vermelde regels zijn van toepassing als je in het Nederlands schrijft, met &eacute;&eacute;n uitzondering: gebruik in het Nederlands decimale komma's. Schrijf dus: *t* = 2,34.
+
 Raadpleeg de Woordenlijst van de Nederlandse taal ([koppeling](http://woordenlijst.org/)) als je twijfelt over de spelling of het genus van een woord. De webstek *Taaladvies* ([koppeling](http://taaladvies.net/)) van de Nederlandse Taalunie is een uitstekende referentiebron als je vragen hebt.
+
 Net als in het Engels vermijd je in het Nederlands best passieve werkwoorden (zinnen met "worden"). Wees specifiek: wie is het onderwerp van de zin? Vermijd om dezelfde reden "men." Herschrijf elke zin die "worden" of "men" bevat en gebruik de actieve werkwoordsvorm.
+
 Vermijd ambtenarentaal (woorden als aangezien, daar, dewelke, deze, doch, eveneens, ingevolge, omwille van, reeds, teneinde, welke); gebruik de doordeweekse equivalenten (omdat of doordat i.p.v. aangezien, omdat i.p.v. daar, die i.p.v. dewelke of welke, ze i.p.v. deze, maar i.p.v. doch, ook i.p.v. eveneens, dankzij of door i.p.v. omwille van, al i.p.v. reeds, om i.p.v. teneinde).
+
 Samengestelde woorden schrijf je in het Nederlands aan elkaar vast ("World Trade Organisation" is Wereldhandelsorganisatie, "long-term interest rate" is: langetermijnrentevoet) of met een koppelteken en aan elkaar vast (lange-termijnrentevoet).  
 Gebruik de verleden tijd om gebeurtenissen uit het verleden te beschrijven: "Tussen 1998 en 2003 groeide [NIET: groeit] de Chinese economie met bijna 10 % per jaar."
 Als je in het Nederlands schrijft, zet je ook de afbeeldingen en tabellen in het Nederlands (inclusief de namen van de variabelen op de assen).
- Een veel voorkomend Gallicisme is om voorzien (wat betekent: verwachten, voorspellen) te verwarren met bepalen.  In het Frans zeg je: "La loi pr&eacute;voit que &hellip; "; in het Nederlands zeg je: "De wet bepaalt dat &hellip; " (niet: voorziet dat). Maar je zegt wel: "De organisatoren van het tuinfeest voorzagen *in* tenten voor het geval dat het zou regenen."
+
+Een veel voorkomend Gallicisme is om voorzien (wat betekent: verwachten, voorspellen) te verwarren met bepalen.  In het Frans zeg je: "La loi pr&eacute;voit que &hellip; "; in het Nederlands zeg je: "De wet bepaalt dat &hellip; " (niet: voorziet dat). Maar je zegt wel: "De organisatoren van het tuinfeest voorzagen *in* tenten voor het geval dat het zou regenen."
+
 Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar <a href="http://books.google.com/books?id=b-4XB61VqE0C">on-line</a> [de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff]. In de <a href="http://europa.eu.int/en/comm/eurostat/research/isi/">International Statistical Institute (ISI) Glossary of Statistical Terms</a> kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden. Of raadpleeg de webstek <a href="http://vindpunt.nl/vindpunt.php">vindpunt.nl</a> die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Een lijst van enkele veel voorkomende vaktermen:
 
 <table>
@@ -818,7 +825,9 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
 	</tr>
 </table>
 
+
 ## Mails 
+
 Beleefdheid is een onderschatte deugd. Daarom enkele wenken voor als je wil dat ik (of &eacute;&eacute;n van mijn collega's) je mails leest. Beschouw een mail naar een professor als een zakelijke brief en gebruik dus de opmaak en stijl van een zakelijke brief ([koppeling](http://taaladvies.net/taal/advies/tekst/89)). 
 De gepaste **aanhef** is "Geachte professor" (formeel) of "Beste professor" (minder formeel; niet gepast bij het eerste contact), gevolgd door een komma en een witregel (in het Engels: "Dear Professor" gevolgd door een komma of een dubbele punt en een witregel). Voor een assistent is de gepaste aanhef: "Geachte heer" of "Geachte mevrouw." Het helaas alomtegenwoordige "Beste," (of "Geachte,") is geen gepaste aanhef ([koppeling](http://taaladvies.net/taal/advies/vraag/1323/geachte_beste_als_aanhef/)). Beste wie of wat? Beste komma? Op het bijvoeglijk naamwoord "beste" hoort een zelfstandig naamwoord te volgen. Als je een brief of mail schrijft aan iemand die je niet persoonlijk kent en waarvan je het geslacht en de titel niet kent, is de gepaste aanhef: "Geachte mevrouw, [nieuwe regel] Geachte heer," (maar dus niet: "Geachte,"). Als je een brief of mail schrijft aan iemand die je wel persoonlijk kent, is de gepaste aanhef (zie hierboven) "Geachte heer,", "Geachte mevrouw," "Geachte professor," of "Beste professor,". Gepaste slotformules zijn: "Met de meeste achting," "Hoogachtend," (formeel) of "Met vriendelijke groet," (minder formeel; niet gepast bij het eerste contact); gevolgd door je voornaam en naam (de voornaam eerst: daarom is het de *voor*naam). Brieven en mails aan mij gericht die beginnen met "Beste," belanden ongelezen in de prullenmand. 
 Stuur **bijlages** enkel als de bestemmeling daarom heeft gevraagd. Stuur bijlages enkel in Portable Document Format (pdf); gebruik geen andere opmaak (zoals .docx, .xlsx, of .pptx) tenzij je bestemmeling daar uitdrukkelijk om heeft gevraagd. 
