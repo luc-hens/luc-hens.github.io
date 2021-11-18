@@ -3,7 +3,7 @@
 I am an economist at the  [Department of Applied Economics](http://research.vub.ac.be/applied-economics) of the [Vrije Universiteit Brussel](http://www.vub.ac.be).
 
 ### Teaching
-I teach the following **courses**: Economics for Business; Introduction to Macroeconomics; Statistics I for Business and Economics; Inleiding tot de Macro-economie; Statistiek I voor de Bedrijfseconomische Wetenschappen. Students can access the course materials on the [Canvas](https://canvas.vub.be/) learning platform. **Office hours** are by appointment (make an appointment [here](https://calendly.com/luc-hens/)) during weeks of class on Fridays 14:00-16:45 in Pleinlaan 5, room 515, or via Microsoft Teams. 
+I teach the following **courses**: Economics for Business; Introduction to Macroeconomics; Statistics I for Business and Economics; Inleiding tot de Macro-economie; Statistiek I voor de Bedrijfseconomische Wetenschappen. Students can access the course materials on the [Canvas](https://canvas.vub.be/) learning platform. **Office hours** are by appointment (make an appointment [here](https://calendly.com/luc-hens/)) during weeks of class on Fridays 14:00-16:45 in my office (Pleinlaan 5, room 515) or via Microsoft Teams. 
         
 ### Research
 My research interests include international trade, economic integration, growth &amp; development, and visualisation of data. For a list of publications see my Open Researcher and Contributor ID (*ORCID*) [page](https://orcid.org/0000-0003-4881-9317) or my Google Scholar [page](https://scholar.google.com/citations?user=x_S_UmwAAAAJ&hl=en).
