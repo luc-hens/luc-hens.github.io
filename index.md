@@ -1,6 +1,7 @@
 # Luc Hens
 
-I am an economist at the  [Department of Applied Economics](http://research.vub.ac.be/applied-economics) of the [Vrije Universiteit Brussel](http://www.vub.ac.be).
+I am an economist at the [Department of Applied Economics](https://www.vub.be/en/research/applied-economics#applied-economics) of the [Vrije Universiteit Brussel](http://www.vub.ac.be).
+<!-- [Department of Applied Economics](http://research.vub.ac.be/applied-economics) -->
 
 ### Teaching
 I teach the following **courses**: Economics for Business; Introduction to Macroeconomics; Statistics I for Business and Economics; Inleiding tot de Macro-economie; Statistiek I voor de Bedrijfseconomische Wetenschappen. Students can access the course materials on the [Canvas](https://canvas.vub.be/) learning platform. **Office hours** are by appointment (make an appointment [here](https://calendly.com/luc-hens/)) during weeks of class on Fridays 14:00-16:45 in my office (Pleinlaan 5, room 515) or via Microsoft Teams. 
