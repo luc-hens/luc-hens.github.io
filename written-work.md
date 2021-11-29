@@ -211,7 +211,7 @@ When working a mathematical problem use the layout to help the reader follow the
 
 <table align="center">
 	<tr>
-		<td></td> <td>P(0 &lt; *z* &lt; +6.67)</td> <td>&minus;</td> <td>P(0 &lt; *z* &lt; 1.33)</td>
+		<td></td> <td>P(0 &lt; z &lt; +6.67)</td> <td>&minus;</td> <td>P(0 &lt; z &lt; 1.33)</td>
 	</tr>
 	<tr>
 		<td>=</td>
