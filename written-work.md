@@ -229,7 +229,7 @@ The imperative is useful to develop a mathematical argument:
 
 > Solve the *IS* equation for *Y* to obtain:<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Y* = 430 &minus; 2 800*i*   
 
-If you report an equation (for instance, a line of best fit) don't use as variable names *x*, *y*, or an arcane abbreviation (such as LABCOST)  ("*y* = 315.5 &plus; 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
+If you report an equation (for instance, a line of best fit) **don't** use as variable names *x*, *y*, or an arcane abbreviation (such as LABCOST)  ("*y* = 315.5 + 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
 
 > The model predicts the total labor cost (in $) as:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  predicted total labor cost  = $315.5 +  $3.3  &times; batch size
 
