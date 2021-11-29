@@ -191,12 +191,13 @@ Or, alternatively:
 
 Keep table number, caption, table, and note to the table on the same page. The same applies for figures. If you don't know how to do this in a word processor, look up "Keep paragraphs together" in your word processor's Help function.
 
-**Equations.** For guidelines on equations and other mathematical &amp; statistical copy, see American Psychological Association (2001, pp. 136-146; pp. 293-295). <br>
-Italicize mathematical symbols for scalars: income (*Y*); *Y* = 3 600 - 300*i*<br>
+**Equations.** For guidelines on equations and other mathematical &amp; statistical copy, see American Psychological Association (2001, pp. 136-146; pp. 293-295). 
+
+Italicize mathematical symbols for scalars: income (*Y*); *Y* = 3 600 - 300*i*
+
 Indent formulas or equations by &frac12; inch (1.3 cm):
 
-`` The equation of the IS schedule is:
-        *Y* = 3 600 - 300*i* `` 
+> The equation of the IS schedule is: <br> &nbsp;&nbsp;&nbsp;&nbsp; *Y* = 3 600 - 300*i* 
 
 State crucial assumptions explicitly, e.g.: I assume that nominal wages are fixed in the short run.
 
@@ -207,8 +208,7 @@ Use mathematical symbols correctly. Mathematical symbols have precise meanings. 
 Never start a section or a paragraph with an equation (or a figure or a table). 
 Introduce equations using a short declarative sentence (and don't forget to indent the equation):
 
-> The money market is in equilibrium when the supply of money (controlled by the central bank) equals the demand for money:
-> *M*<sup>*s*</sup>/*P* = (*M*/*P*)<sup>*d*</sup>
+> The money market is in equilibrium when the supply of money (controlled by the central bank) equals the demand for money: <br> &nbsp;&nbsp;&nbsp;&nbsp; *M*<sup>*s*</sup>/*P* = (*M*/*P*)<sup>*d*</sup>
 
 When working a mathematical problem use the layout to help the reader follow the argument. For instance, keep corresponding terms aligned at the same position in different stages of a calculation. 
 <!-- 
@@ -230,14 +230,11 @@ If you develop a mathematical argument include transitions (just as in any other
 
 The imperative is useful to develop a mathematical argument:
 
-> Solve the *IS* equation for *Y* to obtain:<br>
-   ~~~~~*Y* = 430 &minus; 2 800*i*   
-
+> Solve the *IS* equation for *Y* to obtain:<br> &nbsp;&nbsp;&nbsp;&nbsp; *Y* = 430 &minus; 2 800*i*   
 
 If you report an equation (for instance, a line of best fit) don't use as variable names *x*, *y*, or an arcane abbreviation (such as LABCOST)  ("*y* = 315.5 &plus; 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
 
-> The model predicts the total labor cost (in $) as:<br>
-  ~~~~~ predicted total labor cost  = 315.5 &plus; 3.3  &times; batch size
+> The model predicts the total labor cost (in $) as:<br>&nbsp;&nbsp;&nbsp;&nbsp;  predicted total labor cost  = 315.5 &plus; 3.3  &times; batch size
 
 Until the 1980s, most statistical computer programs could only handle short variable names, usually at most seven characters long. That is why, especially in older papers, authors used variable names like LABCOST for labor cost. There is no need anymore to do that, so don't.
 
