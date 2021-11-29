@@ -47,11 +47,9 @@ Written work problem sets and short papers gives you the opportunity to see whet
 
 Submit written work on or before the date specified in the course schedule. The penalty for late written work is 2 points on a 0-20-point scale per weekday that the paper is late. In accordance with Murphy's Law, computers and printers are likely to break down the evening before the due date. Start in time. Computer problems are no valid reason for handing in work late. 
 
-## Submit work as a pdf unless specified otherwise
+## Submit work as a pdf
 
-No word processor files; only files in portable document format (pdf), unless specified otherwise. 
-
-##
+Always submit work as a file in portable document format (pdf), unless specified otherwise. No word processor files.
 
 <!-- Late written work should be handed in at the college reception desk. Ask the receptionist to put a date stamp on the top of the first page.-->
 
