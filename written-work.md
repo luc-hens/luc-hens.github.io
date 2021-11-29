@@ -195,8 +195,8 @@ Keep table number, caption, table, and note to the table on the same page. The s
 Italicize mathematical symbols for scalars: income (*Y*); *Y* = 3 600 - 300*i*<br>
 Indent formulas or equations by &frac12; inch (1.3 cm):
 
-> The equation of the IS schedule is:<br>
-   ~~~~~*Y* = 3 600 - 300*i*  
+`` The equation of the IS schedule is:
+        *Y* = 3 600 - 300*i* `` 
 
 State crucial assumptions explicitly, e.g.: I assume that nominal wages are fixed in the short run.
 
