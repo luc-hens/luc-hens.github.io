@@ -2,50 +2,22 @@
 
 # Rules for written work
 
-(Last revised 16 January 2020)
+(Last revised 29 November 2021)
 
 Problem sets and short papers are valuable practice in composition: set out your ideas logically; use paragraphs to group your thoughts; write complete sentences. Written work should be concise. Explain how you obtained results. In problem sets, show your work and briefly explain what you have done and why you have done it. Stick to the assignment; there is no need to speculate or make normative statements unless this is explicitly asked.
 
 Except when explicitly stated otherwise the rules for written work set out below apply to all written work in all my courses. They also apply to bachelor and master research papers or theses, and for PhD dissertations promoted by me. Read them carefully before starting each assignment. Print them and keep them with your course files. 
 
 The key references are:
-* Bullock, R., Brody, M., and Weinberg, F. (2014). *The Little Seagull Handbook (2nd edition)*. W.W. Norton & Company, New York and London. Buy a copy of this book if you write a master's thesis; it's indispensible.
+* Bullock, R., Brody, M., and Weinberg, F. (2014). *The Little Seagull Handbook (2nd edition)*. W.W. Norton & Company, New York and London. (Or a more recent edition.) Buy a copy of this book if you write a master's thesis; it's indispensible.
 <!-- Alternatively, you can use: Kirszner, L.G,  &amp; Mandell, S.R. (2008). *The Pocket Wadsworth Handbook (4th ed.).* Boston: Wadsworth Cengage Learning  (covers APA style in Chapter 35) or:  Glenn, C., Miller, R.K., Strobeck Webb, S., Gray, L., &amp; Hodges, J.C. (2004). *The Hodges' Harbrace handbook (15th ed.).* Boston: Thomson (covers APA style on pp. 652-679).-->
-* Mankiw, G.N. (2006). How to Write Well. ([link]("http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html)). Don't submit any written work unless you have carefully read Mankiw (2006).
+* Mankiw, G.N. (2006). How to Write Well. ([link](http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html)). Don't submit any written work unless you have carefully read Mankiw (2006).
 * McCloskey, D. (2019). *Economical Writing: Thirty-Five Rules for Clear and Persuasive Prose* (3rd edition). Chicago: University of Chicago Press.  If you can't find a copy of McCloskey (2019) (or an earlier edition), download and read: McCloskey, D. N. (1985). Economical Writing. *Economic Inquiry*, 23(2):187-222 ([link](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)); and McCloskey, D. N. (1999). Economical Writing: An Executive Summary. *Eastern Economic Journal*, 25(2):239-242. ([link](http://www.deirdremccloskey.com/docs/pdf/Article_309.pdf)). Don't submit any written work unless you have carefully read McCloskey. 
 * Strunk W. Jr., &amp; White E.B. (2000). *The Elements of Style (fourth edition).* Needham Heights, MA: Allyn &amp; Bacon. (Or a more recent edition.)
-* American Psychological Association. (2001). *Publication Manual of the American Psychological Association (5th ed.)*. Washington, DC: Author. Or a more recent edition. The comprehensive guide to APA Style; available in the VUB Library.
-* American Psychological Association. (2020). Frequently Asked Questions About Sixth Edition APA Style ()[link](http://www.apastyle.org/learn/faqs/))
+* American Psychological Association. (2021). APA Style: Style and Grammar Guidelines ([link](https://apastyle.apa.org)).
+* American Psychological Association. (2021). APA Style: Sample Papers ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)).
 
-## Examples of assignments
-
-Use the examples below as templates for your reports for my courses.
-
-###  Example 1: a short theory paper
-
-This is the textbook problem (Gordon, 1998, problem 1 p. 121) from ECN201 Macroeconomics.  Don't retype all of the problem verbatim in your assignment.
-
-Let the structure of the goods market be represented by the following equations:
-<blockquote>*C* = *a* + 0.75(*Y*-*T*) </blockquote>
-<blockquote>*a* = 50 - 10*r* </blockquote>
-<blockquote>*T* = 200 + 0.2*Y* </blockquote>
-<blockquote>*I<sub>p</sub>* = 300 - 30*r* </blockquote>
-<blockquote>*G* = 400</blockquote>
-
-What is the equation of the IS-curve? Use R to draw a diagram on scale. Write up the results in a report (abstract, text, references).
-As often in texbook problems, the author does not report the units of measurement (a loathable practice); verify with your teacher which units of measurement you should use. In this case, I assumed USD billions for the income account data and percent for the interest rate. Don't re-type the question in your paper, but integrate the givens in your report.
-Your report should look as follows: <a href="example1.pdf">example1.pdf</a> | <a href="example1.doc">example1.doc</a>
-
-###  Example 2: a short empirical research paper 
-
-This is a textbook exercise. Don't retype the exercise verbatim in your assignment:
-<blockquote>A car dealer wants to find the relationship between the odometer reading and the selling price of used cars. A random sample of 100 cars is selected, and the data recorded (&hellip;). Find the regression line. Write up the results in a report (abstract, text, references) (Keller &amp; Warrack, 2003, example 18.2 p. 610). 
-</blockquote>
-
-Your report should look as follows: <a href="example2.pdf">example2.pdf</a> | <a href="example2.doc">example2.doc</a> 
-
-###  Example 3: a generic example 
-Here's a generic example of the layout:  <a href="example3.pdf">example3.pdf</a> | <a href="example3.doc">example3.doc</a>. Download the .doc file, open it with your favorite word processor, and use it as a template.
+<!-- * American Psychological Association. (2020). *Publication Manual of the American Psychological Association (7th ed.)*. Washington, DC: Author.  The comprehensive guide to APA Style; available in the VUB Library.. -->
 
 ## Policy for the use of Standard Edited Written English (or Dutch)
 
@@ -73,38 +45,48 @@ Written work problem sets and short papers gives you the opportunity to see whet
 
 ## Submit work on time
 
-Submit written work on or before the date specified in the course schedule at the beginning of class. I don't accept submission by e-mail. The penalty for late written work is 2 points on a 0-20-point scale per weekday that the paper is late. In accordance with Murphy's Law, computers and printers are likely to break down the evening before the due date. Start in time. Computer problems are no valid reason for handing in work late. Late written work should be handed in at the college reception desk. Ask the receptionist to put a date stamp on the top of the first page.
+Submit written work on or before the date specified in the course schedule. The penalty for late written work is 2 points on a 0-20-point scale per weekday that the paper is late. In accordance with Murphy's Law, computers and printers are likely to break down the evening before the due date. Start in time. Computer problems are no valid reason for handing in work late. 
 
-## Submit on paper, not by e-mail
+## Submit work as a pdf unless specified otherwise
+
+No word processor files; only files in portable document format (pdf), unless specified otherwise. 
+
+##
+
+<!-- Late written work should be handed in at the college reception desk. Ask the receptionist to put a date stamp on the top of the first page.-->
+
+<!-- ## Submit on paper, not by e-mail
 
 Apart from the APA Style rules explained below I have some other requirements:
 * Use a computer to type your paper: use a word processor or the scientific typesetting program LaTeX. I don't accept handwritten work. Generate tables and figures by computer unless explicitly specified otherwise.
 * Make a backup of your computer files. Store the backup away from your computer.
 * Don't submit electronically&mdash;I only accept paper.
-* Don't use plastic covers (or fancy cover pages with color prints and all that). For term papers and homework assignments, staple pages together in the top left corner (no paperclips or other bindings). Have master's theses (usually over 50 pages) bound. 
+* Don't use plastic covers (or fancy cover pages with color prints and all that). For term papers and homework assignments, staple pages together in the top left corner (no paperclips or other bindings). Have master's theses (usually over 50 pages) bound.--> 
 
 ## Write self-contained reports
 
-The solution to a problem or the answer to a question has to be presented as a self-contained report. This means that the reader should understand the report without having read the problem or question first: the givens and the context of the problem must be included in the introduction of the report. Each report consists of title, abstract, body of text, and reference list. **This rule does not apply to problem sets in STA101** (see next paragraph).
+The solution to a problem or the answer to a question has to be presented as a self-contained report. This means that the reader should understand the report without having read the problem or question first: the givens and the context of the problem must be included in the introduction of the report. Each report consists of title, body of text, and reference list. 
 
 ## Use APA Style to format the report and document sources
 
-Different scientific disciplines use different styles for formatting papers and documenting sources. Historians and linguists usually document their sources using footnotes, while most social scientists use parenthetical author-date documentation. Some scientific disciplines use Chicago Style, others use MLA Style or APA Style. For all written work in my courses (problem sets, short research papers, term papers, or theses) you should use the American Psychological Association (APA) Style (with some minor modifications, see below), documented in American Psychological Association (2001) and Bullock, Brody, and Weinberg (2014). APA Style is an extensive set of  formatting and editorial rules for research papers and is used widely in the social sciences, including economics. The *Quarterly Journal of Economics*, for instance, uses a format that is close to APA Style (<a href="http://economics.mit.edu/files/8897">example paper</a>).
+Different scientific disciplines use different styles for formatting papers and documenting sources. Historians and linguists usually document their sources using footnotes, while most social scientists use parenthetical author-date documentation. Some scientific disciplines use Chicago Style, others use MLA Style or APA Style. For all written work in my courses (problem sets, short research papers, term papers, or theses) you should use the American Psychological Association (APA) Style (with some minor modifications, see below), documented in American Psychological Association (2001) and Bullock, Brody, and Weinberg (2014). APA Style is an extensive set of  formatting and editorial rules for research papers and is used widely in the social sciences, including economics. The *Quarterly Journal of Economics*, for instance, uses a format that is close to APA Style ([example](http://economics.mit.edu/files/8897)).
 
-I expect that, writing formatting your paper, you have read the section on APA Style (pp. 188-191) in Bullock, R., Brody, M., and Weinberg, F. (2014). *The Little Seagull Handbook (2nd edition)*. W.W. Norton & Company, New York and London. Also see <a href="http://owl.english.purdue.edu/owl/resource/560/01/">Purdue On-Line Writing Lab</a> and the examples of assignments for my courses (<a href="example1.pdf">example1.pdf</a>  | <a href="example1.doc">example1.doc</a>| <a href="example2.pdf">example2.pdf</a> |  <a href="example2.doc">example2.doc</a>).
+Before formatting your paper, go to the APA Style Sample Papers page ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)). Carefully inspect the annotated student sample paper (pdf).  Download the student sample paper (docx), make a copy and use the copy as a template for your work by typing over the existing text. Also see the section on APA Style (pp. 188-191) in Bullock, R., Brody, M., and Weinberg, F. (2014). *The Little Seagull Handbook (2nd edition)*. W.W. Norton & Company, New York and London. 
 
 ## Follow the general APA instructions for the manuscript
 
 The general instructions for the manuscript below include some minor departures from APA Style that apply for my assignments:
 * **Paper size.** Use (European standard) A4 paper rather than US standard-sized paper (American Psychological Association, 2001, p. 284) (departure from APA Style).
 * **Font.** Use 12 pt Times (that's usually the default font in your word processor), 12 pt Times Roman, or 12 pt Times New Roman (American Psychological Association, 2001, p. 285; don't use Courier). Stick to the same font and font size throughout the text: don't use different fonts or font sizes for section headers etc. Use a sans serif font such as Helvetica in figures (American Psychological Association, 2001, p. 181). Only use boldface or italics when explicitly required by APA Style. Never underline in a word-processed document; use italics instead (in the old days when manuscripts were written by hand or on a mechanical typewriter, the author underlined to indicate to the typesetter which text to italicize).
-* **Indents.** Indent each paragraph of the body of the report by 1/2 inch (that's about 1.3 cm) (American Psychological Association, 2001, 5.08 p. 289). Define the indent in Word or Writer under Format > Paragraph. Don't indent the abstract. The list of references uses hanging indents. If you use LyX stick to the default.
+* **Indents.** Indent each paragraph of the body of the report by 1/2 inch (that's about 1.3 cm) (American Psychological Association, 2001, 5.08 p. 289). Define the indent in Word or Writer under Format > Paragraph. Don't indent the abstract. The list of references uses hanging indents. 
 * **Spacing.** Double-space throughout the manuscript; never use single or 1 1/2 spacing (American Psychological Association, 2001, p. 286). Never double double-space (press the return key twice in a row): don't put an empty line between a title and the subsequent text or between paragraphs. To double space in Writer do the following when you open a new text document: Format > Paragraph > Line Spacing > Double.
 * **Margins.** "Leave uniform margins of at least 1 in. (2.54 cm) at the top, bottom, left, and right of every page" (American Psychological Association, 2001, p. 286).
-* **Page numbers, page headers.** "The title page is page 1. Number all pages (&hellip;) in the upper right corner (&hellip;) [I]dentify each manuscript page (&hellip;) with the first two or three words from the title in the upper right corner (&hellip;) to the left of the page number" (American Psychological Association, 2001, p. 288). To do this in Write, use Insert > Header to create a page header, type the first two or three words from the title, five blank spaces, and insert the page number (Insert > Fields > Page Number). In Word, use View > Header and Footer.
-* **Figures, tables.** Generate figures and tables by computer whenever possible. Insert computer-generated tables and figures in the main text (departure from APA Style). Include hand-drawn figures on a separate page, not numbered.
-* **Title page** Use a title page as in <a href="example1.pdf">example1.pdf</a> |  | <a href="example1.doc">example1.doc</a>.
-* **Chapters.** In a master thesis, a PhD dissertation, or any report exceeding, say, 12 000 words (about 30 double-spaced pages), it is OK to use chapters. Chapter 1 is usually the Introduction (header: Chapter 1. Introduction).  If your paper has chapters, use the numbering style for sections, figures, tables, and equations from *The Feynman Lectures on Physics*: sections from chapter 2 are numbered 2-1, 2-2, etc.; consecutive figures from chapter 2 are numbered Figure 2-1, Figure 2-2, etc. (Feynman, R., Leighton, R. B., &amp; Sands, M. (1964). *The Feynman Lectures on Physics.* Reading, MA: Addison-Wesley.). Use only one level of subsections (chapter 2 has sections 2-1, 2-2 etc.; no 2-1-1); if Feynman could survey the complete field of physics using one level of subsections, you should be able to write your paper with one level of subsections, too. It's OK to type the chapter titles and section headers in boldface (departure from APA Style); the other APA Style rules still apply.
+* **Page numbers, page headers.** "The title page is page 1. Number all pages (&hellip;) in the upper right corner (&hellip;)" (American Psychological Association, 2001, p. 288). To do this in Write, use Insert > Header to create a page header. Insert the page number (Insert > Fields > Page Number). In Word, use View > Header and Footer.
+* **Figures, tables.** Generate figures and tables by computer whenever possible. Insert computer-generated tables and figures in the main text (that's a departure from APA Style, which asks to put tables and figures at the end).
+* **Title page** Use a title page as in the student sample paper ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)).
+* **Sections.** It is OK to use use numbered sections (departure from APA Style). In that case, section 1 is the Introduction. Don't use more than two levels, though: 2-1 is fine but 2-1-1 is not. If Richard Feynman could survey all of physics using two levels, you should be able limit yourself to two levels, too. (Feynman, R., Leighton, R. B., &amp; Sands, M. (1963). *The Feynman Lectures on Physics.* Reading, MA: Addison-Wesley;  [on-line version](https://www.feynmanlectures.caltech.edu)).
+
+<!-- Chapter 1 is usually the Introduction (header: Chapter 1. Introduction).  If your paper has chapters, use the numbering style for sections, figures, tables, and equations from *The Feynman Lectures on Physics*: sections from chapter 2 are numbered 2-1, 2-2, etc.; consecutive figures from chapter 2 are numbered Figure 2-1, Figure 2-2, etc. .-->  
 
 ## Document your sources. Use author-year citations
 
@@ -118,9 +100,9 @@ If the document does not list the personal authors (the people who wrote the tex
 
 ## Use a standard APA Style title page. 
 
-Here are examples: [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
+Check the title page of the sample student paper: [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
 
-## Include an abstract
+## Include an abstract (only in a master's thesis or a PhD dissertation)
 
 Carefully read the section on abstract in American Psychological Association (2001, pp. 12-15). Following the title page, the paper should have an abstract which is "a brief, comprehensive summary (&hellip;)" (American Psychological Association, 2001, p. 12). A good abstract is accurate, self-contained, concise and specific, nonevaluative, coherent and readable (see American Psychological Association, 2001, pp. 12-14 for more explanation). The reader should get the main points (problem, method, and results, including key numerical results) from reading the abstract. A common mistake is that the abstract reports the main questions but fails to provide the answers. An abstract is also no substitute for the introduction of the paper.
 
@@ -130,27 +112,28 @@ Write the abstract after you have written the main text (after all, it's a summa
 
 Abstracts never refer to tables or figures. Abstracts don't cite sources.
 
-Abstracts are double spaced, not indented, in a single paragraph. In a short assignment (say, 10 pages or less) put the abstract on the title page (APA Style requires a new page for the abstract). In longer papers, put the abstract on a separate page (numbered page 2).
+Abstracts are double spaced, not indented, in a single paragraph. 
 
 In business or consultancy reports abstracts are sometimes called executive summaries; in that case, the language is usually non-technical, and the abstract emphasizes the practical meaning of the results for the decision maker.
 
 For assignments consisting of a series of short textbook problems don't include an abstract. (If in doubt, ask me.)
 
-## Include JEL subject codes
+## Include JEL subject codes (only in a master's thesis or a PhD dissertation)
+
+(This is a departure from APA Style)
 
 <!-- (For papers in my economics classes but not in STA101 Introduction to Statistics.) -->
-Thanks to keywords or subject descriptors, a researcher can locate papers on a particular subject by searching a bibliographical database (such as EconLit) by keyword or subject descriptor. That's why most academic journals require their authors to assign subject descriptors to their own paper. Most economics journals require authors to describe their subject by two- digit Journal of Economic Literature (JEL) classification codes: a letter for the field and two digits for the subfield, e.g., a paper about national income accounts is classified under E01). See for instance the *Quarterly Journal of Economics*: <a href="http://economics.mit.edu/files/8897">sample paper</a>). The list of JEL subject descriptors is here: <a href="https://www.aeaweb.org/jel/guide/jel.php">link</a>). At the end of the abstract you should include two or three appropriate JEL subject descriptors describing the subject of your paper (e.g.: *JEL* classification codes: C21, L62).  
+Thanks to keywords or subject descriptors, a researcher can locate papers on a particular subject by searching a bibliographical database (such as EconLit) by keyword or subject descriptor. That's why most academic journals require their authors to assign subject descriptors to their own paper. Most economics journals require authors to describe their subject by two- digit Journal of Economic Literature (JEL) classification codes: a letter for the field and two digits for the subfield, e.g., a paper about national income accounts is classified under E01). See for instance the *Quarterly Journal of Economics*: [example](http://economics.mit.edu/files/8897). The list of JEL subject descriptors is [here](https://www.aeaweb.org/jel/guide/jel.php). At the end of the abstract you should include two or three appropriate JEL subject descriptors describing the subject of your paper (e.g.: *JEL* classification codes: C21, L62).  
  
 ## Start with an introduction
 
-The body of a report starts on page 2 with the title (centered) followed by the introduction. In APA Style the introduction has no heading or label, so don't type "Introduction" as the heading.
+The body of a report starts on page 2 with the title (centered) followed by the introduction. In APA Style the introduction has no heading or label, so don't type "Introduction" as the heading (unless you number the sections).
 
 "The body of a paper opens with an introduction that presents the specific problem under study and describes the research strategy" (American Psychological Association, 2001, pp. 15-16). Remember that your report should be self-contained:  when you report the solution of a textbook problem or internet exercise, don't assume that the reader has read the problem, but provide the reader in your introduction with all information necessary to understand the context of the problem. Don't cite the question or problem verbatim in your paper; instead, summarize the main givens from a problem in a short, declarative section of the introduction. Document the source of the givens (usually a textbook or a textbook web site) using APA style author-year citation and include the source in the list of references.
 
 ## Report method and results. Discuss the results
 
-Your report should clearly explain the technical details (method, data) of how you obtained your results, and their exact interpretation. These sections should seamlessly integrate text, equations, tables, and figures in a narrative.
-In a short worked problem (of, say, five pages or less) titled subsections may not be necessary; just start a new paragraph.
+Your report should clearly explain the technical details (method, data) of how you obtained your results, and their exact interpretation. The text should seamlessly integrate text, equations, tables, and figures in a narrative. 
 
 ## Pay attention to punctuation
 
@@ -165,7 +148,7 @@ See American Psychological Association (2001, pp. 215-281):
 * Use hanging indents (see American Psychological Association, 2001, p. 223). Indent by 1/2" or 1.3 cm. If you want to now how to create a hanging indent in LibreOffice.org Write consult the help function: Help > LibreOffice.org Help > indent; in text); in Word: Help > Search Word Help > hanging indent.
 * "Arrange entries in alphabetical order by the surname of the last author (&hellip;)" (American Psychological Association, 2001, p. 219).
 * If the same author appears twice with a publication of the same year, distinguish them by using a, b,&hellip;: Weil (2005a), Weil (2005b)
-* For the general forms and examples of references included in the reference list, see American Psychological Association (2001, pp. 223-281).
+* For the general forms and examples of references included in the reference list, see American Psychological Association (2001, pp. 223-281) of the annotated student sample paper (pdf) ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)).
 
 ## Don't use appendices
 
@@ -173,55 +156,46 @@ See American Psychological Association (2001, pp. 205-206).  Include appendices 
 
 ## Don't use footnotes
 
-Don't use footnotes to document sources: APA Style requires in-text parenthetical author-year documentation of sources (American Psychological Association, 2001, pp. 207-214 and pp. 117-122).
+Don't use footnotes to document sources: APA Style requires in-text parenthetical author-year documentation of sources (American Psychological Association, 2001, pp. 207-214 and pp. 117-122). One exception: use footnotes to document the source of a personal communication.
 
-APA Style allows footnotes for other purposes. Still, don't use footnotes except for documenting the source of personal communications. McCloskey (2019, p. XXX) points out that "[f]ootnotes are nests for pedants" (pun intended). Mankiw (2006) gives useful advise: "Put details and digressions in footnotes. Then delete the footnotes."
+APA Style allows footnotes for other purposes. Still, don't.  McCloskey (2019, p. XXX) points out that "[f]ootnotes are nests for pedants" (pun intended). Mankiw (2006) gives useful advise: "Put details and digressions in footnotes. Then delete the footnotes."
 
 ## Format tables, figures, numbers, and math correctly
 
 Technical reports are a common format in market research, accounting, finance, operations management and many other fields of business. Manuals, descriptions of procedures, consultancy reports, and scientific papers are all technical reports. Technical writing typically mixes text, equations, figures and tables; good technical writing does so seamlessly. The major challenges in writing a good technical report are to be clear and to the point, and to tightly integrate the different elements (text, equations, figures and tables). Problem sets in economics, statistics, mathematics or business courses are good exercises for writing technical reports.  For a detailed discussion,  see  American Psychological Association (2001, pp. 215-281). For my assignments don't begin each table on a new page, and you don't have to put each figure on a separate sheet; put the captions for the figures below the figures themselves (departure from APA Style; American Psychological Association, 2001, pp. 301-302).
 
 **Figures (graphs, diagrams) and tables.** For guidelines on tables, see American Psychological Association (2001, pp. 147-175, p. 301) and Ehrenberg, A.S.C. (1981). The Problem of Numeracy. *American Statistician*, 35(2), pp. 67-71. For guidelines on figures, see American Psychological Association (2001, pp. 176-201, p. 302) and Tufte, E. (2001). *The Visual Display of Quantitative Information (2nd edition).* Chesire (CT): Graphics Press. Never start a section or a paragraph with a figure or a table (or an equation). 
-Number figures (figure 1, figure 2, etc.) and tables (table 1, table 2, etc.), followed by a brief and explanatory caption.  Number tables and figures even is there's only one. Tables and figures should (if applicable) contain a note indicating the source(s). The note to a table is placed directly below the table; the note to a figure is part of the figure caption (see examples). Notes to figures are tables are never in a footnote at the bottom of the page. Keep the caption, the corresponding figure (or table) on the same page.<br>
-Example for a table (the caption is placed above the table): <br>
- <blockquote>
-Table 1.<br>
-*Real GDP growth, unemployment, and inflation for Germany, 1980-2003*<br>
-<table>
-[here comes the table]
-</table>
-*Note.* Data on GDP and inflation from International Monetary Fund (1999), table 12 p. 234. GDP growth rates computed by the author.
- </blockquote>
+Number figures (figure 1, figure 2, etc.) and tables (table 1, table 2, etc.), followed by a brief and explanatory caption.  Number tables and figures even is there's only one. Tables and figures should (if applicable) contain a note indicating the source(s). The note to a table is placed directly below the table; the note to a figure is part of the figure caption (see examples). Notes to figures are tables are never in a footnote at the bottom of the page. Keep the caption, the corresponding figure (or table) on the same page.
+
+Example for a table (the caption is placed above the table): :
+
+> Table 1.
+> *Real GDP growth, unemployment, and inflation for Germany, 1980-2003*
+> [here comes the table]
+> *Note.* Data on GDP and inflation from International Monetary Fund (1999), table 12 p. 234. GDP growth rates computed by the author.
  
 Example for a figure (a graph, a diagram, &hellip;):
 
- <blockquote>
- [here comes the figure; the caption is placed below the figure]<br>
-*Figure 1.* GDP growth (%) in Germany, 1980-2003. *Note.* Numbers from International Monetary Fund (1999), table 12 p. 234. Graph generated by the author using R (R Development Core Team, 2008).
- </blockquote>
+> [here comes the figure; the caption is placed below the figure]
+> *Figure 1.* GDP growth (%) in Germany, 1980-2003. *Note.* Numbers from International Monetary Fund (1999), table 12 p. 234. Graph generated by the author using R (R Development Core Team, 2008).
+ 
 
 Refer to all figures and tables in the text. Place all tables and figures within the text after the first text reference. Don't write sentences like "As can be clearly seen from looking at figure 1, the goods market is not in equilibrium when income (*Y*) equals &euro;1400 billions." Just state the fact, and refer to figures and tables as follows:
- <blockquote>
-The goods market is not in equilibrium when income (*Y*) equals &euro;1400 billions (see figure 1).
- </blockquote>
+> The goods market is not in equilibrium when income (*Y*) equals &euro;1400 billions (see figure 1).
+
 Or, alternatively:
- <blockquote>
-As shown in figure 1 the goods market is not in equilibrium when income (*Y*) equals &euro;1 400 billions.
- </blockquote>
+> As shown in figure 1 the goods market is not in equilibrium when income (*Y*) equals &euro;1 400 billions.
 
 "Most tables of data can be improved by following a few simple rules, such as drastic rounding, ordering the rows of a table by size, and giving a brief verbal summary of the data" (Ehrenberg, A.S.C. (1981). The Problem of Numeracy. *American Statistician*, 35(2), pp. 67-71). Never copy tables or other software output from a software directly into a report, but create tables in your word processor. Think about a reader-friendly layout for the table.  Tables should only contain the information essential for the problem at hand. Numbers should be rounded to the decimals relevant to the reader. All numbers of the same variable should be rounded to the same number of decimals. Align numbers right in a column. Tables are usually more readable when they have no vertical borders and only horizontal borders around the header. Don't use grid-like horizontal borders to separate rows within the table, spreadsheet-style &mdash;they make the table less readable. See American Psychological Association (2001, pp. 147-175, including many examples). For an example of well-designed table see Edward Tufte's redesign of a table with cancer survival rates (from http://www.edwardtufte.com/).
 
 Keep table number, caption, table, and note to the table on the same page. The same applies for figures. If you don't know how to do this in a word processor, look up "Keep paragraphs together" in your word processor's Help function.
 
-
 **Equations.** For guidelines on equations and other mathematical &amp; statistical copy, see American Psychological Association (2001, pp. 136-146; pp. 293-295). <br>
 Italicize mathematical symbols for scalars: income (*Y*); *Y* = 3 600 - 300*i*<br>
-Indent formulas or equations by &frac12; inch (1.3 cm):<br>
-<blockquote>
-The equation of the IS schedule is:
+Indent formulas or equations by &frac12; inch (1.3 cm):
 
-         <blockquote>*Y* = 3 600 - 300*i*</blockquote>
-</blockquote>
+> The equation of the IS schedule is:
+> ~~~~~*Y* = 3 600 - 300*i*  
 
 State crucial assumptions explicitly, e.g.: I assume that nominal wages are fixed in the short run.
 
@@ -232,13 +206,11 @@ Use mathematical symbols correctly. Mathematical symbols have precise meanings. 
 Never start a section or a paragraph with an equation (or a figure or a table). 
 Introduce equations using a short declarative sentence (and don't forget to indent the equation):
 
-<blockquote>The money market is in equilibrium when the supply of money (controlled by the central bank) equals the demand for money:
-<blockquote>
-*M*<sup>*s*</sup>/*P* = (*M*/*P*)<sup>*d*</sup>
-</blockquote>
-</blockquote>
+> The money market is in equilibrium when the supply of money (controlled by the central bank) equals the demand for money:
+> *M*<sup>*s*</sup>/*P* = (*M*/*P*)<sup>*d*</sup>
 
-When working a mathematical problem use the layout to help the reader follow the argument. For instance, keep corresponding terms aligned at the same position in different stages of a calculation:
+When working a mathematical problem use the layout to help the reader follow the argument. For instance, keep corresponding terms aligned at the same position in different stages of a calculation. 
+<!-- 
 <table align="center">
 	<tr>
 		<td></td> <td>P(0 &lt; *z* &lt; +6.67)</td> <td>&minus;</td> <td>P(0 &lt; *z* &lt; 1.33)</td>
@@ -249,36 +221,35 @@ When working a mathematical problem use the layout to help the reader follow the
 		<td>&minus;</td>
 		<td>0.4082</td>
 	</tr>
-</table>
+</table> -->
                  
 If you develop a mathematical argument include transitions (just as in any other argument):
-<blockquote>
-Solving the money market equilibrium condition for income (*Y*) yields: (&hellip;)
-</blockquote>
+
+> Solving the money market equilibrium condition for income (*Y*) yields: (&hellip;)
+
 The imperative is useful to develop a mathematical argument:
-<blockquote>
-Solve the *IS* equation for *Y* to obtain:
-     <blockquote>       *Y* = 430 &minus; 2 800*i*   </blockquote>
-</blockquote>
+
+> Solve the *IS* equation for *Y* to obtain:
+> ~~~~~*Y* = 430 &minus; 2 800*i*   
+
 
 If you report an equation (for instance, a line of best fit) don't use as variable names *x*, *y*, or an arcane abbreviation (such as LABCOST)  ("*y* = 315.5 &plus; 3.3*x*, where *x* is the batch size and *y* is total labor cost in dollar"). Instead, use the actual names of the variables when you report the equation:
-<blockquote>The model predicts the total labor cost (in $) as:
-<blockquote>predicted total labor cost  = 315.5 &plus; 3.3  &times; batch size</blockquote>
-</blockquote>
 
-(Until the 1980s, most statistical computer programs could only handle short variable names, usually at most seven characters long. That is why, especially in older papers, authors used variable names like LABCOST for labor cost. There is no need anymore to do that, so don't.)
+> The model predicts the total labor cost (in $) as:
+> ~~~~~ predicted total labor cost  = 315.5 &plus; 3.3  &times; batch size
 
-For more information on reporting econometric results (lines of best fit and the like) see my document <a href="line_of_best_fit.pdf">line_of_best_fit.pdf</a>.
+Until the 1980s, most statistical computer programs could only handle short variable names, usually at most seven characters long. That is why, especially in older papers, authors used variable names like LABCOST for labor cost. There is no need anymore to do that, so don't.
+
+For more information on reporting econometric results (lines of best fit and the like) see my document [line-of-best-fit](line-of-best-fit.pdf).
 
 **Period.** A period (.) is always followed by a blank space: write p. 17, not p.17. This rule does not apply to decimal points (write *t* = 2.34). Type two blank spaces after a period at the end of a sentence.
 
 **Be specific.** Avoid vague words ("change", "affect", "influence"). Be specific: increase, decrease, grow(th), decline. "An increase in a country's terms of trade increases that country's welfare" is clearer than "A change in the a country's terms of trade influences that country's welfare."
 
 **Sample size.** If sample information is used, the figure or table caption reports the sample size. Example:
-<blockquote>
-Table 2.<br>
-Descriptive statistics of mileage and selling price of second-hand cars (sample size = 150)
-</blockquote>
+
+> Table 2.
+> *Descriptive statistics of mileage and selling price of second-hand cars (sample size = 150)*
 
 **Labels.** Label the axes in figures. Always include units of measurement:<br>
 Income (billions of euros)
@@ -298,16 +269,20 @@ Income (billions of euros)
 **Data.** The noun *Data* is **plural** (*Data* is a Latin word meaning "the givens"; the singular is *datum*, "a given"), so use the correct verb: "Data are &hellip;." (not: "Data is &hellip;") (American Psychological Association, 2001, p. XXX).
 
 **Percent and percentage points.** When a variable is itself expressed in percent, a change is measured in percentage points, not percent. For instance, when the interest rate drops from 6 per cent to 3 per cent, by how much did it change? One person might argue that if the interest rate was 6 per cent and dropped to 3 per cent, it dropped by three percent:
-<blockquote>6 percent &minus; 3 percent = 3 per cent</blockquote>
+
+>  6 percent &minus; 3 percent = 3 per cent
+
 Another person might argue that the drop from 6 per cent to 3 per cent represents a 50 per cent drop::
-<blockquote>(6 per cent &minus; 3 per cent) &div; 6 per cent)&times; 100 per cent = 50 per cent:</blockquote> 
+
+> (6 per cent &minus; 3 per cent) &div; 6 per cent)&times; 100 per cent = 50 per cent:
+
 To avoid this confusion, follow the following convention: when a variable is expressed as a percentage change, express the change of the variable in percentage points. In this case, when the rate of inflation drops from 6 per cent to 3 per cent, we say that it dropped by three **percentage points**. One hundredth of a percentage point (0.01 percentage point) is also called a basis point: "The European Central Bank increased its policy interest rate by 25 basis points, to 3.50 per cent from 3.25 per cent" is the same as "The European Central Bank increased its policy interest rate by 0.25 percentage points, to 3.50 per cent from 3.25 per cent"
 
 **Subscripts, superscripts.** Type subscripts as subscripts and superscripts as superscripts. In Microsoft Word, type "subscripting" in the Help function of learn how to do this. Use Tools > Customize to put the subscripting and superscripting functions in your formatting toolbar. 
 
 **Abbreviations.** Avoid non-standard symbols, abbreviations or acronyms. If you use symbols, abbreviations or acronyms, always introduce them (e.g., "European Union (EU)", or "income (*Y*)"), even if you suspect most readers will know them (some won't). You can use standard symbols in equations once you have introduced them. Acronyms are cheap typographical tricks (McCloskey, 2019). Bad writers love them.
 
-**Acknowledgements.** Acknowledgements belong in the author note on the title page (<a href="https://blog.apastyle.org/apastyle/2015/11/giving-thanks-in-apa-style.html">link</a>). Don't thank your advisor for doing their job. That's evidence of bad taste (Umberto Eco, *How to Write a Thesis*).  
+**Acknowledgements.** Acknowledgements belong in the author note on the title page ([link](https://blog.apastyle.org/apastyle/2015/11/giving-thanks-in-apa-style.html)). Don't thank your advisor for doing their job. That's evidence of bad taste (Umberto Eco, *How to Write a Thesis*).  
 
 ## Be polite. Also in e-mails
 
@@ -370,7 +345,7 @@ Als je in het Nederlands schrijft, zet je ook de afbeeldingen en tabellen in het
 
 Een veel voorkomend Gallicisme is om voorzien (wat betekent: verwachten, voorspellen) te verwarren met bepalen.  In het Frans zeg je: "La loi pr&eacute;voit que &hellip; "; in het Nederlands zeg je: "De wet bepaalt dat &hellip; " (niet: voorziet dat). Maar je zegt wel: "De organisatoren van het tuinfeest voorzagen *in* tenten voor het geval dat het zou regenen."
 
-Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar <a href="http://books.google.com/books?id=b-4XB61VqE0C">on-line</a> [de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff]. In de <a href="http://europa.eu.int/en/comm/eurostat/research/isi/">International Statistical Institute (ISI) Glossary of Statistical Terms</a> kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden. Of raadpleeg de webstek <a href="http://vindpunt.nl/vindpunt.php">vindpunt.nl</a> die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Een lijst van enkele veel voorkomende vaktermen:
+Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar ([koppeling](http://books.google.com/books?id=b-4XB61VqE0C)) (de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff). In de International Statistical Institute (ISI) Glossary of Statistical Terms  kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden ([koppeling](https://www.isi-web.org/isi.cbs.nl/glossary/)). Of raadpleeg de webstek [vindpunt.nl](http://vindpunt.nl/vindpunt.php) die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Een lijst van enkele veel voorkomende vaktermen:
 
 <table>
 	<tr valign=top>
