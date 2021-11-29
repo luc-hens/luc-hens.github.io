@@ -133,7 +133,7 @@ The body of a report starts on page 2 with the title (centered) followed by the 
 
 Your report should clearly explain the technical details (method, data) of how you obtained your results, and their exact interpretation. The text should seamlessly integrate text, equations, tables, and figures in a narrative. 
 
-## Pay attention to punctuation
+## Punctuation matters
 
 You can't separate two main clauses by a comma. Separate two main clauses by a period (.). Sometimes a semicolon (;) is OK, too. A colon (:) and a semicolon (;) are two different things.
 
@@ -148,11 +148,11 @@ See American Psychological Association (2001, pp. 215-281):
 * If the same author appears twice with a publication of the same year, distinguish them by using a, b,&hellip;: Weil (2005a), Weil (2005b)
 * For the general forms and examples of references included in the reference list, see American Psychological Association (2001, pp. 223-281) of the annotated student sample paper (pdf) ([link](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)).
 
-## Don't use appendices
+## No appendices
 
 See American Psychological Association (2001, pp. 205-206).  Include appendices only if needed; problem sets and short papers rarely need an appendix.  If the information for your problem (such as survey results) was not published include it in an appendix (Appendix A, etc.).  Explain in a short introductory paragraph of the appendix how you gathered the information. Present the infomation in tables (numbered as Table A1, Table A2 etc., and with appropriate titles). Make sure the units of measurement are included. Only include information that is not publicly available (usually that happens when you generated the information yourself, for instance by conducting a survey or by doing an experiment). If you used information from a publicly available source (such as OECD Main Economic Indicators or the Penn World Table) don't included it in your report but carefully document the source. If you include results from a survey, make sure respondents cannot be identified (unless they explicitly agreed). Don't include the raw data from a textbook problem in your report, but document the source in the introduction or in notes to tables or figures, and include the source in the references. See American Psychological Association (2001, pp. 205-206) for details.
 
-## Don't use footnotes
+## No footnotes
 
 Don't use footnotes to document sources: APA Style requires in-text parenthetical author-year documentation of sources (American Psychological Association, 2001, pp. 207-214 and pp. 117-122). One exception: use footnotes to document the source of a personal communication.
 
@@ -202,7 +202,7 @@ Properly typeset special symbols, superscripts, and subscripts in your word proc
 
 Use mathematical symbols correctly. Mathematical symbols have precise meanings. If you don't know the exact meaning of a symbol don't use it and express your ideas in words. For instance, don't use single or double arrows to indicate a causation.
 
-Never start a section or a paragraph with an equation (or a figure or a table). 
+Don't start a section or a paragraph with an equation (or a figure or a table). 
 Introduce equations using a short declarative sentence (and don't forget to indent the equation):
 
 > The money market is in equilibrium when the supply of money (controlled by the central bank) equals the demand for money: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *M*<sup>*s*</sup>/*P* = (*M*/*P*)<sup>*d*</sup>
