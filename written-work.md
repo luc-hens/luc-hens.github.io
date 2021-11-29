@@ -209,7 +209,7 @@ Introduce equations using a short declarative sentence (and don't forget to inde
 
 When working a mathematical problem use the layout to help the reader follow the argument. For instance, keep corresponding terms aligned at the same position in different stages of a calculation. 
 
-> P(0 &lt; z &lt; +6.67)</td> <td>&minus;</td> <td>P(0 &lt; z &lt; 1.33)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.5000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &minus;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.4082
+> P(0 &lt; z &lt; +6.67) &minus; P(0 &lt; z &lt; 1.33)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.5000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &minus;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.4082
                  
 If you develop a mathematical argument include transitions (just as in any other argument):
 
