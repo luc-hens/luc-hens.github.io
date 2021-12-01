@@ -18,4 +18,4 @@ My research interests include international trade, economic integration, growth 
 
 > *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
 
-> *e*<sup>2&#960;*i*</sup> = 1
+> *e*<sup>2**&#960;***i*</sup> = 1
