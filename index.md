@@ -17,3 +17,5 @@ My research interests include international trade, economic integration, growth 
 * **About me**: my interests other than economics ([link](about-me.html))
 
 > *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
+
+> *e*<sup>*i*2*&#960;</sup>=1
