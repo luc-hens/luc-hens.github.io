@@ -1,0 +1,31 @@
+case,sex,height,weight,major
+1,Female,172,63,Business
+2,Female,170,70,International Affairs
+3,Female,170,52,Other
+4,Female,171,52,Communications
+5,Male,186,90,Business
+6,Male,183,79,Business
+7,Male,170,66,Communications
+8,Female,169,56,Business
+9,Male,175,75,International Affairs
+10,Female,175,65,Communications
+11,Male,195,94,Business
+12,Female,176,51,International Affairs
+13,Male,188,76,International Affairs
+14,Male,192,82,Business
+15,Male,172,70,International Affairs
+16,Female,169,53,Business
+17,Female,172,52,International Affairs
+18,Male,178,85,Business
+19,Female,177,59,Communications
+20,Male,178,72,International Affairs
+21,Female,160,54,Business
+22,Female,175,54,International Affairs
+23,Male,190,70,International Affairs
+24,Male,178,85,Business
+25,Female,163,55,Business
+26,Female,161,59,Business
+27,Female,162,44,Communications
+28,Female,170,54,Business
+29,Female,154,52,Business
+30,Female,170,65,Business
