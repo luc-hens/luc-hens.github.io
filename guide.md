@@ -268,7 +268,7 @@ Each of my course home pages has a links section listing data sources. For examp
 
 #### How do I perform statistical analysis?
 
-To perform statistical analysis use the **R** statistical environment (which I use) or **Python** (which I use, too), or the software from your quantitative methods class (such as SPSS, eViews, or Gretl). Spreadsheet programs such as Microsoft Excel are poor tools for graphing data and for statistical analysis. Burns (2005) gives some reasons why (Burns, P. (2005). *Spreadsheet Addiction* ([link](http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html)). For a more comprehensive and technical discussion, see the papers by Yu (2008); Yalta (2008); and McCullough & Heiser in *Computational Statistics and Data Analysis*, **52**(10)). 
+To perform statistical analysis use **R** statistical environment (which I use) or **Python** (which I use, too), or the software from your quantitative methods class (such as SPSS, eViews, or Gretl). **Wolfram Alpha** is useful to do quick statistical computations on-line. Don't use a spreadsheet program such as Microsoft Excel; spreadsheet programs are poor tools for graphing data and for statistical analysis. Burns (2005) gives some reasons why (Burns, P. (2005). *Spreadsheet Addiction* ([link](http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html)). For a more comprehensive and technical discussion, see the papers by Yu (2008); Yalta (2008); and McCullough & Heiser in *Computational Statistics and Data Analysis*, **52**(10)). 
 
 **R**. "R is (&hellip;) a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques." R runs on Windows, macOS, and Linux. R can be downloaded for free on the [R Project homepage](http://www.r-project.org/). This document explains how to install and run R and RStudio on your computer (macOS or Windows): [link](Installing-RStudio-and-R.pdf).  This short document shows how to use R to do the statistical computations from an introductory course in statistics: [link](Statistics-I-technology-help.pdf). RStudio is a graphical user interface that makes using R easier. R is well documented on-line, but for useful reference books in print, see:xw
 - Dalgaard, P. (2002). *Introductory Statistics with R*. Berlin: Springer. Available in the VUB library.
@@ -279,17 +279,17 @@ To perform statistical analysis use the **R** statistical environment (which I u
 
 > Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.
 
-If you download and install the Anaconda distribution ([link](https://www.anaconda.com/products/individual)) you have both Jupyter and Python and are ready to go. Here is a Jupyter Notebook that shows how to use Python to do the statistical computations from an introductory course in statistics: [link](Statistics-I-using-Python.ipynb); [here](Statistics-I-using-Python.pdf) is the document as a pdf. Books on using Python to do statistical analysis:
+If you download and install the Anaconda distribution ([link](https://www.anaconda.com/products/individual)) you have both Jupyter and Python and are ready to go. Here is a Jupyter Notebook that shows how to use Python to draw the diagrams and do the basic computations from an introductory applied statistics course: [link](Statistics-I-using-Python.ipynb) ([here](Statistics-I-using-Python.pdf) is the document as a pdf). Books on using Python to do statistical analysis:
 * Sheppard, K. (2020). *Introduction to Python for Econometrics, Statistics and Data Analysis.* University of Oxford, Oxford, 4th edition. Can be downloaded [here](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf)). 
 - Haslwanter, T. (2016). *An Introduction to Statistics with Python: With Applications in the Life Sciences.* Berlin: Springer.  On order for the VUB library, call number to be announced.
 - Galea, A. (2018). *Beginning Data Science with Python and Jupyter*. Birmingham: Packt.
 
-**SPSS**. VUB students can download SPSS [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. R, Python and SPSS are installed on PCs in some of the VUB student computer labs. A useful book on SPSS is:
-- Field, A. (2013). *Discovering Statistics Using IBM SPSS Statistics*. London etc.: Sage.  
+**SPSS**. VUB students can download SPSS [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. SPSS is installed on PCs in some of the VUB student computer labs. A useful book on SPSS is:
+- Field, A. (2013). *Discovering Statistics Using IBM SPSS Statistics*. London etc.: Sage.
 
-**Open and reproducible science.** I expect you to share the code (Python or R or Jupyter notebooks) and data (as comma-separated values files, .csv) you use for your research paper or master's thesis via Microsoft OneDrive or **GitHub** ([link](https://github.com)).
+**Wolfram Alpha.** Wolfram Alpha (as a web page or a smartphone app) is useful to do quick statistical computations on-line. [Here](statistics-in-wolfram-alpha.html) is a document that shows how to do the basic computations from an introductory applied statistics course. 
 
-<!-- * Cryer, J. (2001). Problems with using Microsoft Excel for Statistics. ((https://oit.utk.edu/research/documentation/Documents/ExcelStatProbs.pdf)link))
+<!-- documentation/Documents/ExcelStatProbs.pdf)link))
 * Pottel, H. (n.d.). Statistical flaws in Excel. ((http://www.pucrs.br/famat/viali/tic_literatura/artigos/planilhas/pottel.pdf)link)).
 * Practical Stats (n.d.), Is Microsoft Excel an Adequate Statistics Package? ((http://www.practicalstats.com/xlsstats/excelstats.html)link)). link is dead -->
 <!-- * Heiser, D. (2008). Errors, faults and fixes for Excel statistical functions and routines ((http://www.daheiser.info/excel/frontpage.html)link))
