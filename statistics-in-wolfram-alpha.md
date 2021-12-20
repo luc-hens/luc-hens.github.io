@@ -20,8 +20,8 @@ The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of 
 | area under the Chi-square (&#967;<sup>2</sup>) curve between two values  | `P[3 < x < infinity]  for x ~ chisquare distribution with 12 degrees of freedom `                   | 
 | area under the *F* curve between two values (*n* = degrees of | `P[3 < x < infinity]  for x ~ F distribution with  n = 5 and m = 2 `                                           |
 |....freedom in numerator; *m* = degrees of freedom in denominator) |                    |
-| binomial distribution: probability of two successes in three trials | `probability of 2 successes in 3 trials with p=1/6 ` | 
-|....with a probability of succes of 1/6 (*k* = 2, *n* = 3, *p* = 1/6) |                 |
+| binomial distribution: probability of two successes in three trials with a probability | `probability of 2 successes in 3 trials with p=1/6 `                                     | 
+|.... of succes of 1/6 (*k* = 2, *n* = 3, *p* = 1/6) |                                   |
 | roll a die                                   | `roll a die`                            |              
 |....or:                                       | `RandomChoice[{1,2,3,4,5,6}]`           |
 | roll two dice                                | `roll 2 six-sided dice`                 | 
