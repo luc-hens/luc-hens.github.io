@@ -35,7 +35,7 @@ The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of 
 | hypothesis test for two population proportions | `two proportions hypothesis test`     |       
 | hypothesis test for two population means     | `two means hypothesis test`             |
 | sample size                                  | `sample size`                           |
-| <sup>[1]</sup> only for large random samples |                                         | |
+| <sup>[1]</sup> only for large random samples |                                         | 
 
 More examples of how to use WolframAlpha for statistical calculations [here](http://www.wolframalpha.com/examples/Statistics.html).
 
