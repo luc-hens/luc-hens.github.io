@@ -22,7 +22,7 @@ The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of 
 | area under the *F* curve between two values (*n* = degrees of freedom in numerator; *m* = degrees of freedom in denominator)  | `P[3 < x < infinity]  for x ~ F distribution with  n = 5 and m = 2 `                                                                        |
 | binomial distribution: probability of two successes in three trials with a probability of succes of 1/6 (*k* = 2, *n* = 3, *p* = 1/6) | `probability of 2 successes in 3 trials with p=1/6 `                                                                             | 
 | roll a die                                   | `roll a die`                            |              
-| roll a die (alt.):                           | `RandomChoice[{1,2,3,4,5,6}]`           |
+| roll a die (alt.)                            | `RandomChoice[{1,2,3,4,5,6}]`           |
 | roll two dice                                | `roll 2 six-sided dice`                 | 
 | flip a coin                                  | `flip a coin`                           |
 | flip a coin  (alt.)                          | `RandomChoice[{'heads','tails'}]`       | 
