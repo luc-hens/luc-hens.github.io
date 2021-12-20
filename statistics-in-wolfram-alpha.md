@@ -17,19 +17,21 @@ The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of 
 | probability density of the normal distribution | `standard normal distribution`        | 
 | area under the normal curve between two values |  `P[-infinity < x < 1]`               |
 | area under the Student *t* curve between two values | `P[-infinity < x < 1] for x ~ Student's t distribution with 12 degrees of freedom ` |
-| area under the Chi-square curve between two values  | `P[3 < x < infinity]  for x ~ chisquare distribution with 12 degrees of freedom `   | 
-| area under the F curve between two values    | `P[3 < x < infinity]  for x ~ F distribution with  n = 5 and m = 2 ` |
-|    (*n* = degrees of freedom in numerator; *m* = degrees of freedom in denominator) |  |
-| binomial distribution: probability of two successes in three trials with a probability of succes of 1/6 (*k* = 2, *n* = 3, *p* = 1/6) | `probability of 2 successes in 3 trials with p=1/6 ` | 
+| area under the Chi-square (&#967;<sup>2</sup>) curve between two values  | `P[3 < x < infinity]  for x ~ chisquare distribution with 12 degrees of freedom `   | 
+| area under the *F* curve between two values (*n* = degrees of | `P[3 < x < infinity]  for x ~ F distribution with  n = 5 and m = 2 ` |
+|....freedom in numerator; *m* = degrees of freedom in denominator) |  |
+| binomial distribution: probability of two successes in three trials | `probability of 2 successes in 3 trials with p=1/6 ` | 
+|....with a probability of succes of 1/6 (*k* = 2, *n* = 3, *p* = 1/6) |                |
 | roll a die                                   | `roll a die`                            |              
-| ..........or                                 | `RandomChoice[{1,2,3,4,5,6}]`           |
+|....or                                       | `RandomChoice[{1,2,3,4,5,6}]`           |
 | roll two dice                                | `roll 2 six-sided dice`                 | 
 | flip a coin                                  | `flip a coin`                           |
-| ..........or:                                | `RandomChoice[{'heads','tails'}]`       | 
+|....or:                                      | `RandomChoice[{'heads','tails'}]`       | 
 | flip two coins                               | `flip 2 coins`                          |
 | confidence interval for a population proportion (or percentage) | `confidence interval for a population proportion` | 
+| ....(only for large random samples)          |                                         |
 | confidence interval for a population mean    | `confidence interval for a population mean` |
-|  `(only for large random samples)`           |                                         |
+| ....(only for large random samples)          |                                         |
 | hypothesis test for a population fraction    | `one proportion hypothesis test`        |
 | hypothesis test for a population mean        | `one mean hypothesis test`              |
 | hypothesis test for two population fractions | `two proportions hypothesis test`       |
