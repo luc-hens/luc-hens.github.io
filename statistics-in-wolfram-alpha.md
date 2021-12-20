@@ -6,7 +6,7 @@ Author: Luc Hens.
 
 Version: 20 December 2021
 
-The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of a knowledge engine that (among many other things) is a powerful and user-friendly statistical calculator. On a smartphone or tablet use the [mobile version](http://m.wolframalpha.com) or the WolframAlpha app (&euro;3.4), or the Wolfram Statistics Course Assistant app (&euro;2.29).
+The WolframAlpha web page ([link](http://wolframalpha.com)) is the front end of a knowledge engine that (among many other things) is a powerful and user-friendly statistical calculator. On a smartphone or tablet use the [mobile version](http://m.wolframalpha.com) or the WolframAlpha app (about &euro;3), or the Wolfram Statistics Course Assistant app (about &euro;2).
 
 | concept                                       |  WolframAlpha code                     |
 |-----------------------------------------------|----------------------------------------|
