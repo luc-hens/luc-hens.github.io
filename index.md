@@ -14,6 +14,7 @@ My research interests include international trade, economic integration, growth 
 * **APA Style**:  [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)  &mdash;&mdash; [Style &amp; Grammar Guidelines](https://apastyle.apa.org/style-grammar-guidelines)
 * **Recommendation letters**: if you want me to write a letter of recommendation read [this](recommendation.html) first 
 * **Books**: some accessible books on economics and statistics that I recommend  ([link](book-recommendations.html))
+* **Python** code for introductory applied statistics: [Jupyter notebook](Statistics-I-using-Python.ipynb) | [notebook exported to html](Statistics-I-using-Python.html) 
 * **About me**: my interests other than economics ([link](about-me.html))
 
 > *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant,  Horace
