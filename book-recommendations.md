@@ -13,15 +13,15 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 * Tim Harford (2018). *Fifty Things that Made the Modern Economy*. The accompanying  podcast ([link](https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)) is available in your favorite podcast app. 
 * Tim Harford (2011). *The Undercover Economist*. 
 * Steven Landsburg (20xx). *The Armchair Economist: Economics and Everyday Life.* [Add a short annotation]
-* Avinash K. Dixit and Barry J. Nalebuff (xxxx). *Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life*. Game theory explained without math and game theory applied to real-world problems.
+* Avinash K. Dixit and Barry J. Nalebuff (xxxx). *Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life*. Game theory explained without math. Game theory applied to real-world problems.
 * Robert H. Frank (xxxx). *The Economic Naturalist: Why Economics Explains Almost Everything.*.
 * Deirdre N. McCloskey (2019). *Economical Writing: Thirty-Five Rules for Clear and Persuasive Prose*. University of Chicago Press. Advice for writers in any field (not just economics) by an honorary doctor of the VUB. Also read Greg Mankiw's very brief blog post on *How to Write Well* ([link](https://gregmankiw.blogspot.com/2006/10/how-to-write-well.html))
-* Robert Axelrod (1984). *The Evolution of Cooperation* (or the 2006 Revised Edition). [amazon link](https://www.amazon.de/-/en/Robert-Axelrod/dp/0465005640/). VUB library link [add]. Listen to Steven Levitt in a conversation with Robert Axelrod about the book [here](https://freakonomics.com/podcast/pima-robert-axelrod/)
-* Daniel Kahneman (2012). *Thinking, Fast and Slow*. Nobel laureate's best-selling popular science book about rational thinking (slow) and using rules of thumb (fast) [amazon link](https://www.amazon.de/-/en/Daniel-Kahneman/dp/0141033576/).
-* Thomas J. Sargent (2007). *University of California at Berkeley graduation speech.* Not a book but a list of valuable things that economics teaches (335 words) by a Nobel laureate. [link](https://web.archive.org/web/20140811134744/https://files.nyu.edu/ts43/public/personal/UC_graduation.pdf).
-* Leonard E. Read (1958). *I, Pencil: My Family Tree as Told to Leonard E. Read*. Markets co-ordinate activities without a central planner. [link](https://oll.libertyfund.org/title/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958)
+* Robert Axelrod (1984). *The Evolution of Cooperation* (or the 2006 Revised Edition). ([amazon link](https://www.amazon.de/-/en/Robert-Axelrod/dp/0465005640/)). VUB library link [add]. Listen to Steven Levitt in a conversation with Robert Axelrod about the book [here](https://freakonomics.com/podcast/pima-robert-axelrod/).
+* Daniel Kahneman (2012). *Thinking, Fast and Slow*. Nobel laureate's best-selling popular science book about rational thinking (slow) and using rules of thumb (fast) ([amazon link](https://www.amazon.de/-/en/Daniel-Kahneman/dp/0141033576/)).
+* Thomas J. Sargent (2007). *University of California at Berkeley graduation speech.* Not a book but a list of valuable things that economics teaches (335 words) by a Nobel laureate ([link](https://web.archive.org/web/20140811134744/https://files.nyu.edu/ts43/public/personal/UC_graduation.pdf)).
+* Leonard E. Read (1958). *I, Pencil: My Family Tree as Told to Leonard E. Read*. Markets co-ordinate activities. No central planner needed. ([link](https://oll.libertyfund.org/title/read-i-pencil-my-family-tree-as-told-to-leonard-e-read-dec-1958)).
 * Steven D. Levitt and Stephen J. Dubner (200x). *Freakonomics*. Off-the-beaten track topics tackled using the tools of empirical economics. Spawned two of my favorite podcasts: *Freakonomics Radio* and *People I (Mostly) Admire* (available in your favorite podcast app).
-* Hans Rosling, Ola Rosling, and Anna Rosling R&ouml; nnlund. *Factfulness*. Facts (such as data) help understand the world. You can explore such data on the Gapminder web site ([link](https://www.gapminder.org/resources/)). Ola Rosling, and Anna Rosling R&ouml; nnlund are honorary doctors of the VUB.
-* Friedman (xxx). *xxx*.  Nobel laureate
-* Gary Becker (xxx). *xxx*.  Nobel laureate
+* Hans Rosling, Ola Rosling, and Anna Rosling R&ouml; nnlund. *Factfulness*. Facts (such as data) help understand the world. You can explore such data on the Gapminder web site ([link](https://www.gapminder.org/resources/)). Ola Rosling and Anna Rosling R&ouml;nnlund are honorary doctors of the VUB.
+* Friedman (xxx). *xxx*.  Nobel laureate.
+* Gary Becker (xxx). *xxx*.  Nobel laureate.
 
