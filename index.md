@@ -12,7 +12,7 @@ My research interests include international trade, economic integration, growth 
 ### Links
 * **Research guide**: for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
 * **APA Style**:  [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)  &mdash;&mdash; [Style &amp; Grammar Guidelines](https://apastyle.apa.org/style-grammar-guidelines)
-* **Python** code for introductory statistics (Jupyter notebook): [download notebook](Statistics-I-using-Python.ipynb) &mdash;&mdash; [view notebook as html](Statistics-I-using-Python.html) 
+* **Python** code for introductory statistics (Jupyter notebook): [view notebook](https://nbviewer.org/urls/luc-hens.github.io/Statistics-I-using-Python.ipynb#)  &mdash;&mdash; [download notebook](Statistics-I-using-Python.ipynb) 
 * **Recommendation letters**: if you want me to write a letter of recommendation read [this](recommendation.html) first 
 * **Book recommendations**: some accessible books on economics and statistics ([link](book-recommendations.html))
 * **About me**: my interests other than economics ([link](about-me.html))
