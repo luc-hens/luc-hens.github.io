@@ -34,7 +34,7 @@ Other craftsmen (of any gender) I admire: Bashir Abdi, Pierre Alechinsky, Dennis
 
 Johann Sebastian Bach, The Band, Beastie Boys, The Beatles, Beck, Paul Bley, Blind Willie Johnson, the Blue Note record label, Can, Captain Beefheart, JJ Cale, Bill Callahan, Johnny Cash, Hariprasad Chaurasia, Leonard Cohen, John Coltrane, Cornelius (Keigo Oyamada), Miles Davis, Dinosaur Jr, Eric Dolphy, John Dowland, Nick Drake, Bob Dylan, the ECM record label, Eels, Brian Eno, Bill Evans, Morton Feldman, Glenn Gould, Grateful Dead, Jon Hassell, Angela Hewitt, Mark Hollis / Talk Talk, Huelgas Ensemble, Skip James, Robert Johnson, Ali Akbar Khan, Masabumi Kikuchi / Tethered Moon, Kraftwerk, Fela Kuti, Nick Lowe, Bob Marley, John Martyn, Hank Mobley, Thelonious Monk, Van Morrison, Mississippi John Hurt, My Bloody Valentine, Randy Newman, Charlie Patton, Pearl Jam, Lee "Scratch" Perry, Prefab Sprout, Radiohead, Ramones, the RCA Living Stereo record label, Real Estate, Nik B&auml;rtsch's Ronin, Scott Ross, Boz Scaggs, Domenico Scarlatti, Jean Sibelius, Nina Simone, Eliott Smith, Steely Dan, Teenage Fanclub, Tinariwen, A Tribe Called Quest, The Velvet Underground, Neil Young, Tom Waits, Ween, Paul Weller, Tony Joe White, Whitney, Wilco, Bill Withers, Hiroshi Yoshimura. 
 
-What I have been listening to in **2022**: G&uuml;nter Wand &amp; Berliner Philharmoniker, *Bruckner: Symphony No. 5* (1996). Arooj Aftab, *Vulture Prince* (2021).
+What I have been listening to in **2022**: G&uuml;nter Wand &amp; Berliner Philharmoniker, *Bruckner: Symphony No. 5* (1996). Arooj Aftab, *Vulture Prince* (2021). Herb Ellis &amp; Remo Palmier, *Windflower** (1978).
 
 What I've been listening to in [previous years](favorite-albums.html).
 
