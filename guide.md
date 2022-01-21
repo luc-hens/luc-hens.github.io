@@ -2,7 +2,7 @@
 
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-Luc Hens (Last update: 20 December 2021)
+Luc Hens (Last update: 21 January 2022)
 
 <!-- ### A short video introduction (2 minutes)
 <video width="480" height="320" controls="controls)
@@ -279,8 +279,8 @@ To perform statistical analysis use **Python** (in Jupyter Notebooks) or **R** (
 To get Jupyter Notebook and Python, download and install the Anaconda distribution ([link](https://www.anaconda.com/products/individual)). Here's a brief explanation of how to set up Anaconda and Jupyter Notebook as your Python environment, and of the basics of using notebooks: [link](https://python-programming.quantecon.org/getting_started.html). If you took the Business Information Systems or *Bedrijfsinformatica* course, you already installed Anaconda to run Python in Spyder. Spyder is fine but I encourage you give Jupyter Notebook a try. I made a Jupyter Notebook that illustrates how to use Python to draw the diagrams and do the computations from an introductory applied statistics course. You can view the notebook in your browser [here](https://nbviewer.org/urls/luc-hens.github.io/Statistics-I-using-Python.ipynb#). If you use Spyder, copy the Python code from the grey <code>code</code> boxes in the [notebook viewer](https://nbviewer.org/urls/luc-hens.github.io/Statistics-I-using-Python.ipynb#). If you use Jupyter Notebook, download the notebook [here](Statistics-I-using-Python.ipynb).  
 
 Resources on using Python to do statistical analysis:
-- Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and Finance*. [link](https://python-programming.quantecon.org/intro.html). Recommended
-- Sargent, T.J. and Stachurski, J. (s.d.). Linear Regression in Python, in: "*Quantitative Economics with Python* [link](https://python.quantecon.org/ols.html). 
+- Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and Finance*. ([link](https://python-programming.quantecon.org/intro.html)) Recommended
+- Sargent, T.J. and Stachurski, J. (s.d.). Linear Regression in Python, in: "*Quantitative Economics with Python*. ([link](https://python.quantecon.org/ols.html)) 
 - Hens, L. (2022). *Statistics I: Technology help &mdash; Python* (Jupyter notebook): [view notebook](https://nbviewer.org/urls/luc-hens.github.io/Statistics-I-using-Python.ipynb#)  &mdash;&mdash; [download notebook](Statistics-I-using-Python.ipynb) 
 - Sheppard, K. (2020). *Introduction to Python for Econometrics, Statistics and Data Analysis.* University of Oxford, Oxford, 4th edition. Can be downloaded [here](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf)). 
 * Haslwanter, T. (2016). *An Introduction to Statistics with Python: With Applications in the Life Sciences.* Berlin: Springer. Available in the VUB library soon, call number: to be announced (in process, January 2022).
