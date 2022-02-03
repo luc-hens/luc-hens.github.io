@@ -20,7 +20,7 @@ Check with your thesis promotor: different promotors have different expectations
 
 ### When can I expect feedback on written work?
 
-I only give feedback when the written work is submitted as a pdf (no word processor files) or on paper, and is in APA Style (including a standard APA Style title page with a date, and a list of references). The turnaround time typically is two work weeks. It is more than two weeks near a deadline, for instance in May, when I get many drafts. That implies that I do not accept drafts in the two weeks before the due date. I take a summer break, usually from begin-July to begin-August. I don't give feedback during my summer break.
+I only give feedback when the written work is submitted as a pdf (no word processor files) or on paper, and is in APA Style (including a standard APA Style title page with a date, and a list of references). The turnaround time typically is two work weeks. It is more than two weeks near a deadline, for instance in May, when I get many drafts. That implies that I do not accept drafts in the two weeks before the due date. I usually take a summer break from begin-July to begin-August. I don't give feedback during my summer break.
 
 ### How much work does a master's thesis require?
 
@@ -30,11 +30,11 @@ One ECTS credit represents between 25 and 30 hours of work, so the workload for 
 
 If you want to write a research paper on an economics subject, you'll need a basic reference library. Here's a list of reference books that you need during your research. Make sure you have a copy of these books at hand when you're working on the paper. 
 
-The following resources are essential companions while doing research and writing. They are **required** for all students writing a master's thesis with me as promotor:
+The following resources are essential companions while doing research and writing:
 
-* McCloskey, D. (2019). *Economical Writing (3rd edition)* University of Chicago Press. Essential if you are writing a thesis. Buy it.  Read it. Apply what you have learned. Only submit work to me after you read  McCloskey (2019). A shorter version was published as McCloskey, D. N. (1985). Economical writing. *Economic Inquiry*, 23(2), 187-222. You can download it [here](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf).
+* McCloskey, D. (2019). *Economical Writing (3rd edition)* University of Chicago Press.  Required for all students writing a master's thesis with me as promotor. Essential if you are writing a thesis. Buy it.  Read it. Apply what you have learned. Only submit work to me after you read  McCloskey (2019). A shorter version was published as McCloskey, D. N. (1985). Economical writing. *Economic Inquiry*, 23(2), 187-222. You can download it [here](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf).
 * Mankiw, G. N. (2006, October 7). How to write well [blog post] ([link](http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html)). Essential. 
-* Bullock, R., Brody, M., and Weinberg, F. (2016). *The Little Seagull Handbook (3rd edition)*, W.W. Norton &amp; Company. ISBN 978-0393602630. A more recent edition is fine, too. Available [here](https://www.amazon.de/Little-Seagull-Handbook-Richard-Bullock/dp/039360263X/) for about 29 euro. An essential guide to academic research, writing, and editing.
+* Bullock, R., Brody, M., and Weinberg, F. (2016). *The Little Seagull Handbook (3rd edition)*, W.W. Norton &amp; Company. ISBN 978-0393602630. A more recent edition is fine, too. Available [here](https://www.amazon.de/Little-Seagull-Handbook-Richard-Bullock/dp/039360263X/) for about 29 euro. An essential guide to academic research, writing, and editing. Required for all students writing a master's thesis with me as promotor. 
 * Eco, U. (2015). *How To Write a Thesis.* MIT Press. Available as an eBook from the VUB library ([link](https://biblio.vub.ac.be/); go to "vubis catalogue" and search by author. Another essential guide to academic research, writing, and editing. Doing research as a craft, with emphasis on skills like how to take notes.
 * American Psychological Association. (2021). *APA Style: Style and Grammar Guidelines.* ([link](https://apastyle.apa.org); click on "Style and Grammar Guidelines"). Bookmark this link in your browser. See "What is APA Style" below.
 * American Psychological Association. (2021). *APA Style: Sample Papers.* ([link](https://apastyle.apa.org); click on "Instructional Aids" -> "Sample Papers"). Download the "Annotated student sample paper (PDF)" as a guide. Download the "Student sample paper (DOCX)" as a template (make a copy, rename the file, and type your text over the existing text).

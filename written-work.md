@@ -610,7 +610,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
 	
 		<tr valign=top>
 		<td>peer review</td>
-		<td>controle door collega's, vakgenoten.</td>
+		<td>collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten.</td>
 	</tr>
 	
 			<tr valign=top>
