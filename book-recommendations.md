@@ -11,7 +11,7 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 * Matt Ridley (2020). *How Innovation Works* [Add a short annotation]
 * David Spiegelhalter (2019). *The Art of Statistics: Learning from Data.* [Add a short annotation]
 * Tim Harford (2018). *Fifty Things that Made the Modern Economy*. The accompanying  podcast ([link](https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)) is available in your favorite podcast app. 
-* Tim Harford (2011). *The Undercover Economist*. 
+* Tim Harford (2011). *The Undercover Economist*. ([Here](https://timharford.com/2022/02/the-ten-best-books-for-thinking-clearly-about-statistics/) are Tim Harford's *Ten best books for thinking clearly about statistics*.)
 * Steven Landsburg (20xx). *The Armchair Economist: Economics and Everyday Life.* [Add a short annotation]
 * Avinash K. Dixit and Barry J. Nalebuff (xxxx). *Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life*. Game theory explained without math. Game theory applied to real-world problems.
 * Robert H. Frank (xxxx). *The Economic Naturalist: Why Economics Explains Almost Everything.*.
@@ -24,6 +24,6 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 * Hans Rosling, Ola Rosling, and Anna Rosling R&ouml;nnlund. *Factfulness: Ten Reasons We're Wrong About the World &mdash; and Why Things Are Better Than You Think.* Facts (such as data) help understand the world. You can explore such data on the Gapminder web site ([link](https://www.gapminder.org/resources/)). Ola Rosling and Anna Rosling R&ouml;nnlund are honorary doctors of the VUB.
 * Friedman (xxx). *xxx*.  Nobel laureate.
 * Gary Becker (xxx). *xxx*.  Nobel laureate.
-*  N. Gregory Mankiw (any edition). *Principles of Economics*. Excellent introductory economics text. The U.S. edition is much better than the European edition (Mankiw and Taylor, *Economics*).
-* Tyler Cowen and Alex Tabarrok (any edition). *Modern Principles of Economics*. Another excellent introductory economics text. Videos on the Marginal Revolution University site ([link](https://mru.org)).
+*  N. Gregory Mankiw (any edition). *Principles of Economics*. Excellent introductory economics text, written in a clear and accessible language. This U.S. edition is much better than the localized European edition (Mankiw and Taylor, *Economics*). You can buy a hard copy [here](https://www.cengage.co.uk/books/9780357038314/). 
+* Tyler Cowen and Alex Tabarrok (any edition). *Modern Principles of Economics*. Another excellent introductory economics text. Accompanying videos are available for free on the Marginal Revolution University site ([link](https://mru.org)).
 
