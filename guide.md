@@ -275,7 +275,7 @@ In a literature review you give a structured and critical overview of past resea
 
 Because science should be open and reproducible, you should share your data and code with your promotor. I recommend that you create a GitHub account ([link](https://github.com)) to do so.
 
-To perform statistical analysis use **Python** (in Jupyter Notebooks) or **R** (I use both but mostly Python). If you know another statistical software such as SPSS or eViews, that's acceptable too. **Wolfram Alpha** is useful to do quick statistical computations on-line.  Don't use a spreadsheet program such as Microsoft Excel, LibreOffice Calc, or Numbers: spreadsheet programs are poor tools for graphing data and for statistical analysis. Burns (2005) gives some reasons why (Burns, P. (2005). *Spreadsheet Addiction* ([link](http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html)). For a more comprehensive and technical discussion, see the papers by Yu (2008); Yalta (2008); and McCullough & Heiser in *Computational Statistics and Data Analysis*, **52**(10)). 
+To perform statistical analysis use **Python** (in Jupyter Notebooks) or **R** (I use both but mostly Python). Menu-based statistical software such as SPSS or eViews is acceptable but I'm not a fan because running your analysis from a menu makes it hard for others (such as me) to replicate your work. **Wolfram Alpha** is useful to do quick statistical computations on-line.  Don't use a spreadsheet program such as Microsoft Excel, LibreOffice Calc, or Numbers: spreadsheet programs are poor tools for graphing data and for statistical analysis. Burns (2005) gives some reasons why (Burns, P. (2005). *Spreadsheet Addiction* ([link](http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html)). For a more comprehensive and technical discussion, see the papers by Yu (2008); Yalta (2008); and McCullough & Heiser in *Computational Statistics and Data Analysis*, **52**(10)). 
 
 **Python**. Python is a powerful general-purpose programming language with great data analysis tools. If you have no preference between **R** and **Python**, I recommend that you use **Python** in **Jupyter Notebook**:
 
@@ -285,7 +285,7 @@ To get Jupyter Notebook and Python, download and install the Anaconda distributi
 
 Resources on using Python to do statistical analysis:
 - Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and Finance*. ([link](https://python-programming.quantecon.org/intro.html)) Recommended
-- Sargent, T.J. and Stachurski, J. (s.d.). Linear Regression in Python, in: "*Quantitative Economics with Python*. ([link](https://python.quantecon.org/ols.html)) 
+- Sargent, T.J. and Stachurski, J. (s.d.). Linear Regression in Python, in: *Quantitative Economics with Python*. ([link](https://python.quantecon.org/ols.html)) 
 - Hens, L. (2022). *Statistics I: Technology help &mdash; Python* (Jupyter notebook): [view notebook](https://nbviewer.org/urls/luc-hens.github.io/Statistics-I-using-Python.ipynb#)  &mdash;&mdash; [download notebook](Statistics-I-using-Python.ipynb) 
 - Sheppard, K. (2020). *Introduction to Python for Econometrics, Statistics and Data Analysis.* University of Oxford, Oxford, 4th edition. Can be downloaded [here](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf)). 
 * Haslwanter, T. (2016). *An Introduction to Statistics with Python: With Applications in the Life Sciences.* Berlin: Springer. Available in the VUB library soon, call number: to be announced (in process, January 2022).
@@ -347,9 +347,9 @@ The VUB Internet Security and privacy web page gives more information on the Gen
 
 <!-- [complete this section later --- see notebook: talk by Audrey Van Scharen of 21 September 2018. EU site: https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en). --> 
 
-### Can I use questionnaires?
+### Can I use questionnaires (surveys)?
 
-Yes. The *Qualtrics* platform to conduct a questionnaire on-line is available to students  [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. Most samples I see in master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). To study behavior it is usually better to look at what people *do* rather than at what they say they do.
+Yes. The *Qualtrics* platform to conduct a questionnaire on-line is available to students  [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. Most samples I see in master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). To study behavior it is usually better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast .
 
 ### How is the paper graded?
 
