@@ -321,7 +321,105 @@ Als je in het Nederlands schrijft, zet je ook de afbeeldingen en tabellen in het
 
 Een veel voorkomend Gallicisme is om voorzien (wat betekent: verwachten, voorspellen) te verwarren met bepalen.  In het Frans zeg je: "La loi pr&eacute;voit que &hellip; "; in het Nederlands zeg je: "De wet bepaalt dat &hellip; " (niet: voorziet dat). Maar je zegt wel: "De organisatoren van het tuinfeest voorzagen *in* tenten voor het geval dat het zou regenen."
 
-Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar ([koppeling](http://books.google.com/books?id=b-4XB61VqE0C)) (de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff). In de International Statistical Institute (ISI) Glossary of Statistical Terms  kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden ([koppeling](https://www.isi-web.org/isi.cbs.nl/glossary/)). Of raadpleeg de webstek [vindpunt.nl](http://vindpunt.nl/vindpunt.php) die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Onderaan vind je een lijst van enkele veel voorkomende vaktermen.
+Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar ([koppeling](http://books.google.com/books?id=b-4XB61VqE0C)) (de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff). In de International Statistical Institute (ISI) Glossary of Statistical Terms  kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden ([koppeling](https://www.isi-web.org/isi.cbs.nl/glossary/)). Of raadpleeg de webstek [vindpunt.nl](http://vindpunt.nl/vindpunt.php) die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Hier is een lijst van enkele veel voorkomende vaktermen in het Engels met hun Nederlandse equivalent:
+
+## Vaktermen (Engels/Nederlands)
+
+ | *Engels* | *Nederlands* |
+ |----------|--------------|
+ | administration (US, as in: Biden administration) | regering (de regering van Biden; de regering Biden) | |
+ | adverse selection | negatieve risicoselectie |  |
+ | (economic) agent | (economische) actor |
+ | to allocate | toebedelen |
+ | allocation | toebedeling |
+ | assumption | veronderstelling, aanname |
+ | a benchmark | referentiepunt, ijkpunt |
+ | to benchmark | vergelijken, ijken |
+ | bias | vertekening |
+ | biased | vertekend |
+ | billion (1,000,000,000) | miljard (1.000.000.000) |
+ | brain drain | kennisvlucht |
+ | business model | verdienmodel |
+ | capital dilution | kapitaalverwatering |
+ | case study | casusonderzoek |
+ | claim | vordering |
+ | common resources | gemeenschappelijke middelen |
+ | constant returns to scale | constante schaalopbrengsten |
+ | convenience sample | gemakssteekproef |
+ | (when describing a correlation:) the higher *A*, the lower *B* | hoe hoger *A*, hoe lager *B* |
+ | customs union | douaneunie |
+ | database | gegevensbank, gegevensbestand |
+ | deadweight loss | welvaartsverlies |
+ | decrease by (let op het correcte voorzetsel in het Engels: by) | afnemen met  |
+ | default | wanbetaling, betaalstaking, staking van betaling |
+ | discount rate | tijdsvoorkeurvoet |
+ | diseconomies of scale | schaalnadelen |
+ | disincentive | sanctie; negatieve prikkel, negatieve stimulans |
+ | draft | concept, conceptversie |
+ | economies of scale | schaalvoordelen |
+ | economies of scope | voordelen van bereik |
+ | emerging markets | ontluikende economie&euml;n |
+ | (full) employment | (volledige) werkgelegenheid (niet: tewerkstelling) |
+ | feedback | terugkoppeling |
+ | figure | afbeelding |
+ | fiscal policy | begrotingsbeleid  |
+ | free rider | niet-betalende passagier |
+ | free trade area | vrijhandelszone |
+ | general equilibrium model | algemeen-evenwichtsmodel (met koppelteken: algemeen slaat op het evenwicht, niet op het model) |
+ | gross domestic product (GDP) | bruto binnenlands product (bbp) (zonder punten, in kleine letters) |
+ | growth rate | groeivoet |
+ | incentive | gunstmaatregel, voordeel; prikkel, stimulans |
+ | increase by (let op het correcte voorzetsel in het Engels: by) | toenemen met  |
+ | intercept (*y*-intercept) | asafsnede (*y*-asafsnede) |
+ | labor force | beroepsbevolking |
+ | link | koppeling |
+ | long-term interest rate | langetermijninterestvoet, lange-termijninterestvoet (in &eacute;&eacute;n woord of met koppelteken) |
+ | monetary policy <br>(expansionary &mdash;; restrictive &mdash;) | geldbeleid (ruim &mdash;; krap &mdash;) |
+ | monopoly rent | monopolierente |
+ | moral hazard | moreel risico |
+ | natural resources | natuurlijke hulpbronnen |
+ | note | noot |
+ | orderly default | begeleide betaalstaking, begeleide staking van betaling |
+ | outlier | uitschieter, uitbijter |
+ | output | productie |
+ | *p* value | *p*-waarde; overschrijdingskans |
+ | paper | artikel (indien gepubliceerd); werkstuk (indien de neerslag van een taak) |
+ | partial equilibrium model | partieel-evenwichtsmodel (met koppelteken: partieel slaat op het evenwicht, niet op het model) |
+ | peak | piek (in de betekenis van: (lokaal) maximum in een tijdreeks). Tegengestelde van: *trough*. |
+ | peer review | collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten. |
+ | peer reviewed | gecontroleerd door collega's. |
+ | principal and agent | opdrachtgever en uitvoerder |
+ | production possibility frontier | productiemogelijkheidscurve, transformatiecurve. |
+ | public goods | collectieve goederen |
+ | quantitative easing (QE) | kwantitatieve verruiming, kwantitatieve versoepeling |
+ | quota rent | quotarente |
+ | to raise (raised, raised) | doen stijgen, verhogen (altijd met lijdend voorwerp: "The ECB raised the refi rate by 25 basis points.") |
+ | to rise (rose, risen) | stijgen (zonder lijdend voorwerp: "The market rate rose by 7 basis points.") |
+ | random sample | toevalssteekproef |
+ | random walk | stochastische wandeling |
+ | range (statistiek: range = max - min) | variatiebreedte |
+ | rate of return | opbrengstvoet |
+ | rent (*i.e.*, income from land or capital) | rente (niet: huur). Zie ook: *monopoly rent*, *quota rent*. |
+ | refereed | gecontroleerd door collega's (synoniem van *peer reviewed*)  |
+ | resources | middelen (*natural resources* is natuurlijke hulpbronnen)  |
+ | scatter plot | spreidingsdiagram |
+ | short-term interest rate | kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken) |
+ | spill-over effects | oversijpelingseffecten |
+ | supply chain | waardeketen |
+ | tariff | invoerrecht |
+ | time series | tijdreeks |
+ | terms of trade | internationale ruilvoet |
+ | trade diversion | handelsverlegging |
+ | trade-off | afweging |
+ | trough | dal, laagtepunt (in de betekenis van: (lokaal) minimum in een tijdreeks). Tegengestelde van: *peak* |  |
+ | unit root (a property of a time series) | eenheidswortel (een eigenschap van een tijdreeks) |
+ | an update | bijwerking, actualisering |
+ | to update | bijwerken, actualiseren |
+ | wage rate | loonvoet |
+ | worker | arbeidskracht (niet: werker) |
+ | working paper | niet-gepubliceerd artikel, werkdocument |  |
+ | World Trade Organisation | Wereldhandelsorganisatie (in &eacute;&eacute;n woord)
+
 
 ## Mails 
 
@@ -331,99 +429,3 @@ Stuur **bijlages** enkel als de bestemmeling daarom heeft gevraagd. Stuur bijlag
 Lees ook de emailrichtlijnen voor studenten van de faculteit ES ([koppeling](Emailrichtlijnen-voor-studenten.pdf)) en How to write an e-mail to your instructor or teaching assistant ([koppeling](http://phdcomics.com/comics/archive.php?comicid=1795)).
 
 
-## Vaktermen (Engels/Nederlands)
-
- | *Engels* | *Nederlands* | 
- |----------|--------------| 
- | administration (US, as in: Biden administration) | regering (de regering van Biden; de regering Biden) | | 
- | adverse selection | negatieve risicoselectie |  | 
- | (economic) agent | (economische) actor | 
- | to allocate | toebedelen | 
- | allocation | toebedeling | 
- | assumption | veronderstelling, aanname | 
- | a benchmark | referentiepunt, ijkpunt | 
- | to benchmark | vergelijken, ijken | 
- | bias | vertekening | 
- | biased | vertekend | 
- | billion (1,000,000,000) | miljard (1.000.000.000) | 
- | brain drain | kennisvlucht | 
- | business model | verdienmodel | 
- | capital dilution | kapitaalverwatering | 
- | case study | casusonderzoek | 
- | claim | vordering | 
- | common resources | gemeenschappelijke middelen | 
- | constant returns to scale | constante schaalopbrengsten | 
- | convenience sample | gemakssteekproef | 
- | (when describing a correlation:) the higher *A*, the lower *B* | hoe hoger *A*, hoe lager *B* | 
- | customs union | douaneunie | 
- | database | gegevensbank, gegevensbestand | 
- | deadweight loss | welvaartsverlies | 
- | decrease by (let op het correcte voorzetsel in het Engels: by) | afnemen met  | 
- | default | wanbetaling, betaalstaking, staking van betaling | 
- | discount rate | tijdsvoorkeurvoet | 
- | diseconomies of scale | schaalnadelen | 
- | disincentive | sanctie; negatieve prikkel, negatieve stimulans | 
- | draft | concept, conceptversie | 
- | economies of scale | schaalvoordelen | 
- | economies of scope | voordelen van bereik | 
- | emerging markets | ontluikende economie&euml;n | 
- | (full) employment | (volledige) werkgelegenheid (niet: tewerkstelling) | 
- | feedback | terugkoppeling | 
- | figure | afbeelding | 
- | fiscal policy | begrotingsbeleid  | 
- | free rider | niet-betalende passagier | 
- | free trade area | vrijhandelszone | 
- | general equilibrium model | algemeen-evenwichtsmodel (met koppelteken: algemeen slaat op het evenwicht, niet op het model) | 
- | gross domestic product (GDP) | bruto binnenlands product (bbp) (zonder punten, in kleine letters) | 
- | growth rate | groeivoet | 
- | incentive | gunstmaatregel, voordeel; prikkel, stimulans | 
- | increase by (let op het correcte voorzetsel in het Engels: by) | toenemen met  | 
- | intercept (*y*-intercept) | asafsnede (*y*-asafsnede) | 
- | labor force | beroepsbevolking | 
- | link | koppeling | 
- | long-term interest rate | langetermijninterestvoet, lange-termijninterestvoet (in &eacute;&eacute;n woord of met koppelteken) | 
- | monetary policy <br>(expansionary &mdash;; restrictive &mdash;) | geldbeleid (ruim &mdash;; krap &mdash;) | 
- | monopoly rent | monopolierente | 
- | moral hazard | moreel risico | 
- | natural resources | natuurlijke hulpbronnen | 
- | note | noot | 
- | orderly default | begeleide betaalstaking, begeleide staking van betaling | 
- | outlier | uitschieter, uitbijter | 
- | output | productie | 
- | *p* value | *p*-waarde; overschrijdingskans | 
- | paper | artikel (indien gepubliceerd); werkstuk (indien de neerslag van een taak) | 
- | partial equilibrium model | partieel-evenwichtsmodel (met koppelteken: partieel slaat op het evenwicht, niet op het model) | 
- | peak | piek (in de betekenis van: (lokaal) maximum in een tijdreeks). Tegengestelde van: *trough*. | 
- | peer review | collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten. | 
- | peer reviewed | gecontroleerd door collega's. | 
- | principal and agent | opdrachtgever en uitvoerder | 
- | production possibility frontier | productiemogelijkheidscurve, transformatiecurve. | 
- | public goods | collectieve goederen | 
- | quantitative easing (QE) | kwantitatieve verruiming, kwantitatieve versoepeling | 
- | quota rent | quotarente | 
- | to raise (raised, raised) | doen stijgen, verhogen (altijd met lijdend voorwerp: "The ECB raised the refi rate by 25 basis points.") | 
- | to rise (rose, risen) | stijgen (zonder lijdend voorwerp: "The market rate rose by 7 basis points.") | 
- | random sample | toevalssteekproef | 
- | random walk | stochastische wandeling | 
- | range (statistiek: range = max - min) | variatiebreedte | 
- | rate of return | opbrengstvoet | 
- | rent (*i.e.*, income from land or capital) | rente (niet: huur). Zie ook: *monopoly rent*, *quota rent*. | 
- | refereed | gecontroleerd door collega's (synoniem van *peer reviewed*)  | 
- | resources | middelen (*natural resources* is natuurlijke hulpbronnen)  | 
- | scatter plot | spreidingsdiagram | 
- | short-term interest rate | kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken) | 
- | spill-over effects | oversijpelingseffecten | 
- | supply chain | waardeketen | 
- | tariff | invoerrecht | 
- | time series | tijdreeks | 
- | terms of trade | internationale ruilvoet | 
- | trade diversion | handelsverlegging | 
- | trade-off | afweging | 
- | trough | dal, laagtepunt (in de betekenis van: (lokaal) minimum in een tijdreeks). Tegengestelde van: *peak* |  | 
- | unit root (a property of a time series) | eenheidswortel (een eigenschap van een tijdreeks) | 
- | an update | bijwerking, actualisering | 
- | to update | bijwerken, actualiseren | 
- | wage rate | loonvoet | 
- | worker | arbeidskracht (niet: werker) | 
- | working paper | niet-gepubliceerd artikel, werkdocument |  | 
- | World Trade Organisation | Wereldhandelsorganisatie (in &eacute;&eacute;n woord)
