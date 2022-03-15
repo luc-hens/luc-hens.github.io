@@ -321,461 +321,7 @@ Als je in het Nederlands schrijft, zet je ook de afbeeldingen en tabellen in het
 
 Een veel voorkomend Gallicisme is om voorzien (wat betekent: verwachten, voorspellen) te verwarren met bepalen.  In het Frans zeg je: "La loi pr&eacute;voit que &hellip; "; in het Nederlands zeg je: "De wet bepaalt dat &hellip; " (niet: voorziet dat). Maar je zegt wel: "De organisatoren van het tuinfeest voorzagen *in* tenten voor het geval dat het zou regenen."
 
-Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar ([koppeling](http://books.google.com/books?id=b-4XB61VqE0C)) (de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff). In de International Statistical Institute (ISI) Glossary of Statistical Terms  kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden ([koppeling](https://www.isi-web.org/isi.cbs.nl/glossary/)). Of raadpleeg de webstek [vindpunt.nl](http://vindpunt.nl/vindpunt.php) die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Een lijst van enkele veel voorkomende vaktermen:
-
-<table>
-	<tr valign=top>
-		<td>*Engels*</td>
-		<td>*Nederlands*</td>
-	</tr>
-	<tr valign=top>
-		<td>administration (US, as in: Biden administration)</td>
-		<td>regering (de regering van Biden; de regering Biden)</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>adverse selection</td>
-		<td>negatieve risicoselectie</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>(economic) agent</td>
-		<td>(economische) actor</td>
-	</tr>
-	<tr valign=top>
-		<td>to allocate</td>
-		<td>toebedelen</td>
-	</tr>
-	<tr valign=top>
-		<td>allocation</td>
-		<td>toebedeling</td>
-	</tr>
-	<tr valign=top>
-		<td>assumption</td>
-		<td>veronderstelling, aanname</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>a benchmark</td>
-		<td>referentiepunt, ijkpunt</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>to benchmark</td>
-		<td>vergelijken, ijken</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>bias</td>
-		<td>vertekening</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>biased</td>
-		<td>vertekend</td>
-	</tr>
-
-	<tr valign=top>
-		<td>billion (1,000,000,000)</td>
-		<td>miljard (1.000.000.000)</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>brain drain</td>
-		<td>kennisvlucht</td>
-	</tr>
-
-
-	<tr valign=top>
-		<td>business model</td>
-		<td>verdienmodel</td>
-	</tr>
-	<tr valign=top>
-		<td>capital dilution</td>
-		<td>kapitaalverwatering</td>
-	</tr>
-	<tr valign=top>
-		<td>case study</td>
-		<td>casusonderzoek</td>
-	</tr>
-	<tr valign=top>
-		<td>claim</td>
-		<td>vordering</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>common resources</td>
-		<td>gemeenschappelijke middelen</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>constant returns to scale</td>
-		<td>constante schaalopbrengsten</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>convenience sample</td>
-		<td>gemakssteekproef</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>(when describing a correlation:) the higher *A*, the lower *B*</td>
-		<td>hoe hoger *A*, hoe lager *B*</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>customs union</td>
-		<td>douaneunie</td>
-	</tr>
-	<tr valign=top>
-		<td>database</td>
-		<td>gegevensbank, gegevensbestand</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>deadweight loss</td>
-		<td>welvaartsverlies</td>
-	</tr>
-		
-	<tr valign=top>
-		<td>decrease by (let op het correcte voorzetsel in het Engels: by)</td>
-		<td>afnemen met </td>
-	</tr>
-	
-	<tr valign=top>
-		<td>default</td>
-		<td>wanbetaling, betaalstaking, staking van betaling</td>
-	</tr>
-	
-	 	<tr valign=top>
-		<td>discount rate</td>
-		<td>tijdsvoorkeurvoet</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>diseconomies of scale</td>
-		<td>schaalnadelen</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>disincentive</td>
-		<td>sanctie; negatieve prikkel, negatieve stimulans</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>draft</td>
-		<td>concept, conceptversie</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>economies of scale</td>
-		<td>schaalvoordelen</td>
-	</tr>
-		<tr valign=top>
-		<td>economies of scope</td>
-		<td>voordelen van bereik</td>
-	</tr>
-	<tr valign=top>
-		<td>emerging markets</td>
-		<td>ontluikende economie&euml;n</td>
-	</tr>
-	<tr valign=top>
-		<td>(full) employment</td>
-		<td>(volledige) werkgelegenheid (niet: tewerkstelling)</td>
-	</tr>
-	<tr valign=top>
-		<td>feedback</td>
-		<td>terugkoppeling</td>
-	</tr>
-	<tr valign=top>
-		<td>figure</td>
-		<td>afbeelding</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>fiscal policy</td>
-		<td>begrotingsbeleid </td>
-	</tr>
-	
-		<tr valign=top>
-		<td>free rider</td>
-		<td>niet-betalende passagier</td>
-	</tr> 
-	
-	<tr valign=top>
-		<td>free trade area</td>
-		<td>vrijhandelszone</td>
-	</tr>
-	<tr valign=top>
-		<td>general equilibrium model</td>
-		<td>algemeen-evenwichtsmodel (met koppelteken: algemeen slaat op het evenwicht, niet op het model)</td>
-	</tr>
-	<tr valign=top>
-		<td>gross domestic product (GDP)</td>
-		<td>bruto binnenlands product (bbp) (zonder punten, in kleine letters)</td>
-	</tr>
-	<tr valign=top>
-		<td>growth rate</td>
-		<td>groeivoet</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>incentive</td>
-		<td>gunstmaatregel, voordeel; prikkel, stimulans</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>increase by (let op het correcte voorzetsel in het Engels: by)</td>
-		<td>toenemen met </td>
-	</tr>
-	
-		<tr valign=top>
-		<td>intercept (*y*-intercept)</td>
-		<td>asafsnede (*y*-asafsnede)</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>labor force</td>
-		<td>beroepsbevolking</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>link</td>
-		<td>koppeling</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>long-term interest rate</td>
-		<td>langetermijninterestvoet, lange-termijninterestvoet (in &eacute;&eacute;n woord of met koppelteken)</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>monetary policy <br>(expansionary &mdash;; restrictive &mdash;)</td>
-		<td>geldbeleid (ruim &mdash;; krap &mdash;)</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>monopoly rent</td>
-		<td>monopolierente</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>moral hazard</td>
-		<td>moreel risico</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>natural resources</td>
-		<td>natuurlijke hulpbronnen</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>note</td>
-		<td>noot</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>orderly default</td>
-		<td>begeleide betaalstaking, begeleide staking van betaling</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>outlier</td>
-		<td>uitschieter, uitbijter</td>
-	</tr>
-    <tr valign=top>
-		<td>output</td>
-		<td>productie</td>
-	</tr>
-
-	<tr valign=top>
-		<td>*p* value</td>
-		<td>*p*-waarde; overschrijdingskans</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>paper</td>
-		<td>artikel (indien gepubliceerd); werkstuk (indien de neerslag van een taak)</td>
-	</tr>
-
-	<tr valign=top>
-		<td>partial equilibrium model</td>
-		<td>partieel-evenwichtsmodel (met koppelteken: partieel slaat op het evenwicht, niet op het model)</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>peak</td>
-		<td>piek (in de betekenis van: (lokaal) maximum in een tijdreeks). Tegengestelde van: *trough*.</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>peer review</td>
-		<td>collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten.</td>
-	</tr>
-	
-			<tr valign=top>
-		<td>peer reviewed</td>
-		<td>gecontroleerd door collega's.</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>principal and agent</td>
-		<td>opdrachtgever en uitvoerder</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>production possibility frontier</td>
-		<td>productiemogelijkheidscurve, transformatiecurve.</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>public goods</td>
-		<td>collectieve goederen</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>quantitative easing (QE)</td>
-		<td>kwantitatieve verruiming</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>quota rent</td>
-		<td>quotarente</td>
-	</tr>
-
-	<tr valign=top>
-		<td>to raise (raised, raised)</td>
-		<td>doen stijgen, verhogen (altijd met lijdend voorwerp: "The ECB raised the refi rate by 25 basis points.")</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>to rise (rose, risen)</td>
-		<td>stijgen (zonder lijdend voorwerp: "The market rate rose by 7 basis points.")</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>random sample</td>
-		<td>toevalssteekproef</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>random walk</td>
-		<td>stochastische wandeling</td>
-
-	<tr valign=top>
-		<td>range (statistiek: range = max - min)</td>
-		<td>variatiebreedte</td>
-	</tr>
-
-		<tr valign=top>
-		<td>rate of return</td>
-		<td>opbrengstvoet</td>
-	</tr>
-	<tr valign=top>
-		<td>rent (*i.e.*, income from land or capital)</td>
-		<td>rente (niet: huur). Zie ook: *monopoly rent*, *quota rent*.</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>refereed</td>
-		<td>gecontroleerd door collega's (synoniem van *peer reviewed*) </td>
-	</tr>
-	
-	<tr valign=top>
-		<td>resources</td>
-		<td>middelen (*natural resources* is natuurlijke hulpbronnen) </td>
-	</tr>
-	
-
-	<tr valign=top>
-		<td>scatter plot</td>
-		<td>spreidingsdiagram</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>short-term interest rate</td>
-		<td>kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken)</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>spill-over effects</td>
-		<td>oversijpelingseffecten</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>supply chain</td>
-		<td>waardeketen</td>
-	</tr>
-	<tr valign=top>
-		<td>tariff</td>
-		<td>invoerrecht</td>
-	</tr>
-	<tr valign=top>
-		<td>time series</td>
-		<td>tijdreeks</td>
-	</tr>
-	<tr valign=top>
-		<td>terms of trade</td>
-		<td>internationale ruilvoet</td>
-	</tr>
-	<tr valign=top>
-		<td>trade diversion</td>
-		<td>handelsverlegging</td>
-	</tr>
-        
-        <tr valign=top>
-		<td>trade-off</td>
-		<td>afweging</td>
-	</tr>
-	<tr valign=top>
-		<td>trough</td>
-		<td>dal, laagtepunt (in de betekenis van: (lokaal) minimum in een tijdreeks). Tegengestelde van: *peak*</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>unit root (a property of a time series)</td>
-		<td>eenheidswortel (een eigenschap van een tijdreeks)</td>
-	</tr>
-	
-		<tr valign=top>
-		<td>an update</td>
-		<td>bijwerking, actualisering</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>to update</td>
-		<td>bijwerken, actualiseren</td>
-	</tr>
-
-	<tr valign=top>
-		<td>wage rate</td>
-		<td>loonvoet</td>
-	</tr>
-	<tr valign=top>
-		<td>worker</td>
-		<td>arbeidskracht (niet: werker)</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>working paper</td>
-		<td>niet-gepubliceerd artikel, werkdocument</td>
-	</tr>
-	
-	<tr valign=top>
-		<td>World Trade Organisation</td>
-		<td>Wereldhandelsorganisatie (in &eacute;&eacute;n woord)</td>
-	</tr>
-	
-	<tr valign=top>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr valign=top>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
-
+Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketing en computer zijn OK, maar ijkpunt maakt *benchmark* overbodig. Een goed vertaalwoordenboek is daarbij nuttig; het gespecialiseerde vertaalwoordenboek van de Jong (1980) is gedeeltelijk beschikbaar ([koppeling](http://books.google.com/books?id=b-4XB61VqE0C)) (de Jong, Frits J. (1980). *Quadrilingual economics dictionary English/American, French, German, Dutch*. The Hague etc.: Martinus Nijhoff). In de International Statistical Institute (ISI) Glossary of Statistical Terms  kan je de Nederlandse termen voor heel wat statistische begrippen terugvinden ([koppeling](https://www.isi-web.org/isi.cbs.nl/glossary/)). Of raadpleeg de webstek [vindpunt.nl](http://vindpunt.nl/vindpunt.php) die hoort bij het boekje van Frans Bakker, Paul Ulj&eacute;, en Van Zijderveld, D. (2015). *Op-en-top Nederlands: woordenlijst overbodig Engels*. Brave New Books. Onderaan vind je een lijst van enkele veel voorkomende vaktermen.
 
 ## Mails 
 
@@ -783,3 +329,100 @@ Beleefdheid is een onderschatte deugd. Daarom enkele wenken voor als je wil dat 
 De gepaste **aanhef** is "Geachte professor" (formeel) of "Beste professor" (minder formeel; niet gepast bij het eerste contact), gevolgd door een komma en een witregel (in het Engels: "Dear Professor" gevolgd door een komma of een dubbele punt en een witregel). Voor een assistent is de gepaste aanhef: "Geachte heer" of "Geachte mevrouw." Het helaas alomtegenwoordige "Beste," (of "Geachte,") is geen gepaste aanhef ([koppeling](http://taaladvies.net/taal/advies/vraag/1323/geachte_beste_als_aanhef/)). Beste wie of wat? Beste komma? Op het bijvoeglijk naamwoord "beste" hoort een zelfstandig naamwoord te volgen. Als je een brief of mail schrijft aan iemand die je niet persoonlijk kent en waarvan je het geslacht en de titel niet kent, is de gepaste aanhef: "Geachte mevrouw, [nieuwe regel] Geachte heer," (maar dus niet: "Geachte,"). Als je een brief of mail schrijft aan iemand die je wel persoonlijk kent, is de gepaste aanhef (zie hierboven) "Geachte heer,", "Geachte mevrouw," "Geachte professor," of "Beste professor,". Gepaste slotformules zijn: "Met de meeste achting," "Hoogachtend," (formeel) of "Met vriendelijke groet," (minder formeel; niet gepast bij het eerste contact); gevolgd door je voornaam en naam (de voornaam eerst: daarom is het de *voor*naam). Brieven en mails aan mij gericht die beginnen met "Beste," belanden ongelezen in de prullenmand. 
 Stuur **bijlages** enkel als de bestemmeling daarom heeft gevraagd. Stuur bijlages enkel in Portable Document Format (pdf); gebruik geen andere opmaak (zoals .docx, .xlsx, of .pptx) tenzij je bestemmeling daar uitdrukkelijk om heeft gevraagd. 
 Lees ook de emailrichtlijnen voor studenten van de faculteit ES ([koppeling](Emailrichtlijnen-voor-studenten.pdf)) en How to write an e-mail to your instructor or teaching assistant ([koppeling](http://phdcomics.com/comics/archive.php?comicid=1795)).
+
+
+## Vaktermen (Engels/Nederlands)
+	
+	*Engels*                                            *Nederlands*
+	administration (US, as in: Biden administration)    regering (de regering van Biden; de regering Biden)
+	adverse selection									negatieve risicoselectie	
+	(economic) agent									(economische) actor
+	to allocate											toebedelen
+	allocation											toebedeling
+	assumption											veronderstelling, aanname
+	a benchmark											referentiepunt, ijkpunt
+	to benchmark										vergelijken, ijken
+	bias												vertekening
+	biased												vertekend
+	billion (1,000,000,000)								miljard (1.000.000.000)
+	brain drain											kennisvlucht
+	business model										verdienmodel
+	capital dilution									kapitaalverwatering
+	case study											casusonderzoek
+	claim												vordering
+	common resources									gemeenschappelijke middelen
+	constant returns to scale							constante schaalopbrengsten
+	convenience sample									gemakssteekproef
+	(when describing a correlation:) the higher *A*, the lower *B*										hoe hoger *A*, hoe lager *B*
+	customs union										douaneunie
+	database										gegevensbank, gegevensbestand
+	deadweight loss										welvaartsverlies
+	decrease by (let op het correcte voorzetsel in het Engels: by)										afnemen met 
+	default										wanbetaling, betaalstaking, staking van betaling
+	discount rate										tijdsvoorkeurvoet
+	diseconomies of scale										schaalnadelen
+	disincentive										sanctie; negatieve prikkel, negatieve stimulans
+	draft										concept, conceptversie
+	economies of scale										schaalvoordelen
+	economies of scope										voordelen van bereik
+	emerging markets										ontluikende economie&euml;n
+	(full) employment										(volledige) werkgelegenheid (niet: tewerkstelling)
+	feedback										terugkoppeling
+	figure										afbeelding
+	fiscal policy										begrotingsbeleid 
+	free rider										niet-betalende passagier
+	free trade area										vrijhandelszone
+	general equilibrium model										algemeen-evenwichtsmodel (met koppelteken: algemeen slaat op het evenwicht, niet op het model)
+	gross domestic product (GDP)										bruto binnenlands product (bbp) (zonder punten, in kleine letters)
+	growth rate										groeivoet
+	incentive										gunstmaatregel, voordeel; prikkel, stimulans
+	increase by (let op het correcte voorzetsel in het Engels: by)										toenemen met 
+	intercept (*y*-intercept)										asafsnede (*y*-asafsnede)
+	labor force										beroepsbevolking
+	link										koppeling
+	long-term interest rate										langetermijninterestvoet, lange-termijninterestvoet (in &eacute;&eacute;n woord of met koppelteken)
+	monetary policy <br>(expansionary &mdash;; restrictive &mdash;)										geldbeleid (ruim &mdash;; krap &mdash;)
+	monopoly rent										monopolierente
+	moral hazard										moreel risico
+	natural resources										natuurlijke hulpbronnen
+	note										noot
+	orderly default										begeleide betaalstaking, begeleide staking van betaling
+	outlier										uitschieter, uitbijter
+	output										productie
+	*p* value										*p*-waarde; overschrijdingskans
+	paper										artikel (indien gepubliceerd); werkstuk (indien de neerslag van een taak)
+	partial equilibrium model										partieel-evenwichtsmodel (met koppelteken: partieel slaat op het evenwicht, niet op het model)
+	peak										piek (in de betekenis van: (lokaal) maximum in een tijdreeks). Tegengestelde van: *trough*.
+	peer review										collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten.
+	peer reviewed										gecontroleerd door collega's.
+	principal and agent										opdrachtgever en uitvoerder
+	production possibility frontier										productiemogelijkheidscurve, transformatiecurve.
+	public goods										collectieve goederen
+	quantitative easing (QE)										kwantitatieve verruiming
+	quota rent										quotarente
+	to raise (raised, raised)										doen stijgen, verhogen (altijd met lijdend voorwerp: "The ECB raised the refi rate by 25 basis points.")
+	to rise (rose, risen)										stijgen (zonder lijdend voorwerp: "The market rate rose by 7 basis points.")
+	random sample										toevalssteekproef
+	random walk										stochastische wandeling
+	range (statistiek: range = max - min)										variatiebreedte
+	rate of return										opbrengstvoet
+	rent (*i.e.*, income from land or capital)										rente (niet: huur). Zie ook: *monopoly rent*, *quota rent*.
+	refereed										gecontroleerd door collega's (synoniem van *peer reviewed*) 
+	resources										middelen (*natural resources* is natuurlijke hulpbronnen) 
+	scatter plot										spreidingsdiagram
+	short-term interest rate										kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken)
+	spill-over effects										oversijpelingseffecten
+	supply chain										waardeketen
+	tariff										invoerrecht
+	time series										tijdreeks
+	terms of trade										internationale ruilvoet
+	trade diversion										handelsverlegging
+	trade-off										afweging
+	trough										dal, laagtepunt (in de betekenis van: (lokaal) minimum in een tijdreeks). Tegengestelde van: *peak*	
+	unit root (a property of a time series)										eenheidswortel (een eigenschap van een tijdreeks)
+	an update										bijwerking, actualisering
+	to update										bijwerken, actualiseren
+	wage rate										loonvoet
+	worker											arbeidskracht (niet: werker)
+	working paper										niet-gepubliceerd artikel, werkdocument	
+	World Trade Organisation										Wereldhandelsorganisatie (in &eacute;&eacute;n woord)
