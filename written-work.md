@@ -2,7 +2,7 @@
 
 # Rules for written work
 
-(Last revised 29 November 2021)
+(Last revised 15 March 2022)
 
 Problem sets and short papers are valuable practice in composition: set out your ideas logically; use paragraphs to group your thoughts; write complete sentences. Written work should be concise. Explain how you obtained results. In problem sets, show your work and briefly explain what you have done and why you have done it. Stick to the assignment; there is no need to speculate or make normative statements unless this is explicitly asked.
 

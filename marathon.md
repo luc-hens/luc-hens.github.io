@@ -2,6 +2,7 @@
 
 ### Marathons:
 
+    29   27 Mar 2022   Gent..........................  3:49:49
     28   18 Oct 2021   Great Bruges Marathon.........  3:58:47
     27   04 Oct 2020   Brussel (virtual event).......  3:57:41
     26   12 May 2019   Great Breweries Marathon .....  3:57:03
