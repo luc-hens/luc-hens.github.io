@@ -2,9 +2,9 @@
 
 # Rules for written work
 
-(Last revised 15 March 2022)
+(Last revised 21 April 2022)
 
-Problem sets and short papers are valuable practice in composition: set out your ideas logically; use paragraphs to group your thoughts; write complete sentences. Written work should be concise. Explain how you obtained results. In problem sets, show your work and briefly explain what you have done and why you have done it. Stick to the assignment; there is no need to speculate or make normative statements unless this is explicitly asked.
+Problem sets and short papers (and written examinations) are valuable practice in composition: set out your ideas logically; use paragraphs to group your thoughts; write complete sentences. Written work should be concise. Explain how you obtained results. In problem sets, show your work and briefly explain what you have done and why you have done it. Stick to the assignment; there is no need to speculate or make normative statements unless this is explicitly asked.
 
 Except when explicitly stated otherwise the rules for written work set out below apply to all written work in all my courses. They also apply to bachelor and master research papers or theses, and for PhD dissertations promoted by me. Read them carefully before starting each assignment. Print them and keep them with your course files. 
 
@@ -37,7 +37,7 @@ I will also subtract points if you fail to apply the formatting rules set out in
 
 ## Write well
 
-Practice the "plain style" of writing. The best guides are McCloskey (2019) and Mankiw (2006). For more guidelines consult Strunk &amp; White (2000), Becker (1986), or Chapter 2 of American Psychological Association (2001). Write with your reader in mind: is she able to understand your train of thought? Avoid being colloquial or pompous. Write complete sentences; complete sentences contain minimally a subject and a verb. "Use verbs, active ones" (McCloskey, 2019, p. XXX). Use the past tense to describe past events (also when you write in Dutch).
+Practice the "plain style" of writing. The best guides are McCloskey (2019) and Mankiw (2006). For more guidelines consult Strunk &amp; White (2000), Becker (1986), or Chapter 2 of American Psychological Association (2001). Write with your reader in mind: is she able to understand your train of thought? Avoid being colloquial or pompous. Write complete sentences; complete sentences contain minimally a subject and a verb. "Use verbs, active ones" (McCloskey, 2019, p. [to be verified]]). Use the past tense to describe past events (also when you write in Dutch).
 
 ## Don't plagiarize
 
@@ -125,7 +125,7 @@ Thanks to keywords or subject descriptors, a researcher can locate papers on a p
  
 ## Start with an introduction
 
-The body of a report starts on page 2 with the title (centered) followed by the introduction. In APA Style the introduction has no heading or label, so don't type "Introduction" as the heading (unless you number the sections).
+The body of a report starts on page 2 (or p. 3 if the paper includes an abstract) with the title of the paper (centered) followed by the introduction. In APA Style the introduction has no heading or label, so don't type "Introduction" as the heading (unless you number the sections).
 
 "The body of a paper opens with an introduction that presents the specific problem under study and describes the research strategy" (American Psychological Association, 2001, pp. 15-16). Remember that your report should be self-contained:  when you report the solution of a textbook problem or internet exercise, don't assume that the reader has read the problem, but provide the reader in your introduction with all information necessary to understand the context of the problem. Don't cite the question or problem verbatim in your paper; instead, summarize the main givens from a problem in a short, declarative section of the introduction. Document the source of the givens (usually a textbook or a textbook web site) using APA style author-year citation and include the source in the list of references.
 
@@ -295,14 +295,14 @@ Avoid common mistakes made by francophones. Here are some expressions in French 
 
 In English and Dutch, always write your first name first (that's why it's called a first name) and your surname last. If you say or write that Eilish Billie is your name, English speaking people will think that Eilish is your first name and Billie your last name (surname).
 
-## Use LaTeX if you write a PhD dissertation 
-If you write a doctoral dissertation in the field of economics (or if you just want to produce reports that are beautifully typeset) I recommend that you use the typesetting program LaTeX (pronounced as "lah-tech") rather than a word processor. LaTeX is a freely available program for typesetting research reports that runs under macOS, Linux, and Windows. The VUB regularly offers free one-day workshops introducing LaTeX (and its bibliographical cousin BibTeX) to graduate students ()[add link](add-link)). On my MacBook I use TeXShop, an elegant LaTeX editor. It integrates nicely with the reference manager BibDesk (see next item).
+<!-- ## Use LaTeX if you write a PhD dissertation 
+If you write a doctoral dissertation in the field of economics (or if you just want to produce reports that are beautifully typeset) I recommend that you use the typesetting program LaTeX (pronounced as "lah-tech") rather than a word processor. LaTeX is a freely available program for typesetting research reports that runs under macOS, Linux, and Windows. The VUB regularly offers free one-day workshops introducing LaTeX (and its bibliographical cousin BibTeX) to graduate students ()[add link](add-link)). On my MacBook I use TeXShop, an elegant LaTeX editor. It integrates nicely with the reference manager BibDesk (see next item). -->
 
-## For master's theses and PhD dissertations, use a reference manager
-A reference manager is a program that allows a writer to collect bibliographical references in a database, search the database, insert citations in a text, and generate a list of references for the paper. BibDesk (free, macOS), Mendeley (free, macOS and Windows), JabRef (free, macOS, Windows, and Linux) and EndNote (commercial and expensive, macOS and Windows) are all bibliography managers.  On my MacBook I use BibDesk, an elegant reference manager. It integrates nicely with the LaTeX editor TeXShop (see previous item).
+<!--  ## For master's theses and PhD dissertations, use a reference manager
+A reference manager is a program that allows a writer to collect bibliographical references in a database, search the database, insert citations in a text, and generate a list of references for the paper. BibDesk (free, macOS), Mendeley (free, macOS and Windows), JabRef (free, macOS, Windows, and Linux) and EndNote (commercial and expensive, macOS and Windows) are all bibliography managers.  On my MacBook I use BibDesk, an elegant reference manager. It integrates nicely with the LaTeX editor TeXShop (see previous item). -->
 
 ## Don't mail attachments. 
-Don't mail attachments unless the recipient explicitly asked. Use portable document format (pdf) files if you send a text; don't send documents formatted in Word (.doc or .docx) format or or other proprietary formats unless the recipient explicitly asked. (As for me: I only read a student's document if I received it on paper.) 
+Don't mail attachments unless the recipient explicitly asked. Use portable document format (pdf) files if you send a text; don't send documents formatted in Word (.doc or .docx) format or or other proprietary formats unless the recipient explicitly asked.  
 
 ## If you write in Dutch, write well, too
  (Voor wie in het Nederlands schrijft.) 
