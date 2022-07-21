@@ -8,6 +8,8 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 
 [Add links to VUB library; amazon]
 
+
+* Robert Heilbroner (1953). *The Worldly Philosophers*. Here's what *The Economist* (July 16, 2022, p. 73) writes: "The best book for anyone interested in the history of economic ideas---not least because it is short, conversational and can be read in a few hours. First published in 1953, it covers some of the most consequential early economists, from Adam Smith to Thomas Malthus to Karl Marx, explaining what they thought and why"
 * Matt Ridley (2020). *How Innovation Works* [Add a short annotation]
 * David Spiegelhalter (2019). *The Art of Statistics: Learning from Data.* [Add a short annotation]
 * Tim Harford (2018). *Fifty Things that Made the Modern Economy*. The accompanying  podcast ([link](https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)) is available in your favorite podcast app. 
@@ -26,4 +28,5 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 * Gary Becker (xxx). *xxx*.  Nobel laureate.
 *  N. Gregory Mankiw (any edition). *Principles of Economics*. Excellent introductory economics text, written in a clear and accessible language. This U.S. edition is much better than the localized European edition (Mankiw and Taylor, *Economics*). You can buy a hard copy [here](https://www.cengage.co.uk/books/9780357038314/). 
 * Tyler Cowen and Alex Tabarrok (any edition). *Modern Principles of Economics*. Another excellent introductory economics text. Accompanying videos are available for free on the Marginal Revolution University site ([link](https://mru.org)).
+* Matthes, E. (2019). *Python Crash Course: A Hands-On, Project-Based Introduction to Programming.* No Starch Press, San Francisco, 2nd edition. Everything the title promises ([link](https://nostarch.com/pythoncrashcourse2e)).
 
