@@ -309,7 +309,7 @@ Don't mail attachments unless the recipient explicitly asked. Use portable docum
  
 Alle hierboven vermelde regels zijn van toepassing als je in het Nederlands schrijft, met &eacute;&eacute;n uitzondering: gebruik in het Nederlands decimale komma's. Schrijf dus: *t* = 2,34.
 
-Raadpleeg de Woordenlijst van de Nederlandse taal ([koppeling](http://woordenlijst.org/)) als je twijfelt over de spelling of het genus van een woord. De webstek *Taaladvies* ([koppeling](http://taaladvies.net/)) van de Nederlandse Taalunie is een uitstekende referentiebron als je vragen hebt.
+De webstek *Taaladvies* ([koppeling](http://taaladvies.net/)) van de Nederlandse Taalunie is een uitstekende referentiebron als je vragen hebt. Raadpleeg de Woordenlijst van de Nederlandse taal ([koppeling](http://woordenlijst.org/)) als je twijfelt over de spelling of het genus van een woord. 
 
 Net als in het Engels vermijd je in het Nederlands best passieve werkwoorden (zinnen met "worden"). Wees specifiek: wie is het onderwerp van de zin? Vermijd om dezelfde reden "men." Herschrijf elke zin die "worden" of "men" bevat en gebruik de actieve werkwoordsvorm.
 
