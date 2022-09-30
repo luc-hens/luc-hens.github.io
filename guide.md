@@ -300,7 +300,7 @@ Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and F
 
 **Wolfram Alpha.** Wolfram Alpha (as a [web page](https://www.wolframalpha.com) or a smartphone app) is useful to do quick statistical computations on-line. [Here](statistics-in-wolfram-alpha.html) is a document that shows how to do the basic computations from an introductory applied statistics course. 
 
-**SPSS**. VUB students can download SPSS [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. A useful book on SPSS is:
+**SPSS**. "SPSS Statistics is a set of programs used for interactive, or batched, statistical analysis." VUB students can download SPSS [here](https://softweb.vub.be). A useful book on SPSS is:
 - Field, A. (2013). *Discovering Statistics Using IBM SPSS Statistics*. London etc.: Sage. Available in the VUB library, call number: 311.17 G FIEL 2018.
 
 <!-- documentation/Documents/ExcelStatProbs.pdf)link))
@@ -315,7 +315,7 @@ Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and F
 
 ### Can I use qualitative research methods?
 
-You can use qualitative research methods (such as methods based on data from interviews) when such methods are appropriate and provided that you apply the methods with rigor. Your paper should contain a section giving a rationale for the method you selected. For a good primer on the use of qualitative methods in the social sciences see: Brett Davies, M. (2007). *Doing a *Successful Research Project: Using Qualitative or Quantitative Methods*. Palgrave Macmillan  (ISBN: 978-1403993793) (VUB library call number: 371.1 G DAVI 2007). The statistical environment R has a number of tools for qualitative analysis. The qualitative data analysis computer software package NVIVO is available to students ([link](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software).
+You can use qualitative research methods (such as methods based on data from interviews) when such methods are appropriate and provided that you apply the methods with rigor. Your paper should contain a section giving a rationale for the method you selected. For a good primer on the use of qualitative methods in the social sciences see: Brett Davies, M. (2007). *Doing a Successful Research Project: Using Qualitative or Quantitative Methods*. Palgrave Macmillan  (ISBN: 978-1403993793) (VUB library call number: 371.1 G DAVI 2007). The statistical environment R has a number of tools for qualitative analysis. The qualitative data analysis computer software package NVivo is available to students [here](https://softweb.vub.be).
 
 ### How do I write an abstract of my paper?
 
@@ -351,7 +351,7 @@ The VUB Internet Security and privacy web page gives more information on the Gen
 
 ### Can I use questionnaires (surveys)?
 
-Yes. The *Qualtrics* platform to conduct a questionnaire on-line is available to students  [here](https://wearestudent.vub.be/): e-tools > ICT > Hard- and Software. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. Most samples I see in master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). To study behavior it is usually better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast .
+Yes, if a questionnaire is an appropriate method to gather data and if you design and administer the questionnaire well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). To study behavior it is usually better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. The *Qualtrics* platform to conduct a questionnaire on-line is available for students [here](https://softweb.vub.be) ("Software for surveys, feedback and polls (...)").
 
 ### How is the paper graded?
 
