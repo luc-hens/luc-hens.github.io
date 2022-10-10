@@ -317,6 +317,10 @@ Sargent, T.J. and Stachurski, J. (s.d.). *Python Programming for Economics and F
 
 You can use qualitative research methods (such as methods based on data from interviews) when such methods are appropriate and provided that you apply the methods with rigor. Your paper should contain a section giving a rationale for the method you selected. For a good primer on the use of qualitative methods in the social sciences see: Brett Davies, M. (2007). *Doing a Successful Research Project: Using Qualitative or Quantitative Methods*. Palgrave Macmillan  (ISBN: 978-1403993793) (VUB library call number: 371.1 G DAVI 2007). The statistical environment R has a number of tools for qualitative analysis. The qualitative data analysis computer software package NVivo is available to students [here](https://softweb.vub.be).
 
+### Can I use  surveys (questionnaires)?
+
+Yes, if a survey is an appropriate method to gather data: "Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning." (Stantcheva, 2022). You should also design and administer the survey well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). If you want to find out how people behave and why they behave that way, it is better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. Essential reading is: Stantcheva, S. (2022). How to run surveys: A guide to creating your own identifying variation and revealing the invisible. Working Paper 30527, National Bureau of Economic Research ([link](https://www.nber.org/papers/w30527)). The *Qualtrics* platform to conduct a questionnaire on-line is available for students [here](https://softweb.vub.be) ("Software for surveys, feedback and polls (...)").
+
 ### How do I write an abstract of my paper?
 
 Carefully read the section on abstracts in Bullock, R., Brody, M., and Weinberg, F. (2014). *The Little Seagull Handbook (2nd edition).* W.W. Norton & Company; or in American Psychological Association. (2001). *Publication Manual of the American Psychological Association (5th ed.).* American Psychological Association. 
@@ -349,9 +353,7 @@ The VUB Internet Security and privacy web page gives more information on the Gen
 
 <!-- [complete this section later --- see notebook: talk by Audrey Van Scharen of 21 September 2018. EU site: https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en). --> 
 
-### Can I use questionnaires (surveys)?
 
-Yes, if a questionnaire is an appropriate method to gather data and if you design and administer the questionnaire well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). To study behavior it is usually better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. The *Qualtrics* platform to conduct a questionnaire on-line is available for students [here](https://softweb.vub.be) ("Software for surveys, feedback and polls (...)").
 
 ### How is the paper graded?
 
