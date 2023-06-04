@@ -61,4 +61,4 @@ Favorite gear: Apple HomePod mini; Beats Flex earphones; Bose Soundlink Color II
 
 > *e*<sup>*i&#960;*</sup> + 1 = 0 
 
-> $$ e^{i \pi} + 1 = 0 $$ 
+<!-- > $$ e^{i \pi} + 1 = 0 $$    does not work -->
