@@ -352,7 +352,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
  | deadweight loss | welvaartsverlies |
  | decrease by (let op het correcte voorzetsel in het Engels: by) | afnemen met  |
  | default | wanbetaling, betaalstaking, staking van betaling |
- | discount rate | tijdsvoorkeurvoet |
+ | discount rate | disconteringsvoet, verdisconteringfactor, tijdvoorkeurvoet |
  | diseconomies of scale | schaalnadelen |
  | disincentive | sanctie; negatieve prikkel, negatieve stimulans |
  | draft | concept, conceptversie |

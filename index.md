@@ -1,6 +1,6 @@
 # Luc Hens
 
-I am an economist at the [Department of Applied Economics](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-faculties/social-sciences-and-solvay-business-school/departments-and-research-groups) of the [Vrije Universiteit Brussel](http://www.vub.ac.be). My mail address is luc.hens[at]]vub.be.
+I am an economist at the [Department of Applied Economics](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-faculties/social-sciences-and-solvay-business-school/departments-and-research-groups) of the [Vrije Universiteit Brussel](http://www.vub.ac.be). My mail address is luc.hens[at]vub.be.
 <!-- [Department of Applied Economics](http://research.vub.ac.be/applied-economics) -->
 
 ### Teaching
