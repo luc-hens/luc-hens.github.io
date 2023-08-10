@@ -57,12 +57,8 @@ My first computer was a [Macintosh Plus](https://everymac.com/systems/apple/mac_
 ### Gear
 
 Favorite gear: Apple HomePod mini; Beats Flex earphones; Bose Soundlink Color II Bluetooth speaker; Bose TriPort (AE1) and AE2 headphones; Buff neck gaiter; Camelbak Marathoner hydration backpack; Converse Chuck Taylor All Stars sneakers; Dopper water bottle; Falke RU4 running socks; Fj&auml;llr&auml;ven K&aring;nken backpack (with shoulder pads); Garmin V&iacute;voactive 4 sports watch; GORUCK GR1 &amp; GORUCK GR0 (Echo) backpacks; Hanes plain white T-shirts; Hario Skerton Plus coffee grinder;  Herzog compression running socks; iPhone SE; Kalita Wave pour-over coffee dripper; Leatherman Wave multitool; Levi's 501 jeans; MacBook Air; Martin D-28 guitar; Merkur 23C safety razor; Midori MD notebooks; Muji A5 notebooks; Nike Pegasus running shoes; Olympus PEN E-PL1 camera (with a Panasonic Lumix G 20mm f/1.7 II ASPH pancake lens); Pentel P205 mechanical pencil; Pilot V5 Hi-Tecpoint pen; SecrID wallet; Speedo Fastskin Elite goggles; Tivoli Audio Model One &amp; PAL radios (by Henry Kloss); Uni-Ball Kuru Toga mechanical pencil; Vans Era sneakers; Varier Thatsit balans chair (designed by Peter Opsvik, 1991); Victorinox Swiss Army knife (and WD-40 to clean and protect it); Zannata Black Shadow racing bicycle. *Objets de d&eacute;sire* (aspirational products): Bose QuietComfort SE noise cancelling headphones; black-and-white Fender Telecaster; Leica Q3 camera; Atoms Model 000 sneakers; Zwilling J.A. Henckels Santoku knife; MIYABI Hinoki chopping board; Demeyere Industry 5 wok.
-<!-- GreenPan wok;  Fenix E12 V2.0 flashlight was stolen in a burglary; Harman Kardon Soundsticks 2.1 speaker system;; the red 1990/1991 Saab 900 from *Drive My Car* -->
-
-$ e^{i\pi} + 1 = 0 $
-
-
+<!-- GreenPan wok;  Fenix E12 V2.0 flashlight (was stolen in a burglary); Harman Kardon Soundsticks 2.1 speaker system;; the red 1990/1991 Saab 900 from *Drive My Car* -->
 
 > *e*<sup>*i&#960;*</sup> + 1 = 0 
-<!--  does not work  $ e^{i\pi} + 1 = 0 $ -->
+<!--  does not work:  $ e^{i\pi} + 1 = 0 $ -->
      
