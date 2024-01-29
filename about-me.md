@@ -38,7 +38,7 @@ Other craftsmen (of any gender) I admire: Bashir Abdi, Pierre Alechinsky, Dennis
 
 Johann Sebastian Bach, The Band, Beastie Boys, The Beatles, Beck, Paul Bley, Blind Willie Johnson, the Blue Note record label, Alfred Brendel, Bob Dylan, Can, Captain Beefheart, J.J. Cale, Bill Callahan, Johnny Cash, Hariprasad Chaurasia, Leonard Cohen, John Coltrane, Cornelius (Keigo Oyamada), Miles Davis, Dinosaur Jr, Eric Dolphy, John Dowland, Nick Drake, Bob Dylan, the ECM record label, Eels, Brian Eno, Bill Evans, The Fall, Morton Feldman, Glenn Gould, GRAINDELAVOIX / Bj&ouml;rn Schmelzer, Grateful Dead, Jon Hassell, Angela Hewitt, Mark Hollis / Talk Talk, Huelgas Ensemble, Skip James, Robert Johnson, Ali Akbar Khan, Masabumi Kikuchi / Tethered Moon, Kraftwerk, Fela Kuti, Jakob Lindberg, Nick Lowe, Bob Marley, John Martyn, Hank Mobley, Thelonious Monk, Van Morrison, Mississippi John Hurt, My Bloody Valentine, Randy Newman, Charlie Parker, Charlie Patton, Pearl Jam, Lee "Scratch" Perry, Prefab Sprout, Radiohead, Ramones, the RCA Living Stereo record label, Nik B&auml;rtsch's Ronin, Scott Ross, Boz Scaggs, Domenico Scarlatti, Jean Sibelius, Nina Simone, Eliott Smith, Steely Dan, Talking Heads, Teenage Fanclub, Television / Tom Verlaine, Tinariwen, A Tribe Called Quest, The Velvet Underground, Neil Young, Tom Waits, Ween, Paul Weller, Tony Joe White, Whitney, Wilco, Bill Withers. 
 
-What I have been listening to in **2024**: Matthieu Bordenave, *The Blue Land *. The Smile, *Wall of Eyes*. 
+What I have been listening to in **2024**: Matthieu Bordenave, *The Blue Land*. The Smile, *Wall of Eyes*. 
 
 What I've been listening to in [previous years](what-i-have-been-listening-to.html).
 
