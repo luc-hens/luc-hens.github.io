@@ -363,7 +363,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
  | feedback | terugkoppeling |
  | figure | afbeelding |
  | fiscal policy | begrotingsbeleid  |
- | free rider | niet-betalende passagier |
+ | free rider | vrijbuiter |
  | free trade area | vrijhandelszone |
  | general equilibrium model | algemeen-evenwichtsmodel (met koppelteken: algemeen slaat op het evenwicht, niet op het model) |
  | gross domestic product (GDP) | bruto binnenlands product (bbp) (zonder punten, in kleine letters) |
