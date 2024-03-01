@@ -7,7 +7,7 @@ My interests&mdash;other than economics and statistics&mdash;include books, musi
 People whose ideas have influenced me: Fr&eacute;d&eacute;ric Bastiat, Richard Dawkins, Richard Feynman, Milton Friedman, Friedrich Hayek, Christopher Hitchens, Steve Jobs, Deirdre McCloskey, Michel de Montaigne, Karl Popper, Carl Sagan, Adam Smith, Benedictus de Spinoza, Edward Tufte.
 
 Currently reading: 
-* Van den Broeck, W. (1980). *Brief aan Boudewijn**.
+* Van den Broeck, W. (1980). *Brief aan Boudewijn*. Houtekiet, Antwerpen &amp; Baarn
 * Berlinski, D. (1997). *A Tour of the Calculus*. Vintage Books, New York.
 
 Desert-island books:
