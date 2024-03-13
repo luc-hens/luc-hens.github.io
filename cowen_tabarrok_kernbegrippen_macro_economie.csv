@@ -42,7 +42,7 @@ werklozen;volwassenen die geen werk hebben maar werk zoeken;hoofdstuk_30
 werkloosheidspercentage;het percentage van de beroepsbevolking die werkloos zijn ;hoofdstuk_30
 activiteitsgraad;het percentage volwassenen in de beroepsbevolking;hoofdstuk_30
 ontmoedigde arbeiders;werkloze individuen die het opgegeven hebben om naar werk te zoeken maar wel graag zouden werken;hoofdstuk_30
-frictiewerkloosheid; kortdurige werkloosheid die ontstaat door de gebruikelijke moeilijkheden om een werkgever en een werknemer aan elkaar te koppelen;hoofdstuk_30
+frictiewerkloosheid; kortdurige werkloosheid die ontstaat door de gebruikelijke moeilijkheden om werknemers en werkgevers aan elkaar te koppelen;hoofdstuk_30
 structurele werkloosheid;aanhoudende langdurige werkloosheid die ontstaat door langdurige schokken of permanente kenmerken van een economie die het moeilijker maken voor sommige arbeidskrachten om werk te vinden;hoofdstuk_30
 mediane loon;het loon waarvoor geldt dat de helft van alle arbeidskrachten minder verdient dan dat loon en de andere helft meer;hoofdstuk_30
 vakbond;een vereniging van werknemers die collectief met de werkgevers onderhandelt over lonen, andere voordelen, en arbeidsomstandigheden;hoofdstuk_30
@@ -50,3 +50,14 @@ actief arbeidsmarktbeleid;beleidsmaatregelen met als doel om werkloze arbeidskra
 conjuncturele werkloosheid;werkloosheid gecorreleerd met de conjunctuurcyclus;hoofdstuk_30
 natuurlijke werkloosheidsgraad;de graad van structurele werkloosheid plus frictiewerkloosheid;hoofdstuk_30
 baby boomers;mensen geboren gedurende de jaren met een hoog geboortecijfer (1946–1964);hoofdstuk_30
+inflatie;een toename in het algemene of gemiddelde prijspeil;hoofdstuk_31
+inflatiecijfer;=((P_2 - P_1)/P_1)*100%, de procentuele toename in het algemene prijspeil (dat gemeten wordt d.m.v. een prijsindex) over een bepaalde tijdsperiode;hoofdstuk_31
+reële prijs;een prijs die is gecorrigeerd voor inflatie, gebruikt om de prijs van een good doorheen de tijd te vergelijken;hoofdstuk_31
+v, omloopsnelheid van geld;het gemiddeld aantal keer dat een euro is uitgegeven aan eindgoederen en -diensten in een jaar;hoofdstuk_31
+deflatie;een afname in het algemene prijspeil, met andere woorden een negatief inflatiecijfer;hoofdstuk_31
+disinflatie;een verlaging van het inflatiecijfer;hoofdstuk_31
+geldillusie;de foutieve perceptie die ontstaat als mensen wijzigingen in nominale prijzen verwarren met wijzigingen in reële prijzen;hoofdstuk_31
+reële rendement;het nominale rendement min het inflatiecijfer;hoofdstuk_31
+nominale rendement;rendement dat niet is gecorrigeerd voor de effecten  van inflatie;hoofdstuk_31
+Fisher-effect;de neiging van de nominale rentevoet om met evenveel procentpunten toe te nemen als het verwachte inflatiecijfer;hoofdstuk_31
+schuldmonetisering;wat er gebeurt als de overheid haar schulden afbetaald door geld bij te drukken;hoofdstuk_31

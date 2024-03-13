@@ -33,8 +33,7 @@ bond;a sophisticated IOU that documents who owes how much and when payment must 
 collateral;something of value that helps to secure a loan: if the borrower defaults, ownership of the collateral transfers to the lender;chapter_29
 crowding out;the decrease in private consumption and investment that occurs when government borrows more --- also, the decrease in private spending that occurs when government increases spending;chapter_29
 arbitrage;the practice of taking advantage of price differences for the same good in different markets by buying low in one market and selling high in another market;chapter_29
-stock (or share);
-is a certificate of ownership in a corporation;chapter_29
+stock (or share);a certificate of ownership in a corporation;chapter_29
 initial public offering (IPO);the first instance of a corporation selling stock to the public in order to raise capital;chapter_29
 owner's equity;the value of the asset minus the debt;chapter_29
 leverage ratio;the ratio of debt to equity, D/E;chapter_29
@@ -51,17 +50,17 @@ active labor market policies;policies that focus on getting unemployed workers b
 cyclical unemployment;unemployment correlated with the business cycle;chapter_30
 natural unemployment rate;the rate of structural plus frictional unemployment;chapter_30
 baby boomers;people born during the high-birth-rate years of 1946–1964;chapter_30
-inflation;chapter_31
-inflation rate;chapter_31
-real price;chapter_31
-v, velocity of money;chapter_31
-deflation;chapter_31
-disinflation;chapter_31
+inflation;an increase in the general or average level of prices;chapter_31
+inflation rate;=((P_2 - P_1)/P_1)*100%, the percentage increase in the average level of prices (as measured by a price index) over a period of time;chapter_31
+real price;a price that has been corrected for inflation, used to compare the prices of goods over time;chapter_31
+v, velocity of money;the average number of times a dollar is spent on finished goods and services in a year;chapter_31
+deflation;a decrease in the average level of prices, that is, a negative inflation rate;chapter_31
+disinflation;a reduction in the inflation rate;chapter_31
 money illusion;the false perception that occurs when people mistake changes in nominal prices for changes in real prices;chapter_31
 real rate of return;the nominal rate of return minus the inflation rate;chapter_31
-nominal rate of return;chapter_31
-Fisher effect;chapter_31
-monetizing the debt;chapter_31
+nominal rate of return;the rate of return that does not account for inflation;chapter_31
+Fisher effect;the tendency of nominal interest rates to rise one to one with expected inflation rates;chapter_31
+monetizing the debt;the result of government paying off its debts by printing money;chapter_31
 business fluctuations;chapter_32
 recession;chapter_32
 aggregate demand curve;chapter_32
