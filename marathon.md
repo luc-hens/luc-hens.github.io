@@ -1,8 +1,8 @@
 [Home](index.html)
 
 ### Marathons:
-         21 Jul 2024   San Francsico ................
-         16 Mar 2024   Heuvelland Marathon ..........  
+         21 Jul 2024   San Francisco ................
+    33   16 Mar 2024   Heuvelland Marathon ..........  4:26:07
     32   08 Oct 2023   Eindhoven ....................  3:58:40
     31   26 Mar 2023   Gent .........................  4:09:41      
     30   02 Oct 2022   Brussel ......................  3:57:34  
@@ -31,9 +31,9 @@
     07   11 Oct 2009   Eindhoven ....................  3:53:22      
     06   16 Nov 2008   Kasterlee ....................  4:07:34  
     05   11 Oct 2008   Eindhoven ....................  4:46:15  
-    04   14 Oct 2007   Brussel ......................  3:44:34  personal best     
+    04   14 Oct 2007   Brussel ......................  3:44:34       
     03   08 Oct 2006   Eindhoven ....................  3:53:58      
     02   09 Oct 2005   Eindhoven ....................  3:57:24      
     01   02 Oct 2004   Kustmarathon .................  4:22:12  
 
-Training plan: Kuehls, D. (1998). *Four months to a four-hour marathon*. New York: Perigee.
+Training plan: Kuehls, D. (1998). *Four Months to a Four-Hour Marathon*. New York: Perigee.
