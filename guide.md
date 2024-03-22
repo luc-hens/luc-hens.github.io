@@ -2,7 +2,7 @@
 
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-Luc Hens (Last update: 17 January 2024)
+Luc Hens (Last updated on 22 March 2024)
 
 <!-- ### A short video introduction (2 minutes)
 <video width="480" height="320" controls="controls)
@@ -20,7 +20,7 @@ Check with your thesis promotor: different promotors have different expectations
 
 ### When can I expect feedback on written work?
 
-Submit written work as a word processor file (**.docx**) (or, only if you use LaTeX, as a pdf). Name the files as yourlastname_yymmdd.docx (e.g. jones_20240322.docx). I only give feedback to work that is in APA Style, including a standard APA Style title page with the date of the draft and a properly formatted list of references. The turnaround time typically is two weeks but tends to be longer near deadlines, for instance in May when I get many drafts. If you submit a draft in the two weeks before the due date I do guarantee that you will get feedback in time. I usually take a summer break from begin-or mid-July to begin- or mid-August. I don't give feedback during my summer break.
+Submit written work as a word processor file (**.docx**) (or, only if you use LaTeX, as a pdf). Name the files as yourlastname_yymmdd.docx (e.g. jones_20240322.docx). I only give feedback to work that is in APA Style, including a standard APA Style title page with the date of the draft and a properly formatted list of references. The turnaround time typically is two weeks but tends to be longer near due dates, for instance in April and May when I get many drafts. If you submit a draft in the two weeks before a due date you probably won't get feedback in time. I don't give feedback during my summer break (usually from begin- or mid-July to begin- or mid-August).
 
 ### How much work does a master's thesis require?
 
@@ -35,7 +35,7 @@ The following resources are essential companions when doing research and writing
 * McCloskey, D. (2019). *Economical Writing (3rd edition)* University of Chicago Press.  Required for all students writing a master's thesis with me as promotor. Essential if you are writing a thesis. Buy it.  Read it. Apply what you have learned. Only submit work to me after you read  McCloskey (2019). Also available in the VUB library, call number 371.250 G MCCL 2019. A shorter version was published as McCloskey, D. N. (1985). Economical writing. *Economic Inquiry*, 23(2), 187-222. You can download it [here](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf).
 * Mankiw, G. N. (2006, October 7). How to write well [blog post] ([link](http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html)). Essential. 
 * Bullock, R., Brody, M., and Weinberg, F. (2016). *The Little Seagull Handbook (3rd edition)*, W.W. Norton &amp; Company. ISBN 978-0393602630. A more recent edition is fine, too. Available [here](https://www.amazon.de/Little-Seagull-Handbook-Richard-Bullock/dp/039360263X/) for about 29 euro. An essential guide to academic research, writing, and editing. Required for all students writing a master's thesis with me as promotor. 
-* Eco, U. (2015). *How To Write a Thesis.* MIT Press. Available as an eBook from the VUB library ([link](https://biblio.vub.ac.be/); go to "vubis catalogue" and search by author. Another essential guide to academic research, writing, and editing. Doing research as a craft, with emphasis on skills like how to take notes.
+* Eco, U. (2015). *How To Write a Thesis.* MIT Press. Available as an eBook from the VUB library ([link](https://biblio.vub.ac.be/); go to "vubis catalogue" and search by author). Another essential guide to academic research, writing, and editing. Doing research as a craft, with emphasis on skills like how to take notes.
 * American Psychological Association. (2021). *APA Style: Style and Grammar Guidelines.* ([link](https://apastyle.apa.org); click on "Style and Grammar Guidelines"). Bookmark this link in your browser. See "What is APA Style" below.
 * American Psychological Association. (2021). *APA Style: Sample Papers.* ([link](https://apastyle.apa.org); click on "Instructional Aids" -> "Sample Papers"). Download the "Annotated student sample paper (PDF)" as a guide. Download the "Student sample paper (DOCX)" as a template (make a copy, rename the file, and type your text over the existing text).
 <!-- *Kirszner, L.G,  &amp; Mandell, S.R. (2008). *The Pocket Wadsworth Handbook (4th ed.).* Boston: Wadsworth Cengage Learning. ISBN 978-0495912958; available from (http://www.amazon.co.uk/Cengage-Advantage-Books-Wadsworth-Handbook/dp/0495912956)amazon.co.uk), approx. GBP 25.The textbook Vesalius College students use in the core courses on Critical Thinking and Academic Writing. An essential guide to academic research and writing. Chapter 35 covers APA Style.  -->
