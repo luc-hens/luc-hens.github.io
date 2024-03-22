@@ -20,7 +20,7 @@ Check with your thesis promotor: different promotors have different expectations
 
 ### When can I expect feedback on written work?
 
-I only give feedback when the written work is submitted as a pdf (no word processor files) or on paper, and is in APA Style (including a standard APA Style title page with a date, and a list of references). The turnaround time typically is two work weeks. It is more than two weeks near a deadline, for instance in May, when I get many drafts. That implies that I do not accept drafts in the two weeks before the due date. I usually take a summer break from begin-July to begin-August. I don't give feedback during my summer break.
+Submit written work as a word processor file (**.docx**) (or, only if you use LaTeX, as a pdf). Name the files as yourlastname_yymmdd.docx (e.g. jones_20240322.docx). I only give feedback to work that is in APA Style, including a standard APA Style title page with the date of the draft and a properly formatted list of references. The turnaround time typically is two weeks but tends to be longer near deadlines, for instance in May when I get many drafts. If you submit a draft in the two weeks before the due date I do guarantee that you will get feedback in time. I usually take a summer break from begin-or mid-July to begin- or mid-August. I don't give feedback during my summer break.
 
 ### How much work does a master's thesis require?
 
@@ -214,7 +214,7 @@ Documenting you sources is essential: it allows your readers to verify the sourc
 
 ### How do I format my paper?
 
-Format your paper in *APA Style*. Use the sample student paper as a templarte. (See: What is APA Style?).
+Format your paper in *APA Style*. Use the sample student paper as a template. (See: What is APA Style?).
 
 ### What is a refereed (or peer-reviewed) scholarly article?
 
@@ -265,7 +265,6 @@ When you start reading, take notes as you go along&mdash;don't wait until you fi
 
 <!-- >### Where can I find data?
 Each of my course home pages has a links section listing data sources. For example, to find a list of sources for macroeconomic data, check the macroeconomics course home page. [This no longer works because I moved the course home pages to the Canvas learning platform. Revise.]  -->
-
 
 ### What is a literature review?
 
@@ -321,7 +320,7 @@ You can use qualitative research methods (such as methods based on data from int
 
 ### Can I use  surveys (questionnaires)?
 
-Yes, if a survey is an appropriate method to gather data: "Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning." (Stantcheva, 2022). You should also design and administer the survey well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). If you want to find out how people behave and why they behave that way, it is better to look at what people *do* rather than at what they *say* they do. Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. Essential reading is: Stantcheva, S. (2023). How to run surveys: A guide to creating your own identifying variation and revealing the invisible. *Annual Review of Economics*, 15, pp> 205-234 ([link](https://www.annualreviews.org/doi/10.1146/annurev-economics-091622-010157)). The *Qualtrics* platform to conduct a questionnaire on-line is available for students [here](https://softweb.vub.be) ("Software for surveys, feedback and polls (...)").
+Yes, if a survey is an appropriate method to gather data: "Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning." (Stantcheva, 2022). You should also design and administer the survey well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). If you want to find out how people behave and why they behave that way, it is better to look at what people *do* rather than at what they *say* they do (revealed preferences vs stated preferences). Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. Essential reading is: Stantcheva, S. (2023). How to run surveys: A guide to creating your own identifying variation and revealing the invisible. *Annual Review of Economics*, 15, pp> 205-234 ([link](https://www.annualreviews.org/doi/10.1146/annurev-economics-091622-010157)). The *Qualtrics* platform to conduct a questionnaire on-line is available for students [here](https://softweb.vub.be) ("Software for surveys, feedback and polls (...)").
 
 ### How do I write an abstract of my paper?
 
