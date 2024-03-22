@@ -22,6 +22,14 @@ Check with your thesis promotor: different promotors have different expectations
 
 Submit written work as a word processor file (**.docx**) (or, only if you use LaTeX, as a pdf); I use the *Comments* and *Reviewing* functions in Microsoft Word to comment on your work and suggest editorial changes. Name the file as yourlastname_yymmdd.docx (e.g. if your name is Jones and you submit a draft dated March 22, 2024, use: jones_20240322.docx). I only give feedback on work that is in APA Style. Always include a standard APA Style title page with the date of the draft and a properly formatted list of references. The turnaround time typically is two weeks but tends to be longer near due dates, for instance in April and May when I get many drafts. If you submit a draft in the two weeks before a due date you probably won't get feedback in time. I don't give feedback during my summer break (usually from begin- or mid-July to begin- or mid-August).
 
+### What is APA Style?
+
+APA Style is a set of formatting and editorial rules for scientific papers, developed by the American Psycholigical Association (APA). APA Style is used by most academic journals in the social sciences (including economics). Use APA Style for all written work assigned by me, for term papers, and for your master's thesis. The *Little Seagull Handbook** (Bullock, Brody, and Weinberg, 2014, pp. 109-157) explains the basics and contains an example paper. You can find the Style and Grammar Guidelines and sample papers on-line:
+* American Psychological Association. (2021). *APA Style: Style and Grammar Guidelines.* ([link](https://apastyle.apa.org); click on "Style and Grammar Guidelines"). Bookmark this link in your browser. See "What is APA Style" below.
+* American Psychological Association. (2021). *APA Style: Example Papers.* ([link](https://apastyle.apa.org); click on "Instructional Aids" -> "Sample Papers"). Download the "Annotated student sample paper (PDF)" as a guide. Download the "Student sample paper (DOCX)" as a template: make a copy, rename the file, and type your text over the existing text.
+* American Psychological Association. (2021). *APA Style Blog.* ([link](https://apastyle.apa.org/blog/); bookmark this link in your browser).
+* American Psychological Association. (2020). *Publication Manual of the American Psychological Association: The Official Guide to APA Style. 7th edition.* American Psychological Association. Available in the VUB library. Call number: 159.9 B APA 2020.
+
 ### How much work does a master's thesis require?
 
 One ECTS credit represents between 25 and 30 hours of work, so the workload for an 18-credit master's thesis is 450 to 540 hours. Spread over 30 weeks (one academic year) that is 15 to 18 hours of work per week. 
@@ -200,13 +208,7 @@ As you are doing your bibliographical research, you will notice that many econom
 * The *Handbooks in Economics* series, published by Elsevier (over 50 volumes, over 700 survey articles). The list of books in the Handbooks in Economics series and their tables of contents are accessible on the [publisher's web site](https://www.elsevier.com).
 * The *International Library of Critical Writings* series (published by Edward Elgar) consists of several hundred volumes, each one collecting classic and seminal articles in one of the main fields of research in economics and business. The tables of contents can be consulted on the [publisher's web site](http://www.e-elgar.co.uk/). Several of the volumes are available in the VUB library.
 
-### What is APA Style?
 
-APA Style is a set of formatting and editorial rules for scientific papers, developed by the American Psycholigical Association (APA). APA Style is used by most academic journals in the social sciences (including economics). Use APA Style for all written work assigned by me, for term papers, and for your master's thesis. The *Little Seagull Handbook** (Bullock, Brody, and Weinberg, 2014, pp. 109-157) explains the basics and contains an example paper. You can find the Style and Grammar Guidelines and sample papers on-line:
-* American Psychological Association. (2021). *APA Style: Style and Grammar Guidelines.* ([link](https://apastyle.apa.org); click on "Style and Grammar Guidelines"). Bookmark this link in your browser. See "What is APA Style" below.
-* American Psychological Association. (2021). *APA Style: Example Papers.* ([link](https://apastyle.apa.org); click on "Instructional Aids" -> "Sample Papers"). Download the "Annotated student sample paper (PDF)" as a guide. Download the "Student sample paper (DOCX)" as a template: make a copy, rename the file, and type your text over the existing text.
-* American Psychological Association. (2021). *APA Style Blog.* ([link](https://apastyle.apa.org/blog/); bookmark this link in your browser).
-* American Psychological Association. (2020). *Publication Manual of the American Psychological Association: The Official Guide to APA Style. 7th edition.* American Psychological Association. Available in the VUB library. Call number: 159.9 B APA 2020.
 
 ### Why should I document my sources? How do I document my sources?
 
