@@ -1,73 +1,114 @@
-#separator:semicolon
-#html:false
-prikkels;beloningen en straffen die beweegredenen zijn voor gedrag;hoofdstuk_01
-schaars;wanneer er niet voldoende is van een specifieke hulpbron om aan al onze behoeftes te voldoen;hoofdstuk_01
-grote economische probleem;hoe onze schaarse hulpbronnen aan te wenden om aan zoveel mogelijk van onze behoeftes te voldoen;hoofdstuk_01
-opportuniteitstost;de waarde van de mogelijkheden die we verliezen wanneer we een keuze maken;hoofdstuk_01
-inflatie;een verhoging van het algemene prijspeil;hoofdstuk_01
-bruto binnenlands product (bbp);de marktwaarde van alle finale goederen en diensten geproduceerd in een land in een jaar;hoofdstuk_26
-bbp per hoofd van de bevolking;bruto binnenlands product gedeeld door de bevolking;hoofdstuk_26
-bruto nationaal product product (bnp);de marktwaarde van alle finale goederen en diensten geproduceerd door de staatsburgers van een land in een jaar, waar ze ook verblijven;hoofdstuk_26
-nominaal bbp;bruto binnenlands product niet gecorrigeerd voor veranderingen in  het prijspeil; hoofdstuk_26
-nominale variablen;variabelen, zoals het nominaal bbp, die niet zijn gecorrigeerd voor veranderingen in  het prijspeil;hoofdstuk_26
-reële variabelen;variabelen, zoals het reëel bbp, die zijn gecorrigeerd voor veranderingen in het prijspeil door voor alle tijdsperiodes dezelfde prijzen te gebruiken;hoofdstuk_26
-recessie;een betekenisvolle en wijdverspreide daling van het reëel inkomen de de werkgelegenheid;hoofdstuk_26
-economische schommelingen (conjunctuurcycli); de bewegingen op de korte termijn van  het reëel bbp rond zijn lange-termijntrend;hoofdstuk_26
-consumptie;bestedingen door de particuliere sector aan eindgoederen en -diensten ;hoofdstuk_26
-investeringen;de aankoop van nieuwe kapitaalgoederen: bestedingen door de particuliere sector aan gereedschap, fabrieken, en uitrusting gebruikt om in de toekomst producten te maken;hoofdstuk_26
-overheidsbestedingen;bestedingen door alle geledingen van de overheid aan eindgoederen en -diensten (bevat dus niet de overdrachtsuitgaven);hoofdstuk_26
-netto-uitvoer;uitvoerwaarde min invoerwaarde;hoofdstuk_26
-economische groei;de groeivoet van het reëel bbp per hoofd van de bevolking: g_t = (Y_t - Y_{t-1})/Y_{t-1})*100%, waarbij Y_t het reëel bbp per hoofd van de bevolking is in periode t;hoofdstuk_27
-fysiek kapitaal;de voorraad van werktuigen inclusief machines, bouwwerken, en uitrusting;hoofdstuk_27
-menselijk kapitaal;werktuigen van de geest: de productieve kennis en vaardigheden die arbeidskrachten verwerven door scholing, training en ervaring;hoofdstuk_27
-technologische kennis;kennis over hoe de wereld in elkaar zit, die wordt gebruikt om goederen en diensten te produceren;hoofdstuk_27
-sociale instituties;de 'regels van het spel' die economische prikkels vorm geven;hoofdstuk_27
-vrijbuiter (Eng.: free rider);iemand die de voordelen van een publiek goed consumeert zonder een deel van de kosten te dragen;hoofdstuk_27
-schaalvoordelen;de voordelen van productie op grote schaal waarbij de gemiddelde kosten dalen als de productiehoeveelheid toeneemt;hoofdstuk_27
-sparen;inkomen dat niet is besteed aan consumptiegoederen;hoofdstuk_29
-investeringen;de aankoop van nieuwe kapitaalgoederen: particuliere bestedingen aan werktuigen, fabrieksgebouwen, en uitrusting om toekomstige output te produceren;hoofdstuk_29
-tijdvoorkeur;het verlangen om goederen en diensten liever vroeger dan later te hebben (bij gelijk blijvende omstandigheden);hoofdstuk_29
-markt voor leenfondsen;de markt waar de aanbieders van leenfondsen (spaarders)  samenkomen met de vragers naar leenfondsen (leners) en zo de evenwichtsrentevoet bepalen;hoofdstuk_29
-financieel intermediair;instellingen zoals banken, obligatiemarkten en aandelenmarkten die de kost verlagen om fondsen van spaarders naar leners te verplaatsen;hoofdstuk_29
-obligatie (Eng.: bond);een verhandelbaar schuldbewijs dat documenteert wie welk bedrag schuldig is aan wie en wanneer er terugbetaald moet worden;hoofdstuk_29
-onderpand  (Eng.: collateral);iets van waarde dat dient als een zekerheid bij een lening; als diegene die geld leent niet aan zijn verplichtingen kan voldoen, kan de geldgever het onderpand opeisen;hoofdstuk_29
-verdringing (Eng.: crowding out);de daling van de particuliere consumptie en investeringen die zich voordoet als de overheid meer leent --- ook de daling in de particuliere bestedingen die zich voordoet als de overheid haar bestedingen doet toenemen;hoofdstuk_29
-arbitrage;wanneer iemand voordeel haalt uit prijsverschillen voor hetzelfde goed in verschillende markten door het goed goedkoop te kopen in de ene markt en duur te verkopen in een andere markt;hoofdstuk_29
-aandeel (Eng.: stock, share);een waardepapier dat een eigendomsrecht in een deel van een onderneming vertegenwoordigt;hoofdstuk_29
-beursgang (Eng.: initial public offering, IPO);wanneer een onderneming voor de eerste keer aandelen verkoopt aan het publiek om spaargeld op te halen;hoofdstuk_29
-eigen vermogen;de waarde van de activa (bezittingen) min de passiva (schulden);hoofdstuk_29
-hefboomeffect (leverage ratio);de verhouding van de schuld ten opzichte van de activa;hoofdstuk_29
-insolvente bank of instelling;een bank of instelling waarvan de waarde van de passiva (schulden) groter is dan de activa (bezittingen); hoofdstuk_29
-werklozen;volwassenen die geen werk hebben maar werk zoeken;hoofdstuk_30
-werkloosheidspercentage;het percentage van de beroepsbevolking die werkloos zijn ;hoofdstuk_30
-activiteitsgraad;het percentage volwassenen in de beroepsbevolking;hoofdstuk_30
-ontmoedigde arbeiders;werkloze individuen die het opgegeven hebben om naar werk te zoeken maar wel graag zouden werken;hoofdstuk_30
-frictiewerkloosheid; kortdurige werkloosheid die ontstaat door de gebruikelijke moeilijkheden om werknemers en werkgevers aan elkaar te koppelen;hoofdstuk_30
-structurele werkloosheid;aanhoudende langdurige werkloosheid die ontstaat door langdurige schokken of permanente kenmerken van een economie die het moeilijker maken voor sommige arbeidskrachten om werk te vinden;hoofdstuk_30
-mediane loon;het loon waarvoor geldt dat de helft van alle arbeidskrachten minder verdient dan dat loon en de andere helft meer;hoofdstuk_30
-vakbond;een vereniging van werknemers die collectief met de werkgevers onderhandelt over lonen, andere voordelen, en arbeidsomstandigheden;hoofdstuk_30
-actief arbeidsmarktbeleid;beleidsmaatregelen met als doel om werkloze arbeidskrachten terug aan het werk te krijgen, zoals arbeidsmarktbemiddeling, herscholingsprogramma's, en het nagaan van de bereidheid om te werken;hoofdstuk_30
-conjuncturele werkloosheid;werkloosheid gecorreleerd met de conjunctuurcyclus;hoofdstuk_30
-natuurlijke werkloosheidsgraad;de graad van structurele werkloosheid plus frictiewerkloosheid;hoofdstuk_30
-baby boomers;mensen geboren gedurende de jaren met een hoog geboortecijfer (1946–1964);hoofdstuk_30
-inflatie;een toename in het algemene of gemiddelde prijspeil;hoofdstuk_31
-inflatiecijfer;=((P_2 - P_1)/P_1)*100%, de procentuele toename in het algemene prijspeil (dat gemeten wordt d.m.v. een prijsindex) over een bepaalde tijdsperiode;hoofdstuk_31
-reële prijs;een prijs die is gecorrigeerd voor inflatie, gebruikt om de prijs van een good doorheen de tijd te vergelijken;hoofdstuk_31
-v, omloopsnelheid van geld;het gemiddeld aantal keer dat een euro is uitgegeven aan eindgoederen en -diensten in een jaar;hoofdstuk_31
-deflatie;een afname in het algemene prijspeil, met andere woorden een negatief inflatiecijfer;hoofdstuk_31
-disinflatie;een verlaging van het inflatiecijfer;hoofdstuk_31
-geldillusie;de foutieve perceptie die ontstaat als mensen wijzigingen in nominale prijzen verwarren met wijzigingen in reële prijzen;hoofdstuk_31
-reële rendement;het nominale rendement min het inflatiecijfer;hoofdstuk_31
-nominale rendement;rendement dat niet is gecorrigeerd voor de effecten  van inflatie;hoofdstuk_31
-Fisher-effect;de neiging van de nominale rentevoet om met evenveel procentpunten toe te nemen als het verwachte inflatiecijfer;hoofdstuk_31
-schuldmonetisering;wat er gebeurt als de overheid haar schulden afbetaalt door geld bij te drukken;hoofdstuk_31
-conjunctuurbewegingen;de schommelingen op de korte termijn van het bbp rond zijn trend op de lange termijn;hoofdstuk_32
-recessie;een betekenisvolle en wijdverspreide daling van het reële inkomen en de werkgelegenheid;hoofdstuk_32
-aggregatieve-vraagcurve (AV);curve die alle combinaties toont van inflatie en reële groei die consistent zijn met een bepaalde groei van de bestedingen (%-groeivoet van M + %-groeivoet van v);hoofdstuk_32
-Solow-groeivoet;de potentiële groeivoet van een economie, d.w.z. de groeivoet die zou worden gerealiseerd bij flexibele prijzen met de bestaande reële productiefactoren;hoofdstuk_32
-aggregatieve-aanbodcurve op de lange termijn (AALT);een verticale rechte waar de groeivoet gelijk is aan de Solow-groeivoet;hoofdstuk_32
-reële schok; (ook productiviteitsschok genoemd) elke schok die de potentiële groeivoet doet toe- of afnemen;hoofdstuk_32
-aggregatieve-vraagschok;een snelle en onverwachte verschuiving van de AV-curve (bestedingen);hoofdstuk_32
-aggregatieve-aanbodcurve op de korte termijn (AAKT); een curve die het negatieve verband toont tussen het inflatiecijfer en de reële groei gedurende een periode waarin de prijzen en lonen plakkerig zijn;hoofdstuk_32
-nominale-loonverwarring;een toestand die zich voordoet wanneer arbeiders reageren op hun nominale loon in plaats van op hun reële loon, met andere woorden, wanneer arbeiders reageren op het bedrag dat op hun loonbriefje staat eerder dan hoeveel goederen en diensten ze met hun loon kunnen kopen (het reële loon);hoofdstuk_32
-menukosten;de kosten om prijzen aan te passen;hoofdstuk_32
+#separator:semicolon)
+#html:false)
+prikkels;beloningen en straffen die beweegredenen zijn voor gedrag (hoofdstuk 01)
+schaars;wanneer er niet voldoende is van een specifieke hulpbron om aan al onze behoeftes te voldoen (hoofdstuk 01)
+grote economische probleem;hoe onze schaarse hulpbronnen aan te wenden om aan zoveel mogelijk van onze behoeftes te voldoen (hoofdstuk 01)
+opportuniteitstost;de waarde van de mogelijkheden die we verliezen wanneer we een keuze maken (hoofdstuk 01)
+inflatie;een verhoging van het algemene prijspeil (hoofdstuk 01)
+bruto binnenlands product (bbp);de marktwaarde van alle finale goederen en diensten geproduceerd in een land in een jaar (hoofdstuk 26)
+bbp per hoofd van de bevolking;bruto binnenlands product gedeeld door de bevolking (hoofdstuk 26)
+bruto nationaal product product (bnp);de marktwaarde van alle finale goederen en diensten geproduceerd door de staatsburgers van een land in een jaar, waar ze ook verblijven (hoofdstuk 26)
+nominaal bbp;bruto binnenlands product niet gecorrigeerd voor veranderingen in  het prijspeil; hoofdstuk_26)
+nominale variablen;variabelen, zoals het nominaal bbp, die niet zijn gecorrigeerd voor veranderingen in  het prijspeil (hoofdstuk 26)
+reële variabelen;variabelen, zoals het reëel bbp, die zijn gecorrigeerd voor veranderingen in het prijspeil door voor alle tijdsperiodes dezelfde prijzen te gebruiken (hoofdstuk 26)
+recessie;een betekenisvolle en wijdverspreide daling van het reëel inkomen de de werkgelegenheid (hoofdstuk 26)
+economische schommelingen (conjunctuurcycli); de bewegingen op de korte termijn van  het reëel bbp rond zijn lange-termijntrend (hoofdstuk 26)
+consumptie;bestedingen door de particuliere sector aan eindgoederen en -diensten  (hoofdstuk 26)
+investeringen;de aankoop van nieuwe kapitaalgoederen: bestedingen door de particuliere sector aan gereedschap, fabrieken, en uitrusting gebruikt om in de toekomst producten te maken (hoofdstuk 26)
+overheidsbestedingen;bestedingen door alle geledingen van de overheid aan eindgoederen en -diensten (bevat dus niet de overdrachtsuitgaven) (hoofdstuk 26)
+netto-uitvoer;uitvoerwaarde min invoerwaarde (hoofdstuk 26)
+economische groei;de groeivoet van het reëel bbp per hoofd van de bevolking: g_t = (Y_t - Y_{t-1})/Y_{t-1})*100%, waarbij Y_t het reëel bbp per hoofd van de bevolking is in periode t (hoofdstuk 27)
+fysiek kapitaal;de voorraad van werktuigen inclusief machines, bouwwerken, en uitrusting (hoofdstuk 27)
+menselijk kapitaal;werktuigen van de geest: de productieve kennis en vaardigheden die arbeidskrachten verwerven door scholing, training en ervaring (hoofdstuk 27)
+technologische kennis;kennis over hoe de wereld in elkaar zit, die wordt gebruikt om goederen en diensten te produceren (hoofdstuk 27)
+sociale instituties;de 'regels van het spel' die economische prikkels vorm geven (hoofdstuk 27)
+vrijbuiter (Eng.: free rider);iemand die de voordelen van een publiek goed consumeert zonder een deel van de kosten te dragen (hoofdstuk 27)
+schaalvoordelen;de voordelen van productie op grote schaal waarbij de gemiddelde kosten dalen als de productiehoeveelheid toeneemt (hoofdstuk 27)
+sparen;inkomen dat niet is besteed aan consumptiegoederen (hoofdstuk 29)
+investeringen;de aankoop van nieuwe kapitaalgoederen: particuliere bestedingen aan werktuigen, fabrieksgebouwen, en uitrusting om toekomstige output te produceren (hoofdstuk 29)
+tijdvoorkeur;het verlangen om goederen en diensten liever vroeger dan later te hebben (bij gelijk blijvende omstandigheden) (hoofdstuk 29)
+markt voor leenfondsen;de markt waar de aanbieders van leenfondsen (spaarders)  samenkomen met de vragers naar leenfondsen (leners) en zo de evenwichtsrentevoet bepalen (hoofdstuk 29)
+financieel intermediair;instellingen zoals banken, obligatiemarkten en aandelenmarkten die de kost verlagen om fondsen van spaarders naar leners te verplaatsen (hoofdstuk 29)
+obligatie (Eng.: bond);een verhandelbaar schuldbewijs dat documenteert wie welk bedrag schuldig is aan wie en wanneer er terugbetaald moet worden (hoofdstuk 29)
+onderpand  (Eng.: collateral);iets van waarde dat dient als een zekerheid bij een lening; als diegene die geld leent niet aan zijn verplichtingen kan voldoen, kan de geldgever het onderpand opeisen (hoofdstuk 29)
+verdringing (Eng.: crowding out);de daling van de particuliere consumptie en investeringen die zich voordoet als de overheid meer leent --- ook de daling in de particuliere bestedingen die zich voordoet als de overheid haar bestedingen doet toenemen (hoofdstuk 29)
+arbitrage;wanneer iemand voordeel haalt uit prijsverschillen voor hetzelfde goed in verschillende markten door het goed goedkoop te kopen in de ene markt en duur te verkopen in een andere markt (hoofdstuk 29)
+aandeel (Eng.: stock, share);een waardepapier dat een eigendomsrecht in een deel van een onderneming vertegenwoordigt (hoofdstuk 29)
+beursgang (Eng.: initial public offering, IPO);wanneer een onderneming voor de eerste keer aandelen verkoopt aan het publiek om spaargeld op te halen (hoofdstuk 29)
+eigen vermogen;de waarde van de activa (bezittingen) min de passiva (schulden) (hoofdstuk 29)
+hefboomeffect (leverage ratio);de verhouding van de schuld ten opzichte van de activa (hoofdstuk 29)
+insolvente bank of instelling;een bank of instelling waarvan de waarde van de passiva (schulden) groter is dan de activa (bezittingen); hoofdstuk_29)
+werklozen;volwassenen die geen werk hebben maar werk zoeken (hoofdstuk 30)
+werkloosheidspercentage;het percentage van de beroepsbevolking die werkloos zijn  (hoofdstuk 30)
+activiteitsgraad;het percentage volwassenen in de beroepsbevolking (hoofdstuk 30)
+ontmoedigde arbeiders;werkloze individuen die het opgegeven hebben om naar werk te zoeken maar wel graag zouden werken (hoofdstuk 30)
+frictiewerkloosheid; kortdurige werkloosheid die ontstaat door de gebruikelijke moeilijkheden om werknemers en werkgevers aan elkaar te koppelen (hoofdstuk 30)
+structurele werkloosheid;aanhoudende langdurige werkloosheid die ontstaat door langdurige schokken of permanente kenmerken van een economie die het moeilijker maken voor sommige arbeidskrachten om werk te vinden (hoofdstuk 30)
+mediane loon;het loon waarvoor geldt dat de helft van alle arbeidskrachten minder verdient dan dat loon en de andere helft meer (hoofdstuk 30)
+vakbond;een vereniging van werknemers die collectief met de werkgevers onderhandelt over lonen, andere voordelen, en arbeidsomstandigheden (hoofdstuk 30)
+actief arbeidsmarktbeleid;beleidsmaatregelen met als doel om werkloze arbeidskrachten terug aan het werk te krijgen, zoals arbeidsmarktbemiddeling, herscholingsprogramma's, en het nagaan van de bereidheid om te werken (hoofdstuk 30)
+conjuncturele werkloosheid;werkloosheid gecorreleerd met de conjunctuurcyclus (hoofdstuk 30)
+natuurlijke werkloosheidsgraad;de graad van structurele werkloosheid plus frictiewerkloosheid (hoofdstuk 30)
+baby boomers;mensen geboren gedurende de jaren met een hoog geboortecijfer (1946–1964) (hoofdstuk 30)
+inflatie;een toename in het algemene of gemiddelde prijspeil (hoofdstuk 31)
+inflatiecijfer;=((P_2 - P_1)/P_1)*100%, de procentuele toename in het algemene prijspeil (dat gemeten wordt d.m.v. een prijsindex) over een bepaalde tijdsperiode (hoofdstuk 31)
+reële prijs;een prijs die is gecorrigeerd voor inflatie, gebruikt om de prijs van een good doorheen de tijd te vergelijken (hoofdstuk 31)
+v, omloopsnelheid van geld;het gemiddeld aantal keer dat een euro is uitgegeven aan eindgoederen en -diensten in een jaar (hoofdstuk 31)
+deflatie;een afname in het algemene prijspeil, met andere woorden een negatief inflatiecijfer (hoofdstuk 31)
+disinflatie;een verlaging van het inflatiecijfer (hoofdstuk 31)
+geldillusie;de foutieve perceptie die ontstaat als mensen wijzigingen in nominale prijzen verwarren met wijzigingen in reële prijzen (hoofdstuk 31)
+reële rendement;het nominale rendement min het inflatiecijfer (hoofdstuk 31)
+nominale rendement;rendement dat niet is gecorrigeerd voor de effecten  van inflatie (hoofdstuk 31)
+Fisher-effect;de neiging van de nominale rentevoet om met evenveel procentpunten toe te nemen als het verwachte inflatiecijfer (hoofdstuk 31)
+schuldmonetisering;wat er gebeurt als de overheid haar schulden afbetaalt door geld bij te drukken (hoofdstuk 31)
+conjunctuurbewegingen;de schommelingen op de korte termijn van het bbp rond zijn trend op de lange termijn (hoofdstuk 32)
+recessie;een betekenisvolle en wijdverspreide daling van het reële inkomen en de werkgelegenheid (hoofdstuk 32)
+aggregatieve-vraagcurve (AV);curve die alle combinaties toont van inflatie en reële groei die consistent zijn met een bepaalde groei van de bestedingen (%-groeivoet van M + %-groeivoet van v) (hoofdstuk 32)
+Solow-groeivoet;de potentiële groeivoet van een economie, d.w.z. de groeivoet die zou worden gerealiseerd bij flexibele prijzen met de bestaande reële productiefactoren (hoofdstuk 32)
+aggregatieve-aanbodcurve op de lange termijn (AALT);een verticale rechte waar de groeivoet gelijk is aan de Solow-groeivoet (hoofdstuk 32)
+reële schok;(ook productiviteitsschok genoemd) elke schok die de potentiële groeivoet doet toe- of afnemen (hoofdstuk 32)
+aggregatieve-vraagschok;een snelle en onverwachte verschuiving van de AV-curve (bestedingen) (hoofdstuk 32)
+aggregatieve-aanbodcurve op de korte termijn (AAKT); een curve die het negatieve verband toont tussen het inflatiecijfer en de reële groei gedurende een periode waarin de prijzen en lonen plakkerig zijn (hoofdstuk 32)
+nominale-loonverwarring;een toestand die zich voordoet wanneer arbeiders reageren op hun nominale loon in plaats van op hun reële loon, met andere woorden, wanneer arbeiders reageren op het bedrag dat op hun loonbriefje staat eerder dan hoeveel goederen en diensten ze met hun loon kunnen kopen (het reële loon) (hoofdstuk 32)
+menukosten;de kosten om prijzen aan te passen (hoofdstuk 32)
+geld;een algemeen aanvaard betaalmiddel (hoofdstuk 34)
+liquide middelen;activa die kunnen worden aangewend als betaalmiddel of, snel en zonder waardeverlies, kunnen worden omgezet in activa die kunnen worden aangewend als betaalmiddel (hoofdstuk 34)
+fractioneel bankieren;een systeem waarbij banken slechts een deel van de deposito's aanhouden als reserves en de rest uitlenen (hoofdstuk 34)
+reserveratio (RR);de verhouding van de reserves ten opzichte van de deposito's (hoofdstuk 34)
+geldmultiplier (MM);met hoeveel de geldvoorraad toeneemt als de reserves toenemen met één euro: MM=1/RR waarbij RR de reserveratio is (hoofdstuk 34)
+openmarketoperaties;het aan- of verkopen van overheidsobligaties door de centrale bank (hoofdstuk 34)
+interbankenrente (in V.S.: Federal Funds rate);de rente waartegen een bank geld leent aan een andere bank. (hoofdstuk 34)
+zero lower bound;een toestand waarbij de nominale beleidsrente van de centrale bank op nul is beland (hoofdstuk 34)
+kwantitatieve geldverruiming;toestand waarbij de centrale bank overheidsobligaties op de lange termijn of andere effecten koopt (hoofdstuk 34)
+liquiditeitsval;toestand waarbij de nominale beleidsrente van de centrale bank op nul is beland liggen, zodat het onmogelijk is om ze nog verder te verlagen of dat dat de aggregatieve vraag niet doet toenemen (hoofdstuk 34)
+insolvente instelling;een instelling (of een bank) waarvan de passiva groter zijn dan de waarde van de activa (hoofdstuk 34)
+illiquide activa;activa die niet snel kunnen worden omgezet in geld zonder een groot verlies aan waarde. (Merk op dat een bank illiquide kan zijn zonder insolvent te zijn.) (hoofdstuk 34)
+systeemrisico;het risico dat het faillissement van één financiële instelling andere financiële instellingen in moeilijkheden kan brengen (hoofdstuk 34)
+moreel risico (Eng.: moral hazard);de idee dat mensen die afgeschermd zijn van risico de neiging hebben om zich risicovoller te gedragen (hoofdstuk 34)
+disinflatie;het terugdringen van het inflatiecijfer (hoofdstuk 35)
+deflatie;een daling van het prijspeil, m.a.w. een negatief inflatiecijfer (hoofdstuk 35)
+geloofwaardig geldbeleid;als de marktparticipanten verwachten dat de centrale bank zich aan het door haar aangekondigde beleid zal houden (hoofdstuk 35)
+marketvertrouwen;één van de krachtigste beleidsinstrumenten van een centrale bank is haar invloed op de verwachtingen, meer dan haar invloed op de geldhoeveelheid.
+begrotingsbeleid (Eng.: fiscal policy);overheidsbeleid met betrekking tot belastingen, bestedingen, en overheidsleningen, dat als bedoeling heeft om de conjunctuurschommelingen te beïnvloeden (hoofdstuk 37)
+verdringingseffect (Eng.: crowding out);de daling van de particuliere consumptie en investeringen zich voordoet wanneer de overheid meer geld leent. Tevens de daling van de particuliere bestedingen zich voordoet wanneer de overheid haar bestedingen doet stijgen (hoofdstuk 37)
+multipliereffect;de bijkomende toename van de bestedingen veroorzaakt door een initiële toename van de overheidsbestedingen (hoofdstuk 37)
+Ricardiaanse equivalentie;de theorie die stelt dat mensen begrijpen dat, als de overheid voor een gegeven niveau van overheidsbestedingen nu de belastingen verlaagt, dat impliceert dat ze later de belastingen moet verhogen. Bijgevolg zullen ze het geld van een belastingverlaging sparen om later de hogere belastingen te kunnen betalen (hoofdstuk 37)
+automatische stabilisatoren;veranderingen in het begrotingsbeleid die de aggregative vraag doen stijgen zonder de beleidsmakers daar expliciete actie voor moeten ondernemen. Werkloosheidsuitkeringen zijn een voorbeeld van een automatische stabilisator (hoofdstuk 37)
+anticyclisch (of contracyclisch) begrotingsbeleid:begrotingsbeleid dat de conjunctuurschommelingen dempt --- de bestedingen doen stijgen als de economie zich in een recessie bevindt de bestedingen doen dalen als de economie zich in een expansie bevindt (hoofdstuk 37)
+handelstekort;het verschil dat zich voordoet als de waarde van de invoer van een land groter is dan de waarde van de uitvoer (hoofdstuk 37)
+handelsoverschot;het verschil dat zich voordoet als de waarde van de uitvoer van een land groter is dan de waarde van de invoer (hoofdstuk 37)
+betalingsbalans;een overzicht van al de economische transacties tussen de ingezetenen van een land met niet-ingezetenen van dat land (de rest van de wereld) (hoofdstuk 37)
+overschot op de kapitaalrekening;(ook: instroom van kapitaal) het overschot dat ontstaat als de instroom van buitenlands kapitaal in een land groter is dan de uitstroom van binnenlands kapitaal (hoofdstuk 37)
+lopende rekening;in de betalingsbalans: de som van de handelsbalans, het netto factorinkomen uit het buitenland, en de netto-overdrachtsbetalingen (hoofdstuk 37)
+kapitaalrekening; dat deel van de betalingsbalans dat veranderingen meet in buitenlandse eigenaarschap van binnenlandse activa, waaronder financiële activa zoals aandelen en obligaties alsook fysiek kapitaal (hoofdstuk 37)
+wisselkoers;de prijs van een munt uitgedrukt in een andere munt (hoofdstuk 37)
+appreciatie;een stijging van de prijs van een munt uitgedrukt in een andere munt (hoofdstuk 37)
+depreciatie;een daling van de prijs van een munt uitgedrukt in een andere munt (hoofdstuk 37)
+nominale wisselkoers;de koers waartegen je de ene munt kan omruilen in een andere munt (hoofdstuk 37)
+reële wisselkoers;de koers waartegen je de goederen en diensten van één land kan omruilen in de goederen en diensten van ander land (hoofdstuk 37)
+koopkrachtpariteit (Eng.: purchasing power parity, PPP);het principe dat de reële koopkracht van een munteenheid overal ongeveer dezelfde moet zijn, ongeacht of je de munteenheid in het binnenland uitgeeft of ze omzet naar een andere munt en in het buitenland uitgeeft (hoofdstuk 37)
+wet van één prijs;het principe dat bij vrijhandel de prijs van identieke goederen overal ter wereld ongeveer dezelfde is (hoofdstuk 37)
+zwevende wisselkoers;wisselkoers die vooral door de markt wordt bepaald (hoofdstuk 37)
+vaste wisselkoers;wisselkoers gebaseerd op de belofte van de overheid of centrale bank dat ze bereid is om haar valuta tegen een vaste, vooraf bepaalde koers, om te zetten in een andere valuta (hoofdstuk 37)
+dollarisatie;wanneer een ander land dan de V.S. de dollar gebruikt als haar munt (hoofdstuk 37)
+beheerst zwevende wisselkoers (Eng.: managed float, dirty float);wanneer de wisselkoers niet vast is maar de overheid tussenkomt in de markt om de koers binnen bepaalde grenzen te houden (hoofdstuk 37)
