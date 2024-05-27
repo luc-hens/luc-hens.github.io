@@ -2,7 +2,7 @@
 
 # Rules for written work
 
-(Last revised 21 April 2022)
+(Last revised 27 May 2024)
 
 Problem sets and short papers (and written examinations) are valuable practice in composition: set out your ideas logically; use paragraphs to group your thoughts; write complete sentences. Written work should be concise. Explain how you obtained results. In problem sets, show your work and briefly explain what you have done and why you have done it. Stick to the assignment; there is no need to speculate or make normative statements unless this is explicitly asked.
 
@@ -47,9 +47,9 @@ Written work problem sets and short papers gives you the opportunity to see whet
 
 Submit written work on or before the date specified in the course schedule. The penalty for late written work is 2 points on a 0-20-point scale per weekday that the paper is late. In accordance with Murphy's Law, computers and printers are likely to break down the evening before the due date. Start in time. Computer problems are no valid reason for handing in work late. 
 
-## Submit work as a pdf
+## Submit work as .docx files (if you use a word processor)
 
-Always submit work as a file in portable document format (pdf), unless specified otherwise. No word processor files.
+If you use a word processor, submit work as a .docx-file unless specified otherwise: I use the Comments and Reviewing tools of Microsoft Word to comment on your drafts. If you use LaTeX, submit work as a pdf file. (The final version of your master's thesis has to be uploaded to a server as a pdf file.)
 
 <!-- Late written work should be handed in at the college reception desk. Ask the receptionist to put a date stamp on the top of the first page.-->
 
