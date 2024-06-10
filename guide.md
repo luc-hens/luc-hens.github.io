@@ -208,8 +208,6 @@ As you are doing your bibliographical research, you will notice that many econom
 * The *Handbooks in Economics* series, published by Elsevier (over 50 volumes, over 700 survey articles). The list of books in the Handbooks in Economics series and their tables of contents are accessible on the [publisher's web site](https://www.elsevier.com).
 * The *International Library of Critical Writings* series (published by Edward Elgar) consists of several hundred volumes, each one collecting classic and seminal articles in one of the main fields of research in economics and business. The tables of contents can be consulted on the [publisher's web site](http://www.e-elgar.co.uk/). Several of the volumes are available in the VUB library.
 
-
-
 ### Why should I document my sources? How do I document my sources?
 
 Documenting you sources is essential: it allows your readers to verify the sources for themselves, and it gives credit to whom credit is due. Not or insufficiently documenting your sources is considered as academic dishonesty and can have serious consequences. I require APA Style for focumenting sources and formatting papers, that is, Harvard-style parenthetical author-year citations (no footnotes). For details consult *The Little Seagull Handbook* (Bullock, Brody, and Weinberg, 2014, pp. 161-165) and the APA resources cited above. 
@@ -218,9 +216,9 @@ Documenting you sources is essential: it allows your readers to verify the sourc
 
 Format your paper in *APA Style*. Use the sample student paper as a template. (See: What is APA Style?).
 
-### What is a refereed (or peer-reviewed) scholarly article?
+### What is a peer-reviewed scholarly article?
 
-A scholarly article is an article reporting the scientific research done by a scientist (a scholar). When a scholar's research has yielded results that are interesting enough to communicate to the outside world, he or she writes them up in a working paper. Working papers are often work in progress, and are revised several times (sometimes substantially). In seminars, at scientific conferences, and via the internet researchers present the results of their work to their colleagues (peers) in order to get feedback: suggestions for improvement, extensions, corrections. Once the working paper has survived this stage and has been rewritten to take the comments into account, the researcher submits the paper to a scholarly journal related to the topic of research (e.g., the *Journal of International Economics*). The editor of the scholarly journal (usually a top-notch academic in the field) sends copies of the papers to two or three specialists in the field who will act as referees: they will read the article, carefully check it for mistakes, make suggestions for revisions, and judge whether it is fit for publication in the journal (rejected, revise and resubmit, accepted). This quality control is called refereeing (or peer-review).
+A scholarly article is an article reporting the scientific research done by a scientist (a scholar). When a scholar's research has yielded results that are interesting enough to communicate to the outside world, he or she writes them up in a working paper. Working papers are often work in progress, and are revised several times (sometimes substantially). In seminars, at scientific conferences, and via the internet researchers present the results of their work to their colleagues (peers) in order to get feedback: suggestions for improvement, extensions, corrections. Once the working paper has survived this stage and has been rewritten to take the comments into account, the researcher submits the paper to a scholarly journal related to the topic of research (e.g., the *Journal of International Economics*). The editor of the scholarly journal (usually a top-notch academic in the field) sends copies of the papers to two or three specialists in the field (that is, peers of the author) who will review the article: they will read the article, carefully check it for mistakes, make suggestions for revisions, and judge whether it is fit for publication in the journal (rejected, revise and resubmit, accepted). This quality control is called peer review (or refereeing). (*Peer review* heet in het Nederlands  *collegiale toetsing* ([koppeling](https://nl.wikipedia.org/wiki/Peerreview)).)
 
 ### Can I use papers from the internet? Can I use working papers?
 
@@ -315,9 +313,14 @@ Resources on using Python to do statistical analysis:
 
 <!--  Commercial (and usually expensive) statistical packages include eViews, RATS and MacRATS, SAS, SHAZAM, SPSS, S-Plus (the commercial version of R) or TSP.  Gauss, Matlab, and Mathematica also can do statistics and graph data.  -->
 
+### How do I report statistical results in my paper?
+
+To report statistical results, follow the guidelines of *APA Style*: [link](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
+
+
 ### Can I use qualitative research methods?
 
-You can use qualitative research methods (such as methods based on data from interviews) when such methods are appropriate and provided that you apply the methods with rigor. Your paper should contain a section giving a rationale for the method you selected. For a primer on the use of qualitative methods in the social sciences see: Brett Davies, M. (2007). *Doing a Successful Research Project: Using Qualitative or Quantitative Methods*. Palgrave Macmillan  (ISBN: 978-1403993793) (VUB library call number: 371.1 G DAVI 2007). For a primer on using interviews, see Knott, E., Rao, A. H., Summers, K., and Teeger, C. (2022). Interviews in the social sciences. *Nature Reviews Methods Primers*, 2(732022) ([link](https://www.nature.com/articles/s43586-022-00150-6). VUB students can download the qualitative data analysis computer software package NVivo [on softweb.vub.be](https://softweb.vub.be).
+You can use qualitative research methods (such as methods based on data from interviews) when such methods are appropriate and provided that you apply the methods with rigor. Your paper should contain a section giving a rationale for the method you selected. For a primer on the use of qualitative methods in the social sciences see: Brett Davies, M. (2007). *Doing a Successful Research Project: Using Qualitative or Quantitative Methods*. Palgrave Macmillan  (ISBN: 978-1403993793) (VUB library call number: 371.1 G DAVI 2007). For a primer on using interviews, see Knott, E., Rao, A. H., Summers, K., and Teeger, C. (2022). Interviews in the social sciences. *Nature Reviews Methods Primers*, 2(732022) ([link](https://www.nature.com/articles/s43586-022-00150-6)). VUB students can download the qualitative data analysis computer software package NVivo [on softweb.vub.be](https://softweb.vub.be).
 
 ### Can I use  surveys (questionnaires)?
 
@@ -354,8 +357,6 @@ To protect citizens’ privacy, the General Data Protection Regulation (GDPR) of
 The VUB Internet Security and privacy web page gives more information on the General Data Protection Regulation ([English version](https://ivp.vub.be/en/privacy/); [Dutch version](https://ivp.vub.be/privacy/)). 
 
 <!-- [complete this section later --- see notebook: talk by Audrey Van Scharen of 21 September 2018. EU site: https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en). --> 
-
-
 
 ### How is the paper graded?
 
