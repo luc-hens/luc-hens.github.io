@@ -2,7 +2,7 @@
 
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-Luc Hens (Last updated on 22 March 2024)
+Luc Hens (Last updated on 10 July 2024)
 
 <!-- ### A short video introduction (2 minutes)
 <video width="480" height="320" controls="controls)
@@ -325,6 +325,16 @@ You can use qualitative research methods (such as methods based on data from int
 ### Can I use  surveys (questionnaires)?
 
 Yes, if a survey is an appropriate method to gather data: "Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning." (Stantcheva, 2022). You should also design and administer the survey well. But to get a sampling frame and a random sample is much harder than most students think. If your sample is not random, you should test whether the sample is representative of the population for characteristics that may matter. The samples I see in many master's theses [are not representative](sampling-bias-cartoon.jpg)). And remember [what Dr House says](house-md-everybody-lies.png). If you want to find out how people behave and why they behave that way, it is better to look at what people *do* rather than at what they *say* they do (revealed preferences vs stated preferences). Listen to the section on surveys (from 18'28" to 20'19" [here](https://freakonomics.com/podcast/why-are-there-so-many-bad-bosses/) in Episode 495: "Why Are There So Many Bad Bosses?" of the Freakonomics podcast. Essential reading is: Stantcheva, S. (2023). How to run surveys: A guide to creating your own identifying variation and revealing the invisible. *Annual Review of Economics*, 15, pp> 205-234 ([link](https://www.annualreviews.org/doi/10.1146/annurev-economics-091622-010157)). VUB students can download the *Qualtrics* software "for surveys, feedback and polls" [on softweb.vub.be](https://softweb.vub.be).
+
+### What about using generative artificial intelligence (AI)?
+
+The conventions on the use of generative AI in scholarly work (including assignments, bachelor papers, and master's theses) are evolving. Consult the university policy and the policy set out in the **guidelines for the master's thesis** on the SharePoint page of the faculty of Social Sciences and Solvay Business School [add link]. In any case, cite the tool you used. This blog post explains how to do that: McAdoo, Timothy (2024, February 23). How to cite ChatGPT. APA Style Blog ([link](https://apastyle.apa.org/blog/how-to-cite-chatgpt)). I also expect you to follow the **APA policy on the use of generative artificial intelligence (AI) in scholarly materials** ([link](https://www.apa.org/pubs/journals/resources/publishing-policies)):
+
+> For this policy, AI refers to generative LLM AI tools and does not include grammar-checking software, citation software, or plagiarism detectors.
+> * When a generative artificial intelligence (AI) model is used in the drafting of a manuscript for an APA publication, the use of AI must be disclosed in the methods section and cited.
+> * AI cannot be named as an author on an APA scholarly publication.
+> * When AI is cited in an APA scholarly publication, the author must employ the software citation template, which includes specifying in the methods section how, when, and to what extent AI was used. Authors in APA publications are required to upload the full output of the AI as supplemental material.
+
 
 ### How do I write an abstract of my paper?
 
