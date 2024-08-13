@@ -386,7 +386,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
  | paper | artikel (indien gepubliceerd); werkstuk (indien de neerslag van een taak) |
  | partial equilibrium model | partieel-evenwichtsmodel (met koppelteken: partieel slaat op het evenwicht, niet op het model) |
  | peak | piek (in de betekenis van: (lokaal) maximum in een tijdreeks). Tegengestelde van: *trough*. |
- | peer review | collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten. |
+ | peer review | collegiale toetsing, onderlinge toetsing, toetsing door vakgenoten |
  | peer reviewed | gecontroleerd door collega's. |
  | principal and agent | opdrachtgever en uitvoerder |
  | production possibility frontier | productiemogelijkheidscurve, transformatiecurve. |
@@ -405,6 +405,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
  | scatter plot | spreidingsdiagram |
  | short-term interest rate | kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken) |
  | spill-over effects | oversijpelingseffecten |
+ | stakeholders | belanghebbenden |
  | supply chain | waardeketen |
  | tariff | invoerrecht |
  | time series | tijdreeks |
