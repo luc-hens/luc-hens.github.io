@@ -2,7 +2,7 @@
 
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-Luc Hens (Last updated on 21 August 2024)
+Luc Hens (Last updated on 29 October 2024)
 
 <!-- ### A short video introduction (2 minutes)
 <video width="480" height="320" controls="controls)
@@ -283,7 +283,7 @@ For a more comprehensive and technical discussion, see the papers by Yu (2008); 
 
 > Notebook documents (or "notebooks", all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis. ([link](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html))
 
-Downoad and install Python first, then (from within Python), Jupyter Notebook and Python. Here's a brief explanation on the basics of using notebooks: [link](https://python-programming.quantecon.org/getting_started.html) (starting at section 2.4). (If you took the Business Information Systems / *Bedrijfsinformatica* course, you already used Spyder as a front end to Python.  Spyder is fine but I encourage you give Jupyter Notebook a try.) I made a Jupyter Notebook that illustrates how to use Python to draw the diagrams and do the computations from an introductory applied statistics course. You can view the notebook in your browser [here](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#). If you use Spyder, copy the Python code from the grey <code>code</code> boxes in the [notebook viewer](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#). If you use Jupyter Notebook, download the notebook [here](statistics_i_using_python.ipynb).  
+First download and install Python ([link](https://wiki.python.org/moin/BeginnersGuide/Download)). Start Python and  (from within Python) install Jupyter Notebook ([link](https://jupyter.org/install)). Here's a brief explanation on the basics of using notebooks: [link](https://python-programming.quantecon.org/getting_started.html) (starting at section 2.4). (If you took the Business Information Systems / *Bedrijfsinformatica* course, you already used Spyder as a front end to Python.  Spyder is fine but I encourage you give Jupyter Notebook a try.) I made a Jupyter Notebook that illustrates how to use Python to draw the diagrams and do the computations from an introductory applied statistics course. You can view the notebook in your browser [here](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#). If you use Spyder, copy the Python code from the grey <code>code</code> boxes in the [notebook viewer](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#). If you use Jupyter Notebook, download the notebook [here](statistics_i_using_python.ipynb).  
 
 Resources on using Python to do statistical analysis:
 - Hens, L. (2022). *Statistics I: Technology help &mdash; Python* (Jupyter notebook): [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb) 
