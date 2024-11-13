@@ -8,6 +8,7 @@ I am a (retired) economist from the [Vrije Universiteit Brussel](http://www.vub.
 * **Research guide** for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
 * **APA Style**:  [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)  &mdash;&mdash; [Style &amp; Grammar Guidelines](https://apastyle.apa.org/style-grammar-guidelines)
 * **Recommendation letters**: if you want me to write a letter of recommendation read [this](recommendation.html) first 
-* **Teaching**: The syllabi of my courses (2024-2025): [Economics for Business](economics_for_business_syllabus_2024_2025.pdf) | [Introduction to Macroeconomics](introduction_to_macroeconomics_syllabus_2024_2025.pdf) | [Statistics for Business and Economics I](statistics_i_syllabus_2024_2025.pdf) | [Inleiding tot de Macro-economie](inleiding_tot_de_macro_economie_studiewijzer_2024_2025.pdf) | [Statistiek I voor de Bedrijfseconomische Wetenschappen](statistiek_i_studiewijzer_2024_2025.pdf)
+* **Teaching**: The syllabi of my courses (2024-2025):
+ [Economics for Business](economics_for_business_syllabus_2024_2025.pdf) ; [Introduction to Macroeconomics](introduction_to_macroeconomics_syllabus_2024_2025.pdf) ; [Statistics for Business and Economics I](statistics_i_syllabus_2024_2025.pdf) ; [Inleiding tot de Macro-economie](inleiding_tot_de_macro_economie_studiewijzer_2024_2025.pdf) ; [Statistiek I voor de Bedrijfseconomische Wetenschappen](statistiek_i_studiewijzer_2024_2025.pdf)
 
 > *Sapere aude* (Have the courage to use your own reason) &mdash; Immanuel Kant, Horace
