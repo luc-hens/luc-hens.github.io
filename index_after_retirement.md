@@ -2,9 +2,9 @@
 
 I am a (retired) economist from the [Vrije Universiteit Brussel](http://www.vub.ac.be), where I taught courses in economics and applied statistics. For a list of publications see my [ORCID page](https://orcid.org/0000-0003-4881-9317) (*ORCID* stands for Open Researcher and Contributor ID).
 
-* **About me**: my interests other than economics and statistics ([link](about-me.html))
+* **About me**: a map of my personal microculture ([link](about-me.html))
 * **Book recommendations**: some accessible books on economics and statistics ([link](book-recommendations.html))
-* **Python** code for introductory statistics (in a Jupyter notebook): [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb) 
+* **Python** code (in a Jupyter notebook) for introductory statistics: [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb) 
 * **Research guide** for students writing a research proposal, a term paper, or a master's thesis ([link](guide.html))
 * **APA Style**:  [Sample Papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)  &mdash;&mdash; [Style &amp; Grammar Guidelines](https://apastyle.apa.org/style-grammar-guidelines)
 * **Recommendation letters**: if you want me to write a letter of recommendation read [this](recommendation.html) first 
