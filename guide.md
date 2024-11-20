@@ -2,7 +2,7 @@
 
 # How Do I Write A Research Paper? Frequenty Asked Questions
 
-Luc Hens (Last updated on 29 October 2024)
+Luc Hens (Last updated on 20 November 2024)
 
 <!-- ### A short video introduction (2 minutes)
 <video width="480" height="320" controls="controls)
