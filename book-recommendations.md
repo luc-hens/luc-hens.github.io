@@ -8,6 +8,7 @@ Here are some great books (mostly on economics and statistics) that I recommend.
 
 * Robert Heilbroner (1953). *The Worldly Philosophers*. Here's what *The Economist* (July 16, 2022, p. 73) writes: "The best book for anyone interested in the history of economic ideas---not least because it is short, conversational and can be read in a few hours. First published in 1953, it covers some of the most consequential early economists, from Adam Smith to Thomas Malthus to Karl Marx, explaining what they thought and why"
 * Matt Ridley (2020). *How Innovation Works* [Add a short annotation]
+* Hannah Ritchie (2024). *Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet*  
 * David Spiegelhalter (2019). *The Art of Statistics: Learning from Data.* [Add a short annotation]
 * Tim Harford (2018). *Fifty Things that Made the Modern Economy*. The accompanying  podcast ([link](https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)) is available in your favorite podcast app. 
 * Tim Harford (2011). *The Undercover Economist*. ([Here](https://timharford.com/2022/02/the-ten-best-books-for-thinking-clearly-about-statistics/) are Tim Harford's *Ten best books for thinking clearly about statistics*.)
