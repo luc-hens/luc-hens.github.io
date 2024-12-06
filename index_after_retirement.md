@@ -1,9 +1,9 @@
 # Luc Hens
 
-I am a (retired) economist from the [Vrije Universiteit Brussel](http://www.vub.ac.be). Here is a map of my personal microculture: [link](about-me.html). 
+I am a (retired) economist from the [Vrije Universiteit Brussel](http://www.vub.ac.be). Here is a map of my personal microculture: [link](about_me.html). 
 
 
-* **Book recommendations**: some accessible books on economics and statistics ([link](book-recommendations.html))
+* **Book recommendations**: some accessible books on economics and statistics ([link](book_recommendations.html))
 * **Python** code (in a Jupyter notebook) for introductory statistics: [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb) 
 * **Research**: a list of my publications on my [ORCID page](https://orcid.org/0000-0003-4881-9317) (*ORCID* stands for Open Researcher and Contributor ID)
 * **Teaching**: the syllabi of my economics and applied statistics courses (2024&ndash;2025):
