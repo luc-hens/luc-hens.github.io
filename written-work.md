@@ -404,7 +404,7 @@ Gebruik een Nederlandse term wanneer je een Engelse term kan vermijden: marketin
  | resources | middelen (*natural resources* is natuurlijke hulpbronnen)  |
  | scatter plot | spreidingsdiagram |
  | short-term interest rate | kortetermijnrentevoet, korte-termijrentevoet (in &eacute;&eacute;n woord of met koppelteken) |
- | spill-over effects | oversijpelingseffecten |
+ | spill-over effects | overloopeffecten |
  | stakeholders | belanghebbenden |
  | supply chain | waardeketen |
  | tariff | invoerrecht |
