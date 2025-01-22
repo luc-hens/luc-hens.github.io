@@ -1,6 +1,5 @@
 # Luc Hens
 
-## About me
 I am a (retired) economist from the [Vrije Universiteit Brussel](http://www.vub.ac.be). 
 
 My interests&mdash;other than economics, statistics and mathematics&mdash;include books, music, movies, running, and computing. [Here](about_me.html) is a map of my **personal microculture**.
