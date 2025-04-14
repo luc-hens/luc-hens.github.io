@@ -1,8 +1,8 @@
 [Home](index.html)
 
 ### Marathons:
-         12 Oct 2025   Chicago ........................
-         13 Apr 2025   European Marathon Championships.
+         12 Oct 2025   Chicago ........................ 
+    35   13 Apr 2025   European Running Championships..  4:17:55
     34   28 Jul 2024   San Francisco ..................  4:23:00
     33   16 Mar 2024   Heuvelland Marathon ............  4:26:07
     32   08 Oct 2023   Eindhoven ......................  3:58:40

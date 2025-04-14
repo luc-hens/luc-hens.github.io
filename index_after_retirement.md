@@ -1,12 +1,10 @@
 # Luc Hens
 
-I am a (retired) economist from the Vrije Universiteit Brussel. 
+I am an economist (retired) from the Vrije Universiteit Brussel. My interests (other than economics and statistics) include books, music, movies, running, and computing. 
 
-My interests include books, music, movies, running, and computing. [Here](about_me.html) is a map of my **personal microculture**.
+A map of my **personal microculture** ([link](about_me.html))
 
-[Here](book_recommendations.html) is a list of some of my favorite **podcasts** and some accessible **books** on economics and statistics. 
-
-### Other stuff:
+A list of some of my favorite **podcasts** and some accessible **books** on economics and statistics ([link](book_recommendations.html))
 
 **Python** code (in a Jupyter notebook) for introductory statistics: [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb) 
 
