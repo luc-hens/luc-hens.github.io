@@ -1,6 +1,6 @@
 # Luc Hens
 
-[Here](about_me.html)’s a map of my **personal microculture** (books, music, movies, running, and computing). [Here](book_recommendations.html)’s a list of some of my favorite **podcasts** and some accessible **books** on economics and statistics.
+My interests—other than economics and statistics—include books, music, movies, running, and computing. [Here](about_me.html)’s a map of my **personal microculture** (books, music, movies, running, and computing). [Here](book_recommendations.html)’s a list of some of my favorite podcasts and some accessible books on economics and statistics.
 
 ### Research &amp; Teaching 
 
