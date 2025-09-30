@@ -1,15 +1,12 @@
 # Luc Hens
 
-Until my retirement I was a professor of economics at the Vrije Universiteit Brussel.  
-
-### Personal microculture
-My interests—other than economics and statistics—include books, music, movies, running, and computing.   [Here](about_me.html)’s a map of my personal microculture. And [here](book_recommendations.html)’s a list of accessible books on economics and statistics and some of my favorite podcasts.
+Until my retirement I was a professor of economics at the Vrije Universiteit Brussel.  My interests—other than economics and statistics—include books, music, movies, running, and computing.   Here’s a map of my [personal microculture](about_me.html). And [here](book_recommendations.html)’s a list of accessible books on economics and statistics and some of my favorite podcasts.
 
 ### Research 
 For a list of publications see my [Open Researcher and Contributor ID  (ORCID) page](https://orcid.org/0000-0003-4881-9317). 
  
 ### Teaching
-I taught a range of courses in economics and statistics:
+I taught a range of courses in economics and statistics. Most recently:
 * Course syllabi (2024&ndash;2025) of:
  [Economics for Business](economics_for_business_syllabus_2024_2025.pdf) &mdash; [Introduction to Macroeconomics](introduction_to_macroeconomics_syllabus_2024_2025.pdf) &mdash; [Statistics for Business and Economics I](statistics_i_syllabus_2024_2025.pdf) &mdash; [Inleiding tot de Macro-economie](inleiding_tot_de_macro_economie_studiewijzer_2024_2025.pdf) &mdash; [Statistiek I voor de Bedrijfseconomische Wetenschappen](statistiek_i_studiewijzer_2024_2025.pdf)
  * Python code (in a Jupyter notebook) for introductory statistics: [view notebook](https://nbviewer.org/github/luc-hens/luc-hens.github.io/blob/main/statistics_i_using_python.ipynb#)  &mdash;&mdash; [download notebook](statistics_i_using_python.ipynb)
