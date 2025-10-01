@@ -1,6 +1,6 @@
 # Luc Hens
 
-Until my retirement I was a professor of economics at the Vrije Universiteit Brussel.  My interests—other than economics and statistics—include books, music, movies, running, and computing.   [Here](about_me.html)’s a map of my **[personal microculture](about_me.html)**. And [here](book_recommendations.html)’s a list of accessible books on economics and statistics and some of my favorite podcasts.
+Until my retirement I was a professor of economics at the Vrije Universiteit Brussel.  My interests—other than economics—include books (math, physics, science fiction, statistics), music, running, and computing.   [Here](about_me.html)’s a map of my **[personal microculture](about_me.html)**. And [here](book_recommendations.html)’s a list of accessible books on economics and statistics and some of my favorite podcasts.
 
 ### Research 
 For a list of publications see my [Open Researcher and Contributor ID  (ORCID) page](https://orcid.org/0000-0003-4881-9317). 
