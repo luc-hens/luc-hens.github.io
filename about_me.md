@@ -1,7 +1,7 @@
 [Home](index.html)
 
 # About me
-My interests&mdash;other than economics&mdash;include books (on math, physics, science fiction, statistics and more), music, movies, running, and computing. Here is a map of my personal microculture. 
+My interests&mdash;other than economics&mdash;include books (math, statistics, physics, science fiction, and more), music, movies, running, and computing. Here is a map of my personal microculture. 
 
 ### Books
 People whose ideas have influenced me: Fr&eacute;d&eacute;ric Bastiat, Richard Feynman, Milton Friedman, Friedrich Hayek, Christopher Hitchens, Steve Jobs, Deirdre McCloskey, Michel de Montaigne, Karl Popper, Carl Sagan, Adam Smith, Benedictus de Spinoza, Edward Tufte.
