@@ -1,6 +1,5 @@
 [Home](index.html)
 
-# About me
 My interests&mdash;other than economics&mdash;include books (math, statistics, physics, science fiction, and more), music, movies, running, and computing. Here is a map of my [personal microculture](https://www.themarginalian.org/2012/02/24/william-gibson-personal-micro-culture/). 
 
 ### Books
