@@ -6,7 +6,8 @@ My interests&mdash;other than economics&mdash;include books (math, statistics, p
 People whose ideas have influenced me: Fr&eacute;d&eacute;ric Bastiat, Richard Feynman, Milton Friedman, Friedrich Hayek, Christopher Hitchens, Steve Jobs, Deirdre McCloskey, Michel de Montaigne, Karl Popper, Carl Sagan, Adam Smith, Benedictus de Spinoza, Edward Tufte.
 
 Currently reading: 
-* Tolkien, J.R.R. (1954). *The Return of the King*, volume 3 of *The Lord of the Rings*. HarperCollinsPublishers, London.
+* Highsmith, P. (2021). *Under A Dark Angel’s Eye: The Selected Stories of Patricia Highsmith.* Virago, London.
+* Schelling, T. C. (1993). *Micromotives and Macrobehavior.* Oxford University Press, New York.
 
 Desert-island books:
 * Marcus Aurelius, *Meditations*
