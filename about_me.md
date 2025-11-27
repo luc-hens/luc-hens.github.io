@@ -1,12 +1,12 @@
 [Home](index.html)
 
-My interests&mdash;other than economics&mdash;include books (math, statistics, physics, science fiction, and more), music, movies, running, and computing. Here is a map of my [personal microculture](https://www.themarginalian.org/2012/02/24/william-gibson-personal-micro-culture/). 
+My interests&mdash;other than economics and statistics&mdash;include books (math, statistics, physics, science fiction, and more), music, movies, running, and computing. Here is a map of my **personal microculture** [*](https://www.themarginalian.org/2012/02/24/william-gibson-personal-micro-culture/). 
 
 ### Books
 People whose ideas have influenced me: Fr&eacute;d&eacute;ric Bastiat, Richard Feynman, Milton Friedman, Friedrich Hayek, Christopher Hitchens, Steve Jobs, Deirdre McCloskey, Michel de Montaigne, Karl Popper, Carl Sagan, Adam Smith, Benedictus de Spinoza, Edward Tufte.
 
 Currently reading: 
-* Highsmith, P. (2021). *Under A Dark Angel’s Eye: The Selected Stories of Patricia Highsmith.* Virago, London.
+* Mi&eacute;ville, C. (2025). *The City &amp; The City*. Picador, London.
 * Schelling, T. C. (1993). *Micromotives and Macrobehavior.* Oxford University Press, New York.
 
 Desert-island books:
