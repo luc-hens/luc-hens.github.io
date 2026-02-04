@@ -2,7 +2,9 @@
 
 ### Marathons:  
                   
-         19 Apr 2026   Leuven .........................         
+         
+         18 Oct 2026   Antwerpen ......................  
+         19 Apr 2026   Leuven .........................          
     36   12 Oct 2025   Chicago ........................  4:15:45
     35   13 Apr 2025   European Running Championships..  4:17:55
     34   28 Jul 2024   San Francisco ..................  4:23:00
