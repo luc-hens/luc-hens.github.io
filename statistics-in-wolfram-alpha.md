@@ -6,7 +6,7 @@ Author: Luc Hens.
 
 Version: 20 December 2021
 
-The WolframAlpha web page ([link](https://wolframalpha.com)) is the front end of a knowledge engine that (among many other things) is a powerful and user-friendly statistical calculator. On a smartphone or tablet use the [mobile version](https://m.wolframalpha.com) in a browser, or the WolframAlpha app or the Wolfram Statistics Course Assistant app (about &euro;2-3 each). Below are some examples of WolframAlpha input to do some basic statistical calculations. More examples [here](https://www.wolframalpha.com/examples/mathematics/statistics).
+The WolframAlpha web page ([link](https://wolframalpha.com)) is the front end of a knowledge engine that (among many other things) is a powerful and user-friendly statistical calculator. On a smartphone or tablet use the [mobile version](https://m.wolframalpha.com) in a browser, or the WolframAlpha app or the Wolfram Statistics Course Assistant app (about &euro;2-3 each). Below are some examples of WolframAlpha input to do some basic statistical calculations. More examples [here](https://www.wolframalpha.com/examples/mathematics/statistics/).
 
 
 | What you want to find                         |  WolframAlpha input                    |
